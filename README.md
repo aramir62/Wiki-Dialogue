@@ -21,7 +21,7 @@ This is the official repository for the KG-NLG-DA dataset. The dataset contains 
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  | name   | 1-2 |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  |  name, rating   | 1 -2  |
 
-### Music  and Sports
+### Music  
 |   |  |  Album| |  Musician  | |  Athlete | |   Sports Team | |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
@@ -35,7 +35,9 @@ This is the official repository for the KG-NLG-DA dataset. The dataset contains 
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  | name   | 1  |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  | name, rating   | 1  |
 
-### TV and Board Games
+### Sports
+
+### TV
 |   |  | TV Actor | |  TV Show  | | Board Games| |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
@@ -49,6 +51,20 @@ This is the official repository for the KG-NLG-DA dataset. The dataset contains 
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  |
 
+### Board Games 
+
+|   |  | Board Games| |
+| ------------- | ------------- |------------- | ------------- |
+| DA  | NUM Slots | Mandatory Slots | Hops |
+| inform  | 3-8  | name, genres  |  1  | 
+| confirm  | 2-3 | name   | 1  |
+| give_opinion  | 3-5  | name, rating   | 1  | 
+| recommend  | 2-3  | name   | 1  | 
+| request  | 1-2  | specifier   | 1  | 
+| request attribute | 1  | -   | 1  | 
+| request explanation | 2-3  | rating  | 1  | 
+| suggest  | 2-3  | name   | 1  | 
+| verify attribute  | 3-4  | name, rating   | 1  |  
 ### Animals
 |   |  | Wild Animals | |  Cats | | Dogs| |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
