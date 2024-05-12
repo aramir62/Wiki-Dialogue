@@ -6,18 +6,18 @@ This is the official repository for the KG-NLG-DA dataset. The dataset contains 
 
 ## Characterics About the Dataset 
 
-|   |  | Viggo | |
+|   |  |  Viggo  |
 | ------------- | ------------- |------------- | ------------- |
 | DA  | NUM Slots | Mandatory Slots | Hops |
-| inform  | Content Cell  | Content Cell  |  Content Cell  |
-| confirm  | Content Cell  | Content Cell   | Content Cell  |
-| give_opinion  | Content Cell  | Content Cell   | Content Cell  |
-| recommend  | Content Cell  | Content Cell   | Content Cell  |
-| request  | Content Cell  | Content Cell   | Content Cell  |
-| request attribute | Content Cell  | Content Cell   | Content Cell  |
-| request explanation | Content Cell  | Content Cell   | Content Cell  |
-| suggest  | Content Cell  | Content Cell   | Content Cell  |
-| verify attribute  | Content Cell  | Content Cell   | Content Cell  |
+| inform  | 3-8  | name, genres  |  1  |
+| confirm  | 2-3 | name   | 1  |
+| give_opinion  | 3-5  | name, rating   | 1  |
+| recommend  | 2-3  | name   | 1  |
+| request  | 1-2  | specifier   | 1  |
+| request attribute | 1  | -   | 1  |
+| request explanation | 2-3  | rating  | 1  |
+| suggest  | 2-3  | name   | 1  |
+| verify attribute  | 3-4  | name, rating   | 1  |
 
 
 
