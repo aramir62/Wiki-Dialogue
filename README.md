@@ -4,11 +4,12 @@
 This is the official repository for the KG-NLG-DA dataset. The dataset contains data and text pairs where the data is a set of triples extracted primarily from WikiDATA, except for the animals domain which triples are extracted from API Ninjas. 
 
 
-## Hops and Shapes 
+## Charactistics of KG-NLG-DA
 
+### Hops and Shapes of the Data
 Hops are..
 Shapes are .. WebNLG 
-### Movies
+#### Movies
 
 |   |  |  Movies  | | Movie Actor | | 
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | 
@@ -23,7 +24,7 @@ Shapes are .. WebNLG
 | suggest  | 2-3  | name   | 1  | name   | 1  | 
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |  
 
-### Music  
+#### Music  
 |   |  |  Album| |  Musician  | |  Athlete | |   Sports Team | |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
@@ -37,9 +38,9 @@ Shapes are .. WebNLG
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  | name   | 1  |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  | name, rating   | 1  |
 
-### Sports
+#### Sports
 
-### TV
+#### TV
 |   |  | TV Actor | |  TV Show  | | Board Games| |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
@@ -53,7 +54,7 @@ Shapes are .. WebNLG
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  |
 
-### Board Games 
+#### Board Games 
 
 |   |  | Board Games| |
 | ------------- | ------------- |------------- | ------------- |
@@ -67,7 +68,7 @@ Shapes are .. WebNLG
 | request explanation | 2-3  | rating  | 1  | 
 | suggest  | 2-3  | name   | 1  | 
 | verify attribute  | 3-4  | name, rating   | 1  |  
-### Animals
+#### Animals
 |   |  | Wild Animals | |  Cats | | Dogs| |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
@@ -81,7 +82,7 @@ Shapes are .. WebNLG
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  | 
 
-### Art
+#### Art
 |   |  | Painters | |  Paintings | | | |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
