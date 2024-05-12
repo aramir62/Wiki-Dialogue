@@ -6,7 +6,7 @@ This is the official repository for the KG-NLG-DA dataset. The dataset contains 
 
 ## Characterics About the Dataset 
 
-|   |  |  Viggo  |
+|   |  |  Viggo  | |
 | ------------- | ------------- |------------- | ------------- |
 | DA  | NUM Slots | Mandatory Slots | Hops |
 | inform  | 3-8  | name, genres  |  1  |
