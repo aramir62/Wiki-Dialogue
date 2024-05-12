@@ -19,7 +19,7 @@ This is the official repository for the KG-NLG-DA dataset. The dataset contains 
 | suggest  | 2-3  | name   | 1  | name   | 1  | name   | 1  | name   | 1-2 |
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |   name, rating   | 1  |  name, rating   | 1 -2  |
 
-|   |  |  Album| |  Musician  | |  Athlete | | Athlete |  Sports Team |
+|   |  |  Album| |  Musician  | |  Athlete | |   Sports Team | |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  name, genres  |  1 -3  | name, genres  |  1 -3  |
