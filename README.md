@@ -1,7 +1,7 @@
-# KG-NLG-DA Dataset
+# Wiki-Dialogue Dataset
 
 ## Overview 
-This is the official repository for the KG-NLG-DA dataset. The dataset contains data and text pairs where the data is a set of triples extracted primarily from WikiDATA, except for the animals domain which triples are extracted from API Ninjas. 
+This is the official repository for the Wiki-Dialogue dataset. The dataset contains data and text pairs where the data is a set of triples extracted primarily from WikiDATA, except for the animals domain which triples are extracted from API Ninjas. 
 
 Overall, there are 7 domains with their own set of entities, Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete, Sports Team), TV (TV Shows, TV Actirs) , Board Games (Board Games), Animals (Wild Animals, Cats, Dogs) , and Art (Paintings and Painters). This is a synthetic dataset of 71K knowledge-grounded dialogue acts for natural language generation. 
 
