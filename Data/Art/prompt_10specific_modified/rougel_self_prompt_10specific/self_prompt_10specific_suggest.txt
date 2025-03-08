@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of paintings. In the response, ask your friend if he or she has experience with a certain type of paintings, suggesting the given painting as an example of such a painting. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the painting name at the end as an example. Make sure you ask about the general category of paintings corresponding to the given attributes, not the example painting directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such paintings, and not that your friend does not like the given painting.
+
+
+Data: Lochis Madonna  creator Titian. 
+
+Data to Text for <suggest>: Have you seen any paintings by Titian, like the Lochis Madonna?
+
+
+Data: Soft Construction with Boiled Beans  materials canvas, oil paint. Soft Construction with Boiled Beans  creator Salvador Dalí. 
+
+Data to Text for <suggest>: Have you ever tried painting on canvas with oil paints, similar to Salvador Dalí's Soft Construction with Boiled Beans?
+
+
+Data: Water Lilies  genres landscape art. Water Lilies  movements Impressionism. 
+
+Data to Text for <suggest>: I was wondering if you enjoy landscape art in the Impressionism movement, like Water Lilies?
+
+
+Data: Judith Beheading Holofernes  genres religious art. 
+
+Data to Text for <suggest>: Are you familiar with religious art paintings, such as Judith Beheading Holofernes?
+
+
+Data: Seated Nude  creator Amedeo Modigliani. Seated Nude  location Royal Museum of Fine Arts Antwerp. 
+
+Data to Text for <suggest>: Have you ever been to the Royal Museum of Fine Arts in Antwerp to see works by Amedeo Modigliani, such as Seated Nude?
+
+
+Data: Mont Sainte-Victoire seen from Bellevue  materials canvas, oil paint. Mont Sainte-Victoire seen from Bellevue  creator Paul Cézanne. 
+
+Data to Text for <suggest>: I was wondering if you have any experience with paintings on canvas using oil paint, like those created by Paul Cézanne, for example Mont Sainte-Victoire seen from Bellevue?
+
+
+Data: Van Gogh's Chair  movements post-impressionism. Van Gogh's Chair  genres still life. 
+
+Data to Text for <suggest>: Do you enjoy post-impressionism still life paintings, like Van Gogh's Chair?
+
+
+Data: Café Terrace at Night  genres cityscape. 
+
+Data to Text for <suggest>: Have you ever seen or painted a cityscape like in Café Terrace at Night?
+
+
+Data: The Birth of Venus  location Uffizi Gallery. The Birth of Venus  movements Renaissance, Early Renaissance. 
+
+Data to Text for <suggest>: I was wondering if you've had the chance to see any Renaissance or Early Renaissance artworks at the Uffizi Gallery, such as The Birth of Venus?
+
+
+Data: The Haywain Triptych  location Museo del Prado. 
+
+Data to Text for <suggest>: Have you ever visited Museo del Prado in Madrid, where you can see works of art like The Haywain Triptych?
+

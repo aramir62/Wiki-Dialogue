@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a painting. In the response, ask for a confirmation of the given painting by referring to its attributes. Imagine that the painting's name has just been mentioned in the conversation, but you know of multiple paintings with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the painting, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the painting your friend had in mind, and not that the attribute is not true about the given game.
+
+
+Data: View of Toledo  creator El Greco. View of Toledo  inception 1596. View of Toledo  location Metropolitan Museum of Art. 
+
+Data to Text for <confirm>: Is the painting you're referring to El Greco's "View of Toledo" from 1596, located in the Metropolitan Museum of Art?
+
+
+Data: Soft Construction with Boiled Beans  creator Salvador Dalí. Soft Construction with Boiled Beans  materials canvas, oil paint. Soft Construction with Boiled Beans  movements surrealism. 
+
+Data to Text for <confirm>: So, Salvador Dalí's painting, Soft Construction with Boiled Beans, which is a surrealism piece on canvas with oil paint?
+
+
+Data: Young Spartans Exercising  creator Edgar Degas. Young Spartans Exercising  location National Gallery. 
+
+Data to Text for <confirm>: Did you mean Young Spartans Exercising by Edgar Degas at the National Gallery?
+
+
+Data: The Starry Night  creator Vincent van Gogh. The Starry Night  movements post-impressionism. 
+
+Data to Text for <confirm>: So, The Starry Night by Vincent van Gogh, known for its post-impressionism movement?
+
+
+Data: Judith Beheading Holofernes  creator Caravaggio. Judith Beheading Holofernes  inception 1599. 
+
+Data to Text for <confirm>: So, are we talking about Caravaggio's Judith Beheading Holofernes from 1599?
+
+
+Data: Portrait of Innocent X  creator Diego Velázquez. Portrait of Innocent X  inception 1640. Portrait of Innocent X  genres portrait. 
+
+Data to Text for <confirm>: When you mentioned Portrait of Innocent X, were you referring to the portrait created by Diego Velázquez in 1640?
+
+
+Data: Saturn Devouring His Son  creator Francisco Goya. Saturn Devouring His Son  materials mixed technique, canvas, wall. 
+
+Data to Text for <confirm>: Did you mean Francisco Goya's Saturn Devouring His Son, made using a mixed technique on canvas or wall?
+
+
+Data: The Haywain Triptych  creator Hieronymus Bosch. The Haywain Triptych  movements Early Netherlandish painting. The Haywain Triptych  inception 1510. 
+
+Data to Text for <confirm>: The Haywain Triptych by Hieronymus Bosch, the Early Netherlandish painting created in 1510?
+
+
+Data: A Burial at Ornans  creator Gustave Courbet. A Burial at Ornans  inception 1841. 
+
+Data to Text for <confirm>: So, A Burial at Ornans by Gustave Courbet from 1841?
+
+
+Data: The Tiger Hunt  creator Peter Paul Rubens. The Tiger Hunt  genres genre art. The Tiger Hunt  location Museum of Fine Arts of Rennes. 
+
+Data to Text for <confirm>: Is The Tiger Hunt you're talking about the genre art painting by Peter Paul Rubens located in the Museum of Fine Arts of Rennes?
+

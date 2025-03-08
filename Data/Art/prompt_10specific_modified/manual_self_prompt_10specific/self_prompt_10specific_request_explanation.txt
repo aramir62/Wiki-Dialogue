@@ -1,0 +1,51 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of paintings. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of paintings. Assume your friend has indicated his or her sentiment about the kind of paintings earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of paintings determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: paintings rating excellent. paintings  materials canvas, oil paint. paintings  movements post-impressionism.  
+
+Data to Text for <request_explanation>: What is it about post-impressionist paintings on canvas with oil paint that you find so excellent?
+
+
+Data: paintings rating good. paintings  creator Berthe Morisot. paintings  movements Impressionism. 
+
+Data to Text for <request_explanation>: What do you enjoy about Berthe Morisot's Impressionist paintings that you find so good?
+
+
+Data: paintings rating poor. paintings  creator Diego Velázquez.
+
+Data to Text for <request_explanation>: What makes you dislike Diego Velázquez's paintings?
+
+
+Data: paintings rating poor. paintings  creator Lluís Dalmau. paintings  movements Gothic painting.
+
+Data to Text for <request_explanation>: Can you explain why you find Lluís Dalmau's Gothic paintings to be poor in quality?
+
+
+Data: paintings rating poor. paintings  creator J. M. W. Turner. paintings  genres history painting.
+
+Data to Text for <request_explanation>: Why do you find J.M.W. Turner's history paintings to be lacking?
+
+
+Data: paintings rating excellent. paintings  genres mythological painting. paintings  movements Romanticism.
+
+Data to Text for <request_explanation>: I remember you mentioning that you absolutely love Romanticism mythological paintings. What is it about them that resonates with you so much?
+
+
+Data: paintings rating average. paintings  materials canvas, oil paint. paintings  movements literary realism.  
+
+Data to Text for <request_explanation>: I remember you mentioning that you find paintings with materials like canvas and oil paint to be just average. Can you explain to me why that is?
+
+
+Data: paintings rating average. paintings  genres religious art. 
+
+Data to Text for <request_explanation>: What is it about religious art paintings that you find average in comparison to other genres?
+
+
+Data: paintings rating good. paintings  materials oak panel, oil paint. paintings  genres portrait.
+
+Data to Text for <request_explanation>: I'm curious, what is it about portraits painted on oak panels with oil paint that you find so appealing?
+
+
+Data: paintings rating poor. paintings  creator Lluís Dalmau. paintings  movements Gothic painting.
+
+Data to Text for <request_explanation>: Can you explain why you find Lluís Dalmau's Gothic paintings to be poor in quality?

@@ -1,0 +1,51 @@
+description of <request>:  A casual prompt to start talking about a painting. In the response, prompt your friend to name a painting which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single painting, or a yes/no answer (followed by the name of a painting in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: paintings specifier captivating.
+
+Data to Text for <request>: Can you tell me about a painting that you found to be truly captivating?
+
+
+Data: paintings specifier beatiful. paintings  creator Raphael.
+
+Data to Text for <request>: What's the most beautiful painting by Raphael that comes to your mind right now?
+
+
+Data: paintings specifier captivating. paintings  movements Venetian school, High Renaissance. 
+
+Data to Text for <request>: Can you think of a captivating painting from the Venetian school or the High Renaissance movement?
+
+
+Data: paintings specifier overrated. paintings  creator Lluís Dalmau.
+
+Data to Text for <request>: In your opinion, which painting by Lluís Dalmau do you find to be the most overrated?
+
+
+Data: paintings specifier bizarre. paintings  location Museum Boijmans Van Beuningen.
+
+Data to Text for <request>: Can you recall a bizarre painting from the Museum Boijmans Van Beuningen?
+
+
+Data: paintings specifier stimulating. paintings  location National Gallery. 
+
+Data to Text for <request>: What painting at the National Gallery do you find most stimulating?
+
+
+Data: paintings specifier captivating. paintings  materials paper, canvas, oil paint. 
+
+Data to Text for <request>: Can you name a painting that you find truly captivating, made with paper, canvas, and oil paint?
+
+
+Data: paintings specifier relaxing. paintings  genres history painting.
+
+Data to Text for <request>: Do you have a favorite relaxing history painting that you like to look at?
+
+
+Data: paintings specifier timeless. paintings  movements Venetian school.
+
+Data to Text for <request>: Do you know of any timeless paintings from the Venetian school?
+
+
+Data: paintings specifier cheerful. paintings  location Museum of Fine Arts of Rennes.
+
+Data to Text for <request>: Is there a cheerful painting at the Museum of Fine Arts of Rennes that you really enjoyed?

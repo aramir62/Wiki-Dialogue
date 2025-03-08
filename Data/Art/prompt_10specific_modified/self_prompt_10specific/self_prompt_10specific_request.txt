@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a painting. In the response, prompt your friend to name a painting which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single painting, or a yes/no answer (followed by the name of a painting in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: paintings specifier original. paintings  location National Gallery. 
+
+Data to Text for <request>: Can you think of an original painting from the National Gallery that you'd like to discuss?
+
+
+Data: ppaintings specifier bizarre. 
+
+Data to Text for <request>: Got any weird and bizarre paintings in mind that you'd like to talk about?
+
+
+Data: paintings specifier overrated. paintings  location Milan. 
+
+Data to Text for <request>: Have you seen any overrated paintings in Milan?
+
+
+Data: paintings specifier underrated. paintings  creator Jean Auguste Dominique Ingres. 
+
+Data to Text for <request>: Which underrated painting by Jean Auguste Dominique Ingres do you think deserves more recognition?
+
+
+Data: paintings specifier stimulating. paintings  materials canvas, tempera. 
+
+Data to Text for <request>: Can you recommend a stimulating painting created on canvas with tempera materials?
+
+
+Data: paintings specifier overrated. paintings  movements Early Renaissance. 
+
+Data to Text for <request>: Are there any overrated paintings from the Early Renaissance movement that come to mind?
+
+
+Data: paintings specifier relaxing. paintings  genres history painting.
+
+Data to Text for <request>: Do you have a favorite relaxing history painting that you like to look at?
+
+
+Data: paintings specifier unremarkable. paintings  materials panel, tempera. 
+
+Data to Text for <request>: Was there ever a painting made with panel and tempera that you found to be unremarkable?
+
+
+Data: paintings specifier beatiful. paintings  genres landscape art. 
+
+Data to Text for <request>: Could you name a beautiful landscape painting that really captures your attention?
+
+
+Data: paintings specifier captivating. paintings  creator Eugène Delacroix. 
+
+Data to Text for <request>: Which captivating painting by Eugène Delacroix stands out to you the most?
+
