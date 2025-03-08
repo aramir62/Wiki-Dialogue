@@ -26,7 +26,7 @@ Shapes are .. WebNLG
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |  
 
 #### Music  
-|   |  |  Album| |  Musician  | |  Athlete | |   
+|   |  |  Album| |  Musician  | |  Song Name| |   
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | 
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  name, genres  |  1 -3  | 
