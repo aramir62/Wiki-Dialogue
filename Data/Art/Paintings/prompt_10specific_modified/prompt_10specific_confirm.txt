@@ -1,0 +1,51 @@
+description of <confirm>: A question trying to confirm a painting. In the response, ask for a confirmation of the given painting by referring to its attributes. Imagine that the painting's name has just been mentioned in the conversation, but you know of multiple paintings with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the painting, not the attribute(s), nor the friend's opinion. In other words, a ""no"" answer to your question should mean that that is not the painting your friend had in mind, and not that the attribute is not true about the given game.
+
+
+Data: Layers of Fear genres adventure. Layers of Fear genres indie. Layers of Fear genres point-and-click. Layers of Fear player perspective first person.
+
+Data to Text for <confirm>: Are you referring to Layers of Fear, the first person indie point-and-click adventure game?
+
+
+Data: Horizon: Zero Dawn genres action-adventure. Horizon: Zero Dawn genres role-playing. Horizon: Zero Dawn genres shooter.
+
+Data to Text for <confirm>: By Horizon: Zero Dawn, do you mean the action-adventure shooter with role-playing elements?
+
+
+Data: Hellblade: Senua's Sacrifice platforms PC. Hellblade: Senua's Sacrifice available on steam yes.
+
+Data to Text for <confirm>: Are you talking about Hellblade: Senua's Sacrifice which is available on Steam for the PC?
+
+
+Data: Ancient Cities developer Uncasual Games. Ancient Cities genres simulation. Ancient Cities genres strategy. 
+
+Data to Text for <confirm>: Ancient Cities, the strategy sim developed by Uncasual Games?
+
+
+Data: Battlefield V has multiplayer yes.
+
+Data to Text for <confirm>: Are you referring to the Battlefield V that has a multiplayer option?
+
+
+Data: BioShock esrb M (for Mature). BioShock platforms PC.
+
+Data to Text for <confirm>: You mean the PC game BioShock, which is rated M (for Mature)?
+
+
+Data: Diablo II platforms PC. 
+
+Data to Text for <confirm>: You mentioned Diablo II, by that are you referring to the PC game?
+
+
+Data: FIFA 12 developer EA Canada. FIFA 12 genres simulation. FIFA 12 genres sport.
+
+Data to Text for <confirm>: Oh! So you're referring to the FIFA 12 sports simulation game from EA Canada?
+
+
+Data: Grand Theft Auto V player perspective third person.
+
+Data to Text for <confirm>: Do you mean the Grand Theft Auto V that has got a third person perspective?
+
+
+Data: Mafia release_year 2002. Mafia developer Illusion Softworks.
+
+Data to Text for <confirm>: Are you talking about Illusion Softworks' Mafia from 2002?

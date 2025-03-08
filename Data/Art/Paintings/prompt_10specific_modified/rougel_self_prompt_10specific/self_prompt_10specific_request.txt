@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a painting. In the response, prompt your friend to name a painting which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single painting, or a yes/no answer (followed by the name of a painting in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: paintings specifier original. paintings  location National Gallery. 
+
+Data to Text for <request>: Can you think of an original painting from the National Gallery that you'd like to discuss?
+
+
+Data: paintings specifier favourite. paintings  creator Marie-Guillemine Benoist. 
+
+Data to Text for <request>: What's your all-time favorite painting by Marie-Guillemine Benoist?
+
+
+Data: paintings specifier overrated. paintings  location Milan. 
+
+Data to Text for <request>: Have you seen any overrated paintings in Milan?
+
+
+Data: paintings specifier underrated. paintings  creator Jean Auguste Dominique Ingres. 
+
+Data to Text for <request>: Which underrated painting by Jean Auguste Dominique Ingres do you think deserves more recognition?
+
+
+Data: paintings specifier stimulating. paintings  materials canvas, tempera. 
+
+Data to Text for <request>: Can you recommend a stimulating painting created on canvas with tempera materials?
+
+
+Data: paintings specifier overrated. paintings  movements Early Renaissance. 
+
+Data to Text for <request>: Are there any overrated paintings from the Early Renaissance movement that come to mind?
+
+
+Data: paintings specifier favourite. paintings  location Royal Museum of Fine Arts Antwerp. 
+
+Data to Text for <request>: What's your favorite painting at the Royal Museum of Fine Arts Antwerp?
+
+
+Data: paintings specifier underrated. paintings  creator J. M. W. Turner. 
+
+Data to Text for <request>: Do you think J. M. W. Turner has any underrated paintings worth discussing?
+
+
+Data: paintings specifier beatiful. paintings  genres landscape art. 
+
+Data to Text for <request>: Could you name a beautiful landscape painting that really captures your attention?
+
+
+Data: paintings specifier captivating. paintings  creator Eugène Delacroix. 
+
+Data to Text for <request>: Which captivating painting by Eugène Delacroix stands out to you the most?
+

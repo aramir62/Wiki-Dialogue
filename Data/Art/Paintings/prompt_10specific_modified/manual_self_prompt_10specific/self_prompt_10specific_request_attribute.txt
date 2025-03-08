@@ -1,0 +1,51 @@
+description of <request_attribute>: A question about a preference in a certain painting's characteristic.
+
+
+Data: paintings movements .
+
+Data to Text for <request_attribute>: Which art movement do you prefer when it comes to paintings?
+
+
+Data: paintings creator .
+
+Data to Text for <request_attribute>: Who is the artist or creator of your favorite painting?
+
+
+Data: paintings genres .
+
+Data to Text for <request_attribute>: What genres do you enjoy in paintings?
+
+
+Data: paintings materials .
+
+Data to Text for <request_attribute>: What are your preferred materials used in paintings?
+
+
+Data: paintings movements .
+
+Data to Text for <request_attribute>: Which art movement do you prefer when it comes to paintings?
+
+
+Data: paintings creator .
+
+Data to Text for <request_attribute>: Who is your favorite painter or artist when it comes to creating artworks?
+
+
+Data: paintings genres .
+
+Data to Text for <request_attribute>: What are the genres of paintings that you are most interested in?
+
+
+Data: paintings materials .
+
+Data to Text for <request_attribute>: What type of materials do you prefer to see used in paintings?
+
+
+Data: paintings movements .
+
+Data to Text for <request_attribute>: Which artistic movement in painting do you find most appealing?
+
+
+Data: paintings genres .
+
+Data to Text for <request_attribute>: What genres of paintings do you typically prefer?

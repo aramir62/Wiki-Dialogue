@@ -1,0 +1,50 @@
+description of <reccommend>: A question asking if your friend is familiar with a painting you would recommend. In the response, bring up the given painting (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as ""..., I was wondering if...""). Make sure you ask about the painting, not the attribute(s), nor the friend's opinion. In other words, a ""no"" answer to your question should mean that your friend has not seen/heard about the painting, and not that the attribute is not true about the given painting or that your friend does not like the painting.
+
+
+Data: Judith Beheading Holofernes  creator Caravaggio. Judith Beheading Holofernes  movements Baroque.
+
+Data to Text for <recommend>: I remember you mentioned you like Baroque paintings, so I was wondering if you're familiar with Caravaggio's piece, Judith Beheading Holofernes?
+
+Data: The Starry Night  creator Vincent van Gogh. The Starry Night  genres landscape art. The Starry Night  inception 1889.
+
+Data to Text for <recommend>: Vincent van Gogh's painting, The Starry Night, is a beautiful piece of landscape art from 1889. Have you had the chance to see it before?
+
+
+Data: Spoliarium  creator Juan Luna. Spoliarium  inception 1884. Spoliarium  movements academic art.
+
+Data to Text for <recommend>: Remember when we were discussing academic art movements? I was thinking, have you heard of the painting Spoliarium by Juan Luna? It's a classic from 1884.
+
+
+Data: Seated Nude  creator Amedeo Modigliani. Seated Nude  genres nude. Seated Nude  location Royal Museum of Fine Arts Antwerp.
+
+Data to Text for <recommend>: I was reading about this painting by Amedeo Modigliani called Seated Nude, have you seen it at the Royal Museum of Fine Arts Antwerp?
+
+
+Data: David and Goliath  creator Caravaggio. David and Goliath  genres religious art. David and Goliath  materials canvas, oil paint. 
+
+Data to Text for <recommend>: I was just thinking about the painting "David and Goliath" by Caravaggio, it's a masterpiece of religious art made with canvas and oil paint. Have you ever seen it before?
+
+
+Data: David and Goliath  creator Caravaggio. David and Goliath  location Museo del Prado. David and Goliath  materials canvas, oil paint. 
+
+Data to Text for <recommend>: Would you believe David and Goliath, created by Caravaggio, is displayed at the Museo del Prado? It's an amazing painting made of canvas and oil paint, have you seen it yet?
+
+
+Data: Count Lepic and His Daughters  creator Edgar Degas. Count Lepic and His Daughters  inception 1870. Count Lepic and His Daughters  materials canvas, oil paint.
+
+Data to Text for <recommend>: I came across a painting by Edgar Degas called Count Lepic and His Daughters, it's from 1870 and done in oil on canvas. Have you had a chance to see it yet?
+
+
+Data: Cupid and Psyche  creator François Gérard. Cupid and Psyche  movements neoclassicism.
+
+Data to Text for <recommend>: Considering your interest in neoclassicism and François Gérard's work, have you come across the painting Cupid and Psyche before?
+
+
+Data: Supper at Emmaus  creator Caravaggio. Supper at Emmaus  materials oil paint. Supper at Emmaus  location Milan.
+
+Data to Text for <recommend>: I was admiring Caravaggio's painting, Supper at Emmaus. Have you had the chance to see it in Milan?
+
+
+Data: Water Lilies  creator Claude Monet. Water Lilies  movements Impressionism. Water Lilies  genres landscape art.
+
+Data to Text for <recommend>: I remember we were talking about Impressionism and landscape art earlier, so I was wondering if you're familiar with Claude Monet's painting, Water Lilies?
