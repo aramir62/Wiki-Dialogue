@@ -1,0 +1,51 @@
+description of <request_attribute>: A question about a preference in a certain gaming aspect/attribute from data. No extra information should be added in Data to Text for <request_attribute>:
+
+
+Data: board game publisher. board game domain board game.
+
+Data to Text for <request_attribute>: Which board game publisher do you think makes the best games in the board game domain?
+
+
+Data: board game game mechanics. board game domain board game.
+
+Data to Text for <request_attribute>: What game mechanics do you look for in a board game?
+
+
+Data: board game instance of. board game domain board game.
+
+Data to Text for <request_attribute>: What kind of board games do you like to play?
+
+
+Data: board game complexity rating. board game domain board game.
+
+Data to Text for <request_attribute>: What is the complexity rating for your favorite board game?
+
+
+Data: board game genre. board game domain board game.
+
+Data to Text for <request_attribute>: What genre of board games do you prefer?
+
+
+Data: board game developer. board game domain board game.
+
+Data to Text for <request_attribute>: Who is your favorite board game developer?
+
+
+Data: board game complexity rating. board game domain board game.
+
+Data to Text for <request_attribute>: What complexity rating would you say is ideal for a board game?
+
+
+Data: board game instance of. board game domain board game.
+
+Data to Text for <request_attribute>: What type of board game do you usually enjoy playing?
+
+
+Data: board game game mechanics. board game domain board game.
+
+Data to Text for <request_attribute>: What kind of game mechanics do you like the most when it comes to board games?
+
+
+Data: board game genre. board game domain board game.
+
+Data to Text for <request_attribute>: What genre of board games do you typically enjoy playing?

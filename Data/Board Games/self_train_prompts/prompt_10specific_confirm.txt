@@ -1,0 +1,51 @@
+description of <confirm>: Imagine that the game's name has just been mentioned in the conversation, but you know of multiple games with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. No extra information should be added in Data to Text for <confirm>:
+
+
+Data: Betrayal at House on the Hill instance of board game. Betrayal at House on the Hill domain board game.
+
+Data to Text for <confirm>: Are you talking about the board game Betrayal at House on the Hill?
+
+
+Data: A Game of Thrones publisher Fantasy Flight Games. A Game of Thrones instance of board game. A Game of Thrones domain board game.
+
+Data to Text for <confirm>: Are you referring to Fantasy Flight Games' A Game of Thrones board game?
+
+
+Data: Betrayal at House on the Hill genre cooperative board game. Betrayal at House on the Hill developer Bruce Glassco. Betrayal at House on the Hill domain board game.
+
+Data to Text for <confirm>: Are you talking about Bruce Glassco's cooperative board game, Betrayal at House on the Hill?
+
+
+Data: Axis and Allies publisher Avalon Hill. Axis and Allies alternate names Axis and Allies. Axis and Allies domain board game.
+
+Data to Text for <confirm>: Are you referring to the board game Axis and Allies, also known as Axis and Allies, published by Avalon Hill?
+
+
+Data: Thurn and Taxis publisher Hans im Glück. Thurn and Taxis developer Andreas Seyfarth. Thurn and Taxis domain board game.
+
+Data to Text for <confirm>: Are you referring to the board game Thurn and Taxis from developer Andreas Seyfarth and publisher Hans im Glück?
+
+
+Data: Lord of the Rings instance of board game. Lord of the Rings based on The Lord of the Rings. Lord of the Rings domain board game.
+
+Data to Text for <confirm>: Are you referring to the Lord of the Rings board game, based on The Lord of the Rings?
+
+
+Data: Carcassonne alternate names Carcassonne Jubilee Edition. Carcassonne genre German-style board game. Carcassonne domain board game.
+
+Data to Text for <confirm>: Are you referring to Carcassonne (or Carcassonne Jubilee Edition), the German-style board game?
+
+
+Data: Betrayal at House on the Hill genre horror fiction. Betrayal at House on the Hill instance of board game. Betrayal at House on the Hill domain board game.
+
+Data to Text for <confirm>: Are you referring to the horror fiction board game, Betrayal at House on the Hill?
+
+
+Data: Thurn and Taxis country of origin Germany. Thurn and Taxis instance of board game. Thurn and Taxis domain board game.
+
+Data to Text for <confirm>: Are you referring to the board game Thurn and Taxis from Germany?
+
+
+Data: Mystery Motive for Murder developer Bruce Glassco. Mystery Motive for Murder genre mystery fiction. Mystery Motive for Murder domain board game.
+
+Data to Text for <confirm>: Are you referring to Mystery Motive for Murder, the Bruce Glassco mystery fiction board game?

@@ -1,0 +1,50 @@
+description of <inform>: A summary of the board game based on the information provided in attribute data. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the Data. No extra information should be added in Data to Text for <inform>:
+
+
+Data: Spirit Island genre cooperative board game. Spirit Island complexity rating advanced. Spirit Island maximum playing time 120. Spirit Island instance of board game. Spirit Island domain board game.
+
+Data to Text for <inform>: Dirt: Spirit Island is an advanced cooperative board game with a maximum playing time of 120 minutes.
+
+
+Data: Axis and Allies genre board wargame. Axis and Allies minimum playing time 180. Axis and Allies minimum number of players 2. Axis and Allies publication year 1981. Axis and Allies alternate names Axis and Allies. Axis and Allies domain board game.
+
+Data to Text for <inform>: Axis and Allies, also known as Axis and Allies, is a board wargame that requires a minimum time of 180 minutes and at least 2 players. It was published in 1981.
+
+
+Data: Afrikan tähti genre roll-and-move. Afrikan tähti instance of board game. Afrikan tähti maximum number of players 6. Afrikan tähti domain board game.
+
+Data to Text for <inform>: Afrikan tähti is a roll-and-move board game for up to 6 players.
+
+
+Data: Age of Empires II: Mystery Motive for Murder genre mystery fiction. Mystery Motive for Murder instance of board game. Mystery Motive for Murder average rating average. Mystery Motive for Murder minimum playing time 30. Mystery Motive for Murder minimum number of players 1. Mystery Motive for Murder maximum playing time 90. Mystery Motive for Murder domain board game.
+
+Data to Text for <inform>: Mystery Motive for Murder is a mystery fiction board game with an average rating. It can be played in 30 to 90 minutes with a minimum of 1 player.
+
+
+Data: Sherlock Holmes Consulting Detective genre deduction game. Sherlock Holmes Consulting Detective maximum playing time 120. Sherlock Holmes Consulting Detective minimum playing time 60. Sherlock Holmes Consulting Detective domain board game.
+
+Data to Text for <inform>: Sherlock Holmes Consulting Detective is a deduction game that can be played in 60 to 120 minutes.
+
+
+Data: Thurn and Taxis genre historical board game. Thurn and Taxis publication year 2006. Thurn and Taxis average rating good. Thurn and Taxis domain board game.
+
+Data to Text for <inform>: Thurn and Taxis is a 2006 historical board game with a good rating.
+
+
+Data: Yomi genre card game. Yomi minimum playing time 30. Yomi instance of board game. Yomi maximum number of players 2. Yomi average rating average. Yomi alternate names Yomi: Fighting Card Game. Yomi complexity rating complex. Yomi domain board game.
+
+Data to Text for <inform>:  Yomi: Fighting Card Game, also known as Yomi, is a complex board game that can be played with two players in a minimum of 30 minutes. It has an average rating.
+
+
+Data: Star Realms genre science fiction. Star Realms publication year 2014. Star Realms instance of board game. Star Realms domain board game.
+
+Data to Text for <inform>: Star Realms is a science fiction board game from 2014.
+
+
+Data: War of 1812 genre wargame. War of 1812 instance of board game. War of 1812 average rating average. War of 1812 complexity rating complex. War of 1812 maximum number of players 2. War of 1812 publisher Columbia Games. War of 1812 domain board game.
+
+Data to Text for <inform>: War of 1812 is a complex wargame board game published by Columbia Games. It typically takes 2 players and has an average rating.
+
+Data: Lord of the Rings genre fantasy. Lord of the Rings based on The Lord of the Rings. Lord of the Rings instance of board game. Lord of the Rings complexity rating simple. Lord of the Rings minimum playing time 20. Lord of the Rings domain board game.
+
+Data to Text for <inform>: Lord of the Rings is a simple fantasy board game based on The Lord of the Rings. It has a minimum playing time of 20 minutes.
