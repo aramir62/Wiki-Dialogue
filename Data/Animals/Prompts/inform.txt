@@ -1,0 +1,52 @@
+description of <inform>: A summary of the enitity based on the information provided in attribute data. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. No extra information should be added in Data to Text for <inform>:
+
+
+
+Data: Scorpion Fish predators Sharks, snappers, and rays. Scorpion Fish domain animals.
+
+Data to Text for <inform>:  The predators  of the Scorpion Fish  are typically Sharks, snappers, and rays.
+
+
+Data: Housefly weight Between 0.00007 and 0.0016 ounces. Housefly top speed 5 mph. Housefly gestation period one day. Housefly locations Oceania, Asia, Africa. Housefly predators Frogs, spiders, mites, birds. Housefly domain animals.
+
+Data to Text for <inform>:  The housefly weighs between  7 over 100000 and 16 pver 100000 ounces, and its  top speed is about 5 miles per hour. The gestation period of a house fly is only a single day. It is commonly found in Oceana, Asian and Africa and it's predators are  frogs, spiders, mites, and birds.
+
+
+Data: Hippopotamus estimated population size 150,000. Hippopotamus diet Herbivore. Hippopotamus locations Africa. Hippopotamus domain animals.
+
+Data to Text for <inform>: The Hippopotamus is an African Herbivore, with an estimated population of 150,000.
+
+
+Data: Sugar Glider litter size 1-2. Sugar Glider weight 0.1kg-0.25kg (0.25lbs-0.5lbs). Sugar Glider domain animals.
+
+Data to Text for <inform>:  The Sugar Glider has a small litter of only 1 or 2, and it weighs between a quarter and a half a pound.
+
+
+Data: Oyster Toadfish color Brown Yellow Black. Oyster Toadfish skin type Skin. Oyster Toadfish most distinctive feature The long mouth and big, bulging eyes. Oyster Toadfish other names oyster crackers. Oyster Toadfish gestation period a month. Oyster Toadfish domain animals.
+
+Data to Text for <inform>: The Cinnamon Ferret, also known simply as a Ferret, is a Norther American, social animal  that lives in groups, with individuals weighing between 2 and 5 pounds. Its babies are called Kits. Its predators are Coyotes, hawks, owls, and dogs but its biggest threat is loss of food source.
+
+
+Data: Mr. Brightside genres indie rock. Mr. Brightside publication year 2003. Mr. Brightside domain songs.
+
+Data to Text for <inform>: Mr. Brightside is an indie rock song from 2003.
+
+
+Data: Asian Vine Snake color Yellow Blue Green. Asian Vine Snake locations Asia. Asian Vine Snake estimated population size Unknown. Asian Vine Snake name of young Neonate or snakelets. Asian Vine Snake popularity very popular. Asian Vine Snake domain animals.
+
+Data to Text for <inform>: The Asian Vine Snake is a Yellow, Blue and Green snake that lives in Asia. Their numbers are not known but many people are very interested in them. Their young are called neonates or snakelets.
+
+
+Data: Old Town Road genre country music. Lisa Marie Presley genre country music. To Whom It May Concern performer Lisa Marie Presley. Old Town Road genre trap music.
+
+Data to Text for <inform>: Old Town Road is a country and trap music. Another example of country musica can be To whom it May Concern by Lisa Marie Presley.
+
+
+Data: Black-Capped Chickadee locations North-America. Black-Capped Chickadee height 4 - 6 inches. Black-Capped Chickadee color Brown Grey Black White. Black-Capped Chickadee diet Omnivore. Black-Capped Chickadee other names Chickadee. Black-Capped Chickadee lifespan 3 - 11.5 years. Black-Capped Chickadee domain animals.
+
+Data to Text for <inform>: The Black-Capped Chickadee, also known simply as a Chickadee, is native to North-America and is typically about 4 to 6 inches tall. It has a black cap on its head and it's body is brown, grey, black and white.  It eats everything. Black-Capped Chickadees typically live bteween 3 and 11.5 years.
+
+
+Data: Sea Otter weight 14-45kg (30-100lbs). Sea Otter slogan Eats over 40 different marine species!. Sea Otter favorite food Sea Urchins. Sea Otter domain animals.
+
+Data to Text for <inform>:  The Sea Otter  Eats over 40 different marine species, and it's favorite food is Sea Urchins. They are bigger than you might think, with a typical weight of   fourteen to forty five kilograms, which is 30 to 100 pounds.

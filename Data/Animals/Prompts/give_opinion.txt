@@ -1,0 +1,52 @@
+description of <give opinion>: An expression of opinion along with its justification.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification.The justification will also be based on the given attributes.No extra information should be added in Data to Text for <give opinion>:
+
+
+Data: Eastern Indigo Snake popularity very popular. Eastern Indigo Snake weight Up to 11 pounds. Eastern Indigo Snake biggest threat Habitat loss. Eastern Indigo Snake domain animals.
+
+Data to Text for <give opinion>:  I really find the Eastern Indigo  fascinating because it can weigh up to to 11 pounds. It's biggest threat is  Habitat loss.
+
+
+Data: Blood Python popularity very popular. Blood Python common class Reptile. Blood Python litter size Between 12 and 14 eggs. Blood Python domain animals.
+
+Data to Text for <give opinion>: I'm really interested in the reptile known as the Blood Python. It has a large litter of 12 and 14 eggs.
+
+
+Data: Pygmy Marmoset (Finger Monkey) popularity very popular. Pygmy Marmoset (Finger Monkey) domain animals.
+
+Data to Text for <give opinion>: One of my favorite animals is the Pygmy Marmoset which is also known as the Finger Monkey.
+
+
+Data: Box Turtle popularity very popular. Box Turtle most distinctive feature Colorful shell. Box Turtle locations Central-America, North-America. Box Turtle domain animals.
+
+Data to Text for <give opinion>:  I'm super interested in the Box Turtle with it's very  Colorful shell. The Box Turtle can be found in both  Central America and  North America.
+
+
+Data: Pig popularity very popular. Pig favorite food Roots. Pig domain animals.
+
+Data to Text for <give opinion>: I love watching the Pig eating its favorite food of Roots.
+
+
+Data: Snow Crab popularity very popular. Snow Crab locations Ocean. Snow Crab common class Crustacean. Snow Crab domain animals.
+
+Data to Text for <give opinion>: The Snow Crab is one of the most interesting types of Crustaceans that live in the Ocean.
+
+
+Data: Sloth popularity very popular. Sloth domain animals.
+
+Data to Text for <give opinion>: The Sloth is a really fascinating animal.
+
+
+Data: Arapaima popularity very popular. Arapaima lifespan 20 years. Arapaima domain animals.
+
+Data to Text for <give opinion>: I find the Arapaima super interesting partly because it can live as long as 20  years.
+
+
+Data: Long-Tailed Tit popularity very popular. Long-Tailed Tit domain animals.
+
+Data to Text for <give opinion>: The Long-Tailed Tit is a really interesting bird.
+
+
+Data: Fossa popularity very popular. Fossa locations Africa. Fossa diet Carnivore. Fossa domain animals.
+
+Data to Text for <give opinion>:  I find the Fossa also a really interesting animal. It's a carnivore that lives in Africa.
+

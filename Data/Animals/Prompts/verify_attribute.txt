@@ -1,0 +1,51 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of animal in general.In the response, state an observation about your friend's attitude to the given animal and then ask him or her whether it generalizes to all games of that type. \The response should consist of 2 sentences: The first one will be the observation based on the liking attribute and including the given animal's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all animals of the same type (determined by the remaining given attributes).The value of the liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., excellent ~ love, average ~ decent/mediocre, or poor ~ boring (see examples below).No extra information should be added in Data to Text for <verify_attribute>:
+
+
+Data: Fennec Fox popularity very popular. Fennec Fox habitat Sandy and semi-arid desert. Fennec Fox domain animals.
+
+Data to Text for <verify_attribute>: I remember you saying you that you were really interested in the Fennec Fox. Are you generally interested in animals that live in sandy and semi-arid desert areas?
+
+
+Data: Red-handed Tamarin popularity very popular.  Red-handed Tamarin lifestyle troop. Red-handed Tamarin domain animals.
+
+Data to Text for <verify_attribute>: I know you said that  you find the red-handed tamarin fascinating. Are you also interested in other animals that live in troops?
+
+
+Data: Chinook Salmon popularity very popular. Chinook Salmon habitat Northern Pacific. Chinook Salmon domain animals.
+
+Data to Text for <verify_attribute>: I know that you find the chinook salmon really fascinating. Are you also interested in other fish that live in the northern pacific?
+
+
+Data: Iguana popularity very popular. Iguana slogan Uses visual signals to communicate!. Iguana skin type Scales. Iguana domain animals.
+
+Data to Text for <verify_attribute>: I remember that you are  interested in Iguanas. Are you interested in other animals that have scales and communicate using visual signals?
+
+
+Data: Golden Lion Tamarin popularity very popular.  Golden Lion Tamarin favorite_food Fruit. Golden Lion Tamarin domain animals.
+
+Data to Text for <verify_attribute>: I remember that you really like the golden lion tamarin. Would you also be interested in other animals whose favorite food is fruit?
+
+
+Data: Mule popularity very popular. Mule diet Herbivore. Mule top speed 15 mph. Mule domain animals.
+
+Data to Text for <verify_attribute>: I know that you said you find mules very interesting. Are you also interested in other herbivores whose top speed is around 15 miles per hour?
+
+
+Data: Banana Ball Python popularity very popular. Banana Ball Python skin type Scales. Banana Ball Python litter size four to 10. Banana Ball Python domain animals.
+
+Data to Text for <verify_attribute>: You told me that you were really interested in the Banana Ball Python. Are you interested in finding out about other animals  that have scales and a litter size of  four to 10 baby snakes?
+
+
+Data: Red-Bellied Black Snake popularity very popular. Red-Bellied Black Snake most distinctive feature The top part of its body is a shiny solid black, while the underbelly is several shades of red. Red-Bellied Black Snake locations Oceania. Red-Bellied Black Snake domain animals.
+
+Data to Text for <verify_attribute>: I remember that you mentioned that you find the Red-Bellied Black Snake fascinating. Are you interested in other animals from Oceania whose top part of its body is black and its underbelly is several shades of red?
+
+
+Data: Common Loon popularity very popular. Common Loon favorite_food fish. Common Loon domain animals.
+
+Data to Text for <verify_attribute>: I remember that you were interested in the common loon. Are you interested in other birds whose favorite food is fish?
+
+
+Data: Bea-Tzu popularity niche interest. Bea-Tzu color White-Brown. Bea-Tzu locations North-America. Bea-Tzu domain animals.
+
+Data to Text for <verify_attribute>: I komw you thought that the Bea-Tzu was only mildly interesting. Is that true for other animals that are White and Brown that live in North America?

@@ -1,0 +1,53 @@
+description of <request explanation>: A question about why your friend likes or dislikes a certain type of animal. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of animal. Assume your friend has indicated his or her sentiment about the kind of animals earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion.The response should consist of a single open-ended question about the type of animals determined by the remaining given attributes.The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking,e.g., excellent ~ love, average ~ decent/mediocre, or poor ~ boring. No extra information should be added in Data to Text for <request explanation>:
+
+
+Data: animals popularity niche interest. animals name of young Kits.
+
+Data to Text for <request explanation>: What is it that  you like about less well-known animals whose young are called kits? 
+
+
+Data: animals popularity very popular. animals distinctive feature Large, spade-shaped head and diamond-shaped markings on their back.. 
+
+Data to Text for <request explanation>: What is it that fascinates you about animals that are known for their Large, spade-shaped head and  the diamond-shaped markings on their back?
+
+
+Data: animals popularity very popular. animals most distinctive feature A yellow stripe over its eyes.
+
+Data to Text for <request explanation>: What is it that you really like about an animal that has a yellow stripe over it's eyes? 
+
+
+Data: animals popularity very popular. animals predators Eels, Frogfish, Scorpion Fish. 
+
+Data to Text for <request explanation>: What makes animals that are preyed upon by  Eels, Frogfish, and Scorpion Fish so interesting to you? 
+
+
+Data: animals popularity niche interest. animals main prey rats. animals gestation period 2 months.
+
+Data to Text for <request explanation>: Why are you less interested in an animal that gestates for only two months and is preyed upon by rats? 
+
+
+Data: animals popularity very popular. animals top speed 5 mph. animals habitat arid steppes.
+
+Data to Text for <request explanation>: What fascinates you about an animal that lives on arid steppes whose top speed is  five miles per hour? 
+
+
+Data: animals popularity very popular. animals most distinctive feature Size. animals main prey Reptiles, small mammals, small birds, insects, amphibians, including other frogs. 
+
+Data to Text for <request explanation>: Why are you so interested in animals that are known for their size, and that prey on   Reptiles, small mammals, small birds, insects, and amphibians, including other frogs?
+
+
+Data: animals popularity very popular. animals color Grey Red Black White Orange. animals habitat Tropical rainforests and monsoon forests.
+
+Data to Text for <request explanation>: Tell me more about why you are so fascinated by animals  that are  Grey,  Red, Black,  White and Orange that live in  Tropical rainforests and monsoon forests?
+
+
+Data: animals popularity niche interest. animals locations Africa. animals lifespan 30 - 40 years.
+
+Data to Text for <request explanation>: Tell me why you're less interested in animals from Africa that have a life span of 30 to 40 years?
+
+
+Data: animals popularity very popular. animals locations North-America. animals most distinctive feature Dewlap.
+
+Data to Text for <request explanation>: What is it about animals in North America that have folds on their neck that interest you?
+
+

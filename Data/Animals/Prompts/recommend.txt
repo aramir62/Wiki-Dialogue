@@ -1,0 +1,53 @@
+description of <recommend>: A question asking if your friend is familiar with an animal you would recommend. In the response, bring up the given animal (in a recommending way) because it has certain attributes that were discussed earlier inthe conversation. Make sure you ask about the animal, not the attributes. No extra information should be added in Data to Text for <recommend>:
+
+
+Data: Little Penguin common class Bird. Little Penguin domain animals.
+
+Data to Text for <recommend>: One animal that I enjoy going to see at the zoom is the bird called the Little Penguin. Have you ever seen one?
+
+
+Data: Drum Fish common class Fish. Drum Fish domain animals.
+
+Data to Text for <recommend>: When I go to an aquarium I like to go look at the fish called the Drum Fish. Have you ever seen one?
+
+
+Data: Mola mola (Ocean Sunfish) common class fish. Mola mola (Ocean Sunfish) domain animals.
+
+Data to Text for <recommend>: One kind of fish that I find very interesting is the Mola mola  which is also known as the Ocean Sunfish. Have you heard of it?
+
+
+Data: Eurasian Beaver weight 47 to 51 pounds. Eurasian Beaver domain animals.
+
+Data to Text for <recommend>: One animal that I am fascinated by is the Eurasian Beaver because it weighs as much as 47 to 51 pounds. Have you ever seen one anywhere?
+
+
+Data: Indian Rhinoceros common class Mammal. Indian Rhinoceros predators Human, Wild cats. Indian Rhinoceros domain animals.
+
+Data to Text for <recommend>: One mammal I'd really like to see in the wild is the Indian Rhinoceros, but humans and wild cats are amongst its predators. Have you heard of it before? 
+
+
+Data: Brown Snake common class reptile. Brown Snake distinctive feature Shades of brown, black, yellow, orange with mottling or bands. Brown Snake domain animals.
+
+Data to Text for <recommend>: I find the reptile known as the Brown Snake fascinating with its distinctive markings of different  shades of brown, black, yellow, and orange that is either in mottling or in bands. Have you ever seen one anywhere?
+
+
+Data: Tiger Rattlesnake common class reptile. Tiger Rattlesnake most distinctive feature Small head and large rattle. Tiger Rattlesnake domain animals.
+
+Data to Text for <recommend>: One of the reptiles that I'm most interested in is the Tiger Rattlesnake, partly because of its  Small head and large rattle. Have you ever heard of it?
+
+
+Data: Harris Hawk common class bird. Harris Hawk locations Central-America, North-America, South-America. Harris Hawk domain animals.
+
+Data to Text for <recommend>: I'd really like to get a chance to see the bird known as the Harris Hawk, which lives in Central, North and Sounth America. Would you like to see one too? 
+
+
+Data: Groundhog (Woodchuck) common class rodent. Groundhog (Woodchuck) locations North-America. Groundhog (Woodchuck) domain animals.
+
+Data to Text for <recommend>: I like to watch the rodent known as the Groundhog or the  Woodchuck out in the woods. It is only found in  North-America. Have you ever seen one?
+
+
+Data: Gopher common class Mammal. Gopher locations Central-America, North-America. Gopher domain animals.
+
+Data to Text for <recommend>: Call me crazy, but I really like to see that little mammal that's called a Gopher. It's native to North and Central America. Have you ever seen one?  
+
+

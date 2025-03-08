@@ -1,0 +1,53 @@
+description of <request>: Ask a question to start talking about an animal. The question must be formulated in such a way that the expected answer would be the name of an animal, or a yes/no answer. The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.). Don't repeat yourself. No extra information should be added in Data to Text for <request>:
+
+
+Data: animals specifier dramatic. animals most distinctive feature The torpedo-shaped body.
+
+Data to Text for <request>: Do you know of any dramatic. animals that have a torpedo-shaped body? 
+
+
+Data: animals specifier cheerful. animals skin type Exoskeleton.
+
+Data to Text for <request>: Are you interested in  any cheerful animals that have an Exoskeleton?
+
+
+Data: animals specifier scary. animals name of young Joey.
+
+Data to Text for <request>: Do you know of any scary animals whose young are known as Joeys? 
+
+
+Data: animals specifier interesting. animals predators Birds of prey, carnivorous mammals. 
+
+Data to Text for <request>: Can you think of any interesting animals that are preyed upon by birds of prey or by carnivorous mammals? 
+
+
+Data: animals specifier funniest. animals predators Foxes, wolves, bobcats, eagles, owls, coyotes. 
+
+Data to Text for <request>: What is the funniest animal that you can think of that gets preyed upon by Foxes, wolves, bobcats, eagles, owls, and coyotes?
+
+
+Data: animals specifier realistic. animals estimated population size 3000.
+
+Data to Text for <request>: Can you think of a realistic animal that has a small population of only 3000?
+
+
+Data: animals specifier overrated. animals weight 32kg - 110kg (71lbs - 240lbs).
+
+Data to Text for <request>: Do you know of any overrated animals that weight as much as  71 to 240 pounds?
+
+
+Data: animals specifier dramatic. animals name of young Pinkie, kitten or pup. 
+
+Data to Text for <request>: Have you heard of any dramatic animals whose young are known as a Pinkie,  a kitten or a pup?
+
+
+Data: animals specifier interesting. animals biggest threat Predators.
+
+Data to Text for <request>: Can you think of any interesting animal whose biggest threat is its Predators?
+
+
+Data: animals specifier interesting. animals most distinctive feature guarding instincts.
+
+Data to Text for <request>: What is the most interesting animal that you can think of who is known for its guarding instincts?
+
+
