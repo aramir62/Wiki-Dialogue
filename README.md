@@ -1,9 +1,17 @@
 # Wiki-Dialogue Dataset
 
 ## Overview 
-This is the official repository for the Wiki-Dialogue dataset. The dataset contains data and text pairs where the data is a set of triples extracted primarily from WikiDATA, except for the animals domain which triples are extracted from API Ninjas. 
+The dataset contains data and text pairs where the data is a set of triples extracted primarily from WikiDATA, except for the animals domain which triples are extracted from API Ninjas.
 
-Overall, there are 7 domains with their own set of entities, Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete, Sports Team), TV (TV Shows, TV Actirs) , Board Games (Board Games), Animals (Wild Animals, Cats, Dogs) , and Art (Paintings and Painters). This is a synthetic dataset of 71K knowledge-grounded dialogue acts for natural language generation. 
+=> "The Wiki-Dialogue dataset contains 71 sets of dialogue acts whose content is specified by  sets of relational triples (intended to be used as input to an NLG engine)  and natural language generation realizations, which are examples of a possible output from an NLG engine realizing an utterance whose dialogue act was specified in the input and whose content completely covers the set of relational triples. 
+
+Wiki-Dialogue  provides a total of 71K training examples, where each example represents a knowledge grounded conversational turn realizing one of 9 different possible dialogue acts that are highly useful in dialogue to enable a system to engage in interesting mixed initiative conversations (inform, confirm, give_opinion, recommend, request, request attribute, request explanation, suggest, and verify attribute). These are the same set of dialogue acts used in the ViGGo corpus (https://huggingface.co/datasets/GEM/viggo)
+
+The relational triples which provide the *content* for each dialogue act, cover seven different domains, namely
+Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete, Sports Team), TV (TV Shows, TV Actors) , Board Games (Board Games), Animals (Wild Animals, Cats, Dogs) , and Art (Paintings and Painters). 
+For each domain, multiple entity types are covered, so for example for the Music domain, an output utterance can consist of content related to Songs, Albums, or Musicians, where each entity type functions as the head of all the relational triples that the utterance realizes, e.g. (Album genre genre-type). 
+
+The relational triples are  extracted primarily from WikiDATA, except for the Animals domain where the relational triples were extracted from API Ninjas. 
 
 ## Charactistics of KG-NLG-DA
 
@@ -26,7 +34,7 @@ Shapes are .. WebNLG
 | verify attribute  | 3-4  | name, rating   | 1  |  name, rating   | 1  |  
 
 #### Music  
-|   |  |  Album| |  Musician  | |  Song Name| |   
+|   |  |  Albums| |  Musician  | |  Song Name| |   
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
 | DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | 
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  name, genres  |  1 -3  | 
