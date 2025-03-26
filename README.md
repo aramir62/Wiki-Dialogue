@@ -8,12 +8,12 @@ The dataset contains data and text pairs where the data is a set of triples extr
 Wiki-Dialogue  provides a total of 71K training examples, where each example represents a knowledge grounded conversational turn realizing one of 9 different possible dialogue acts that are highly useful in dialogue to enable a system to engage in interesting mixed initiative conversations (inform, confirm, give_opinion, recommend, request, request attribute, request explanation, suggest, and verify attribute). These are the same set of dialogue acts used in the ViGGo corpus (https://huggingface.co/datasets/GEM/viggo)
 
 The relational triples which provide the *content* for each dialogue act, cover seven different domains, namely
-Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete, Sports Team), TV (TV Shows, TV Actors) , Board Games (Board Games), Animals (Wild Animals, Cats, Dogs) , and Art (Paintings and Painters). 
+Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete, Sports Team), TV (TV Shows, TV Actors), Board Games (Board Games), Animals (Wild Animals, Cats, Dogs), and Art (Paintings and Painters). 
 For each domain, multiple entity types are covered, so for example for the Music domain, an output utterance can consist of content related to Songs, Albums, or Musicians, where each entity type functions as the head of all the relational triples that the utterance realizes, e.g. (Album genre genre-type). 
 
 The relational triples are  extracted primarily from WikiDATA, except for the Animals domain where the relational triples were extracted from API Ninjas. 
 
-## Charactistics of Wiki-Dialogue
+## Characteristics of Wiki-Dialogue
 
 ### Hops and Shapes of the Data
 Hops are..
