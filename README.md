@@ -13,7 +13,7 @@ For each domain, multiple entity types are covered, so for example for the Music
 
 The relational triples are  extracted primarily from WikiDATA, except for the Animals domain where the relational triples were extracted from API Ninjas. 
 
-## Charactistics of KG-NLG-DA
+## Charactistics of Wiki-Dialogue
 
 ### Hops and Shapes of the Data
 Hops are..
