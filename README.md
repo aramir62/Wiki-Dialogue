@@ -22,7 +22,7 @@ Shapes are .. WebNLG
 
 |   |  |  Movies  | | Movie Actor | | 
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | 
-| DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | 
+| DA  | No. Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | 
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  | 
 | confirm  | 2-3 | name   | 1  | name   | 1  |  
 | give_opinion  | 3-5  | name, rating   | 1  | name, rating   | 1-3  | 
@@ -36,7 +36,7 @@ Shapes are .. WebNLG
 #### Music  
 |   |  |  Albums| |  Musician  | |  Song Name| |   
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
-| DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | 
+| DA  | No. Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops | 
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  name, genres  |  1 -3  | 
 | confirm  | 2-3 | name   | 1  | name   | 1  |  name   | 1  |  name   | 1  |  
 | give_opinion  | 3-5  | name, rating   | 1  | name, rating   | 1-3  | name, rating   | 1-3  |
@@ -51,7 +51,7 @@ Shapes are .. WebNLG
 
 |   |  |  Athlete | |   Sports Team | |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | 
-| DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | 
+| DA  | No. Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | 
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  
 | confirm  | 2-3 | name   | 1  | name   | 1  |  
 | give_opinion  | 3-5  | name, rating   | 1  | name, rating   | 1-3  | 
@@ -65,7 +65,7 @@ Shapes are .. WebNLG
 #### TV
 |   |  | TV Actor | |  TV Show  | | 
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | 
+| DA  | No. Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | 
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  
 | confirm  | 2-3 | name   | 1  | name   | 1  |  
 | give_opinion  | 3-5  | name, rating   | 1  | name, rating   | 1-3  | 
@@ -80,7 +80,7 @@ Shapes are .. WebNLG
 
 |   |  | Board Games| |
 | ------------- | ------------- |------------- | ------------- |
-| DA  | NUM Slots | Mandatory Slots | Hops |
+| DA  | No. Slots | Mandatory Slots | Hops |
 | inform  | 3-8  | name, genres  |  1  | 
 | confirm  | 2-3 | name   | 1  |
 | give_opinion  | 3-5  | name, rating   | 1  | 
@@ -93,7 +93,7 @@ Shapes are .. WebNLG
 #### Animals
 |   |  | Wild Animals | |  Cats | | Dogs| |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
-| DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
+| DA  | No. Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  name, genres  |  1 -3  |
 | confirm  | 2-3 | name   | 1  | name   | 1  |  name   | 1  | 
 | give_opinion  | 3-5  | name, rating   | 1  | name, rating   | 1-3  | name, rating   | 1-3  |
@@ -107,7 +107,7 @@ Shapes are .. WebNLG
 #### Art
 |   |  | Painters | |  Paintings | | | |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- | 
-| DA  | NUM Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
+| DA  | No. Slots | Mandatory Slots | Hops | Mandatory Slots | Hops | Mandatory Slots | Hops |
 | inform  | 3-8  | name, genres  |  1  |  name, genres  |  1 - 3  |  name, genres  |  1 -3  |
 | confirm  | 2-3 | name   | 1  | name   | 1  |  name   | 1  | 
 | give_opinion  | 3-5  | name, rating   | 1  | name, rating   | 1-3  | name, rating   | 1-3  |
