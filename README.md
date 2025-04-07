@@ -3,7 +3,7 @@
 ## Overview 
 The dataset contains data and text pairs where the data is a set of triples extracted primarily from WikiDATA, except for the animals domain which triples are extracted from API Ninjas.
 
-=> "The Wiki-Dialogue dataset contains 71 sets of dialogue acts whose content is specified by  sets of relational triples (intended to be used as input to an NLG engine)  and natural language generation realizations, which are examples of a possible output from an NLG engine realizing an utterance whose dialogue act was specified in the input and whose content completely covers the set of relational triples. 
+=> "The Wiki-Dialogue dataset contains 71  training examples sets of dialogue acts whose content is specified by  sets of relational triples (intended to be used as input to an NLG engine)  and natural language generation realizations, which are examples of a possible output from an NLG engine realizing an utterance whose dialogue act was specified in the input and whose content completely covers the set of relational triples. 
 
 Wiki-Dialogue  provides a total of 71K training examples, where each example represents a knowledge grounded conversational turn realizing one of 9 different possible dialogue acts that are highly useful in dialogue to enable a system to engage in interesting mixed initiative conversations (inform, confirm, give_opinion, recommend, request, request attribute, request explanation, suggest, and verify attribute). These are the same set of dialogue acts used in the ViGGo corpus (https://huggingface.co/datasets/GEM/viggo)
 
