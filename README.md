@@ -10,6 +10,11 @@ Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete
 For each domain, multiple entity types are covered, so for example for the Music domain, an output utterance can consist of content related to Songs, Albums, or Musicians, where each entity type functions as the head of all the relational triples that the utterance realizes, e.g. (Album genre genre-type). 
 
 The relational triples are  extracted primarily from WikiDATA, except for the Animals domain where the relational triples were extracted from API Ninjas. 
+## Citation and Paper 
+Creation of Dataset is described in these papers. 
+Add Angela, background as why we used prompts with RNNLG (TV/laptop), VIGGO, 
+Add Alain,  generated new 
+Paper Link: 
 
 ## Characteristics of Wiki-Dialogue
 
