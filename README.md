@@ -1,9 +1,10 @@
 # Wiki-Dialogue Dataset
 
 ## Overview 
-The Wiki-Dialogue dataset contains 71k training examples sets of dialogue acts whose content is specified by  sets of relational triples (intended to be used as input to an NLG engine)  and natural language generation realizations, which are examples of a possible output from an NLG engine realizing an utterance whose dialogue act was specified in the input and whose content completely covers the set of relational triples. 
 
-Wiki-Dialogue  provides a total of 71K training examples, where each example represents a knowledge grounded conversational turn realizing one of 9 different possible dialogue acts that are highly useful in dialogue to enable a system to engage in interesting mixed initiative conversations (inform, confirm, give_opinion, recommend, request, request attribute, request explanation, suggest, and verify attribute). These are the same set of dialogue acts used in the ViGGo corpus (https://huggingface.co/datasets/GEM/viggo)
+Wiki-Dialogue  provides a total of 71K training pairs, where each pair represents a knowledge grounded conversational turn realizing one of 9 different possible dialogue acts that are highly useful in dialogue because they enable a system to engage in interesting mixed initiative conversations. The dialogue acts are: inform, confirm, give_opinion, recommend, request, request attribute, request explanation, suggest, and verify attribute. These are the same set of dialogue acts used in the ViGGo corpus (https://huggingface.co/datasets/GEM/viggo)
+
+Each training pair consists of the dialogue act (DA) with its knowledge-grounding (KG) along with a natural language generation (NLG) realization of that DA-KG specification. The knowledge for each DA is specified by  a set of relational triples and the NLG realization is a highly-ranked output from an LLM or NLG engine that realizes an utterance whose DA was specified in the input and whose content completely covers the set of relational triples. 
 
 The relational triples which provide the *content* for each dialogue act, cover seven different domains, namely
 Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete, Sports Team), TV (TV Shows, TV Actors), Board Games (Board Games), Animals (Wild Animals, Cats, Dogs), and Art (Paintings and Painters). 
