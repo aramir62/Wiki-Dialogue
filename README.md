@@ -13,9 +13,60 @@ For each domain, multiple entity types are covered, so for example for the Music
 The relational triples are  extracted primarily from WikiDATA, except for the Animals domain where the relational triples were extracted from API Ninjas. 
 ## Citation and Paper 
 Creation of Dataset is described in these papers. 
-Add Angela, background as why we used prompts with RNNLG (TV/laptop), VIGGO, 
-Add Alain,  generated new 
-Paper Link: 
+
+
+Paper Link for Wiki-Dialogue:  (https://aclanthology.org/2024.sigdial-1.7.pdf)
+@inproceedings{vazquez-risco-etal-2024-knowledge,
+    title = "Knowledge-Grounded Dialogue Act Transfer using Prompt-Based Learning for Controllable Open-Domain {NLG}",
+    author = "Vazquez Risco, Alain  and
+      Ramirez, Angela Maria  and
+      Pullabhotla, Neha  and
+      Qiang, Nan  and
+      Zhang, Haoran  and
+      Walker, Marilyn  and
+      Torres, Maria Ines",
+    editor = "Kawahara, Tatsuya  and
+      Demberg, Vera  and
+      Ultes, Stefan  and
+      Inoue, Koji  and
+      Mehri, Shikib  and
+      Howcroft, David  and
+      Komatani, Kazunori",
+    booktitle = "Proceedings of the 25th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    month = sep,
+    year = "2024",
+    address = "Kyoto, Japan",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.sigdial-1.7/",
+    doi = "10.18653/v1/2024.sigdial-1.7",
+    pages = "78--91",
+    abstract = "Open domain spoken dialogue systems need to controllably generate many different dialogue acts (DAs) to allow Natural Language Generation (NLG) to create interesting and engaging conversational interactions with users. We aim to create an NLG engine that can produce a variety of DAs that make substantive knowledge-grounded contributions to a conversation. Training such an NLG typically requires dialogue corpora that are labelled for DAs, which are expensive to produce and vulnerable to quality issues. Here, we present a prompt-based learning approach to transfer DAs from one domain, video games, to 7 new domains. For each novel domain, we first crawl WikiData to create Meaning Representations that systematically vary both the number of attributes and hops on the WikiData Knowledge Graph. The proposed method involves a self-training step to create prompt examples for each domain followed by an overgeneration and ranking step. The result is a novel, high-quality dataset, Wiki-Dialogue, of 71K knowledge-grounded utterances, covering 9 DAs and the Art, Movies, Music, Sports, TV, Animal, and Boardgames domains, whose combined DA and semantic accuracy is 89{\%}. We assess the corpus quality using both automatic and human evaluations and find it high. The corpus is found to be safe, lexically rich, and large in vocabulary, when compared to similar datasets."
+}
+
+Paper Link for Methodology: (https://aclanthology.org/2023.sigdial-1.32.pdf)
+@inproceedings{ramirez-etal-2023-controllable,
+    title = "Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking",
+    author = "Ramirez, Angela  and
+      Agarwal, Kartik  and
+      Juraska, Juraj  and
+      Garg, Utkarsh  and
+      Walker, Marilyn",
+    editor = "Stoyanchev, Svetlana  and
+      Joty, Shafiq  and
+      Schlangen, David  and
+      Dusek, Ondrej  and
+      Kennington, Casey  and
+      Alikhani, Malihe",
+    booktitle = "Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czechia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sigdial-1.32/",
+    doi = "10.18653/v1/2023.sigdial-1.32",
+    pages = "355--369",
+    abstract = "Dialogue systems need to produce responses that realize multiple types of dialogue acts (DAs) with high semantic fidelity. In the past, natural language generators (NLGs) for dialogue were trained on large parallel corpora that map from a domain-specific DA and its semantic attributes to an output utterance. Recent work shows that pretrained language models (LLMs) offer new possibilities for controllable NLG using prompt-based learning. Here we develop a novel few-shot overgenerate-and-rank approach that achieves the controlled generation of DAs. We compare eight few-shot prompt styles that include a novel method of generating from textual pseudo-references using a textual style transfer approach. We develop six automatic ranking functions that identify outputs with both the correct DA and high semantic accuracy at generation time. We test our approach on three domains and four LLMs. To our knowledge, this is the first work on NLG for dialogue that automatically ranks outputs using both DA and attribute accuracy. For completeness, we compare our results to fine-tuned few-shot models trained with 5 to 100 instances per DA. Our results show that several prompt settings achieve perfect DA accuracy, and near perfect semantic accuracy (99.81{\%}) and perform better than few-shot fine-tuning."
+}
 
 ## Characteristics of Wiki-Dialogue
 
