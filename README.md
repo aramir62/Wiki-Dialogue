@@ -84,15 +84,15 @@ Shapes are .. WebNLG
 |              |                 |       Movies        |                     |                     |     Movie Actor     |                     |
 |--------------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | DA           | Slots           | Mandatory Slots     | Hops                | Slots               | Mandatory Slots     | Hops                |
-| inform       | 3-8             | name, genres        | 1-3                 | 3-8                 | name                | 1-3                 |
+| inform       | 3-9             | name, genres        | 1-3                 | 3-8                 | name                | 1-3                 |
 | confirm      | 2-3             | name                | 1                   | 2-3                 | name                | 1                   |
-| give_opinion | 3-5             | name, rating        | 1-3                 | 3-5                 | name, rating        | 1-3                 |
-| recommend    | 2-3             | name, rating        | 1-2                 | 2-3                 | name, rating        | 1-2                 |
+| give_opinion | 3-5             | name, review score  | 1-3                 | 3-5                 | name, rating        | 1-3                 |
+| recommend    | 2-3             | name, review score  | 1-2                 | 2-3                 | name, rating        | 1-2                 |
 | request      | 1-2             | specifier           | 1                   | 1-2                 | specifier           | 1                   |
-| request attribute | 1         | -                   | 1                   | 1                   | -                   | 1                   |
-| request explanation | 2-3     | rating              | 1-2                 | 2-3                 | name, rating        | 1-2                 |
-| suggest      | 2-3             | name                | 1                   | 2-3                 | name                | 1-2                 |
-| verify attribute | 3-4         | name, rating        | 1-2                 | 3-4                 | name, rating        | 1-2                 |
+| request attribute | 1          | -                   | 1                   | 1                   | -                   | 1                   |
+| request explanation | 2-3      | review score        | 1-2                 | 2-3                 | name, rating        | 1-2                 |
+| suggest      | 2-3             | name                | 1-2                 | 2-3                 | name                | 1-2                 |
+| verify attribute | 3-4         | name, review score  | 1-3                 | 3-4                 | name, rating        | 1-2                 |
  
 
 #### Music  
