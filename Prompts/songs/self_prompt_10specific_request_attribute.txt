@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain song's characteristic.
+
+
+Data: songs from album .
+
+Data to Text for <request_attribute>: Which album do you prefer when choosing songs to listen to?
+
+
+Data: songs record label .
+
+Data to Text for <request_attribute>: What record label do you think puts out the best music?
+
+
+Data: songs producer .
+
+Data to Text for <request_attribute>: Who is your go-to song producer?
+
+
+Data: songs genres .
+
+Data to Text for <request_attribute>: What music genres do you enjoy the most?
+
+
+Data: songs performer .
+
+Data to Text for <request_attribute>: Who is your favorite vocal artist?
+
+
+Data: songs from album .
+
+Data to Text for <request_attribute>: Which is your favourite album based on its songs?
+
+
+Data: songs record label .
+
+Data to Text for <request_attribute>: Which record label’s releases do you usually prefer when choosing songs?
+
+
+Data: songs producer .
+
+Data to Text for <request_attribute>: Which song producer’s work do you prefer when listening to music?
+
+
+Data: songs genres .
+
+Data to Text for <request_attribute>: Which styles or genres of songs do you find yourself coming back to again and again?
+
+
+Data: songs performer .
+
+Data to Text for <request_attribute>: Which performer do you prefer when it comes to vocal artists?
+

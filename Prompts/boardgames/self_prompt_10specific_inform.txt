@@ -1,0 +1,52 @@
+description of <inform>: A summary of the board game based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: boardgames name Spirit Island. Spirit Island genre cooperative boardgames. The Crew: The Quest for Planet Nine genre cooperative boardgames. Spirit Island minimum number of players 1. Spirit Island based on Spirit Island. Spirit Island country of origin United States of America.
+
+Data to Text for <inform>: Spirit Island and The Crew: The Quest for Planet Nine are both cooperative board games from the United States of America, with Spirit Island based on the game and requiring a minimum of 1 player.
+
+
+Data: boardgames name Monopoly. Monopoly developer Elizabeth Magie. Monopoly developer Elizabeth Magie. Monopoly developer Elizabeth Magie.
+
+Data to Text for <inform>: Monopoly was developed by Elizabeth Magie.
+
+
+Data: boardgames name Sherlock Holmes Consulting Detective. Sherlock Holmes Consulting Detective genre deduction game. Sherlock Holmes Consulting Detective maximum playing time 120. Sherlock Holmes Consulting Detective minimum playing time 60.
+
+Data to Text for <inform>: Sherlock Holmes Consulting Detective is a deduction game that can be played in 60 to 120 minutes.
+
+
+Data: boardgames name Carcassonne. Carcassonne publisher Hans im Glück. Goa publisher Hans im Glück. Attila publisher Hans im Glück.
+
+Data to Text for <inform>: Hans im Glück has published Carcassonne, Goa and Attila.
+
+
+Data: boardgames name Twilight Struggle. Twilight Struggle genre board wargame. Twilight Struggle maximum number of players 2. Twilight Struggle complexity rating advanced. Twilight Struggle minimum number of players 2.
+
+Data to Text for <inform>: Twilight Struggle is an advanced board wargame for 2 players.
+
+
+Data: boardgames name Punaisten ja valkoisten taistelu Suomessa 1918. Punaisten ja valkoisten taistelu Suomessa 1918 genre wargame. DEFCON Demo genre wargame. Space Empires 4X genre wargame.
+
+Data to Text for <inform>: Punaisten ja valkoisten taistelu Suomessa 1918, DEFCON Demo and Space Empires 4X are all wargames.
+
+
+Data: boardgames name Star Realms. Star Realms developer Darwin Kastle. Star Realms developer Darwin Kastle. Star Realms publication date 2014.
+
+Data to Text for <inform>: Star Realms by Darwin Kastle was published in 2014.
+
+
+Data: boardgames name War of 1812. War of 1812 genre wargame. War of 1812 publication year 1973. War of 1812 average rating average. War of 1812 complexity rating complex.
+
+Data to Text for <inform>: War of 1812 is a complex wargame from 1973 with an average rating.
+
+
+Data: boardgames name Crossings. Crossings genre abstract strategy game. Reversi Champion genre abstract strategy game.
+
+Data to Text for <inform>: Crossings and Reversi Champion are both abstract strategy games.
+
+
+Data: boardgames name Cosmic Encounter. Cosmic Encounter genre science fiction. Car Wars genre science fiction. Cosmic Encounter minimum number of players 3. Cosmic Encounter minimum number of players 3. Cosmic Encounter maximum number of players 8.
+
+Data to Text for <inform>: Cosmic Encounter is a science fiction game for 3-8 players, while Car Wars is another science fiction game.
+

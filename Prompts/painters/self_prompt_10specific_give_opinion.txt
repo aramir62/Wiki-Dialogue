@@ -1,0 +1,51 @@
+description of <give_opinion>:  An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given painter and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: painters name Jackson Pollock. Jackson Pollock  rating excellent. Jackson Pollock  occupations drawer, printmaker.
+
+Data to Text for <give_opinion>:  I love Jackson Pollock's artwork. His unique style as a drawer and printmaker truly sets him apart and makes his work excellent.
+
+
+Data: painters name Marc Chagall. Marc Chagall  rating good. Marc Chagall  notable works Hommage à Apollinaire, I and the Village. Marc Chagall  movements Catalan modernism, Expressionism. 
+
+Data to Text for <give_opinion>: I admire Marc Chagall's work. His movement of Catalan modernism and Expressionism really shines through in pieces like Hommage à Apollinaire and I and the Village.
+
+
+Data: painters name Norman Rockwell. Norman Rockwell  rating good. Norman Rockwell  nationality American. Norman Rockwell  genres figurative art, genre art. 
+
+Data to Text for <give_opinion>: I think Norman Rockwell is a great American artist. His genre art and figurative art are truly exceptional, making him one of the best in his field.
+
+
+Data: painters name Jasper Johns. Jasper Johns  rating average. Jasper Johns  movements Neo-Dada.
+
+Data to Text for <give_opinion>:  I find Jasper Johns' Neo-Dada movement to be quite intriguing. Even though his rating is average, the unique and thought-provoking style of Neo-Dadaism sets him apart from other artists.
+
+
+Data: painters name Andy Warhol. Andy Warhol  rating excellent. Andy Warhol  life period century XX.
+
+Data to Text for <give_opinion>:  Andy Warhol is a legendary artist from the 20th century. His work is excellent and truly stands the test of time.
+
+
+Data: painters name Gerhard Richter. Gerhard Richter  rating poor. Gerhard Richter  life period century XX. Gerhard Richter  occupations university teacher, visual artist. 
+
+Data to Text for <give_opinion>: Gerhard Richter's work is quite poor in my opinion. Despite his background as a university teacher and visual artist, his pieces from the XX century just don't resonate with me.
+
+
+Data: painters name Giorgio de Chirico. Giorgio de Chirico  rating poor. Giorgio de Chirico  genres Abstract art, still life. 
+
+Data to Text for <give_opinion>: I find Giorgio de Chirico's abstract art and still life paintings to be quite boring and unappealing.
+
+
+Data: painters name Joshua Reynolds. Joshua Reynolds  rating poor. Joshua Reynolds  nationality British.
+
+Data to Text for <give_opinion>:  I don't enjoy Joshua Reynolds' work. As a British painter, I find his art to be uninspiring and lacking in creativity.
+
+
+Data: painters name Han van Meegeren. Han van Meegeren  rating average. Han van Meegeren  genres landscape art. Han van Meegeren  notable works Cisterspelende vrouw, Woman reading music.
+
+Data to Text for <give_opinion>:  In my opinion, Han van Meegeren's landscape art is rather average. While works like "Cisterspelende vrouw" and "Woman reading music" are well-known, they don't particularly stand out in the art world.
+
+
+Data: painters name Paul Gauguin. Paul Gauguin  rating good. Paul Gauguin  nationality French. Paul Gauguin  genres landscape art, portrait.
+
+Data to Text for <give_opinion>:  I appreciate Paul Gauguin's landscape and portrait art. As a French painter, his work captures the essence of the beauty of the country in a unique and captivating way.

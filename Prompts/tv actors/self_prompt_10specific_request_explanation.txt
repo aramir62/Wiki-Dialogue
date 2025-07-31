@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of actors. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of actors. Assume your friend has indicated his or her sentiment about the kind of actors earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of actors determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: tv actors name Cardiff. Cardiff rating moderately rated. Burke Shelley place of birth Cardiff.
+
+Data to Text for <request_explanation>: What is it about Burke Shelley, from Cardiff, that you found moderately rated?
+
+
+Data: tv actors rating highly_rated. tv actors date of birth 1964. tv actors awards received Golden Raspberry Award for Worst Supporting Actor.
+
+Data to Text for <request_explanation>: How did the highly rated TV actor born in 1964 manage to win a Golden Raspberry Award for Worst Supporting Actor?
+
+
+Data: tv actors name Made in Dagenham. Made in Dagenham rating highly_rated. Made in Dagenham cast member Andrea Riseborough.
+
+Data to Text for <request_explanation>: What do you love about Andrea Riseborough's performance in Made in Dagenham?
+
+
+Data: tv actors rating lower rated. tv actors place of birth Huntington Beach. tv actors gender female.
+
+Data to Text for <request_explanation>: Why don't you like lower rated female TV actors from Huntington Beach?
+
+
+Data: tv actors rating top rated. tv actors date of birth 1950. tv actors awards received star on Hollywood Walk of Fame.
+
+Data to Text for <request_explanation>: How did the 1950-born tv actor with a star on the Hollywood Walk of Fame become top rated?
+
+
+Data: tv actors name Acton. Acton rating highly rated. Bruce Fraser, 1st Baron Fraser of North Cape place of birth Acton.
+
+Data to Text for <request_explanation>: What is it that makes Bruce Fraser, 1st Baron Fraser of North Cape from Acton highly rated?
+
+
+Data: tv actors rating top rated. tv actors awards received British Academy Television Award for Best Actress.
+
+Data to Text for <request_explanation>: What earned this top rated TV actress the British Academy Television Award for Best Actress?
+
+
+Data: tv actors name Homestead. Homestead rating highly rated. Chip Glass place of birth Homestead.
+
+Data to Text for <request_explanation>: Why do you think Chip Glass, from Homestead, is highly rated?
+
+
+Data: tv actors name The Big Bang Theory. The Big Bang Theory rating top rated. The Big Bang Theory cast member Jim Parsons.
+
+Data to Text for <request_explanation>: What makes Jim Parsons' performance on The Big Bang Theory so top rated?
+
+
+Data: tv actors name New Jersey. New Jersey rating lower rated. Al Aronowitz place of birth New Jersey.
+
+Data to Text for <request_explanation>: Why did you find Al Aronowitz, born in New Jersey, to be lower rated?
+

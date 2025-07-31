@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with an athlete you would recommend. In the response, bring up the given athlete (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the athlete, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the athlete, and not that the attribute is not true about the given athlete or that your friend does not like the athlete.
+
+
+Data: athletes name Cristiano Ronaldo. Cristiano Ronaldo member of sports team Al-Nassr. Hristo Stoichkov member of sports team Al-Nassr.
+
+Data to Text for <recommend>: Have you heard of Cristiano Ronaldo and Hristo Stoichkov? They both play for Al-Nassr.
+
+
+Data: athletes name Yari Verschaeren. Yari Verschaeren sport association football. Yari Verschaeren stats leader N/A. Yari Verschaeren place of birth Antwerp.
+
+Data to Text for <recommend>: Are you familiar with Yari Verschaeren? He's an association football player from Antwerp who is a stats leader.
+
+
+Data: athletes name Marta Xargay. Marta Xargay sport basketball. Marta Xargay height 180.
+
+Data to Text for <recommend>: Do you know about Marta Xargay, the professional basketball player who stands at 180 cm?
+
+
+Data: athletes name Neymar. Neymar member of sports team Paris Saint-Germain F.C. Mikel Arteta member of sports team Paris Saint-Germain F.C. Mikel Arteta member of sports team Real Sociedad.
+
+Data to Text for <recommend>: Have you heard of Neymar or Mikel Arteta? Neymar plays for Paris Saint-Germain F.C. and Mikel Arteta plays for both Paris Saint-Germain F.C. and Real Sociedad.
+
+
+Data: athletes name Billy Vunipola. Billy Vunipola sport rugby union. Billy Vunipola team positions number 8. Billy Vunipola place of birth Sydney.
+
+Data to Text for <recommend>: Are you familiar with Billy Vunipola, the number 8 in rugby union from Sydney?
+
+
+Data: athletes name Fredy Montero. Fredy Montero member of sports team Sporting CP. Marcos Rojo member of sports team Sporting CP. José Vítor Moreira Semedo member of sports team Sporting CP.
+
+Data to Text for <recommend>: Have you heard of Fredy Montero, Marcos Rojo and José Vítor Moreira Semedo? They are all members of Sporting CP.
+
+
+Data: athletes name Alexis Mac Allister. Alexis Mac Allister position played on team / speciality midfielder. Shinji Kagawa position played on team / speciality midfielder. Shinji Kagawa member of sports team Borussia Dortmund.
+
+Data to Text for <recommend>: Have you heard of Shinji Kagawa? He's a midfielder who's played for Borussia Dortmund. You may also be interested in Alexis Mac Allister, another midfielder.
+
+
+Data: athletes name Arike Ogunbowale. Arike Ogunbowale member of sports team Notre Dame Fighting Irish women's basketball. Niele Ivey member of sports team Notre Dame Fighting Irish women's basketball. Notre Dame Fighting Irish women's basketball sport basketball.
+
+Data to Text for <recommend>: Are you familiar with Arike Ogunbowale and Niele Ivey, two players on the Notre Dame Fighting Irish women's basketball team? They play basketball.
+
+
+Data: athletes name Wilt Chamberlain. Wilt Chamberlain member of sports team Philadelphia 76ers. Sergio Rodríguez member of sports team Philadelphia 76ers. Sergio Rodríguez member of sports team New York Knicks.
+
+Data to Text for <recommend>: Have you heard of Wilt Chamberlain and Sergio Rodríguez? Chamberlain played for the Philadelphia 76ers, and Rodríguez for both the Philadelphia 76ers and the New York Knicks.
+
+
+Data: athletes name Besart Berisha. Besart Berisha sport association football. Besart Berisha start time 2003.
+
+Data to Text for <recommend>: Are you familiar with Besart Berisha, who has been in association football since 2003?
+

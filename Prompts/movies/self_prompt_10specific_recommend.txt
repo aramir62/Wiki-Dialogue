@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a movie you would recommend. In the response, bring up the given movie (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the movie, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the movie, and not that the attribute is not true about the given movie or that your friend does not like the movie.
+
+
+Data: movies name Armageddon. Armageddon cast member Udo Kier. Under the Palms cast member Udo Kier.
+
+Data to Text for <recommend>: Have you seen Armageddon or Under the Palms? Udo Kier is in both films.
+
+
+Data: movies name Black Panther. Black Panther review score good. Black Panther genre adventure film, action film.
+
+Data to Text for <recommend>: Are you familiar with Black Panther? It's a good adventure and action movie.
+
+
+Data: movies name Armageddon. Armageddon review score poor. Armageddon director Michael Bay.
+
+Data to Text for <recommend>: Despite the poor reviews, I think you should check out Armageddon, directed by Michael Bay.
+
+
+Data: movies name Doctor Strange in the Multiverse of Madness. Doctor Strange in the Multiverse of Madness cast member Patrick Stewart. Heart of Glory cast member Patrick Stewart.
+
+Data to Text for <recommend>: Have you seen Doctor Strange in the Multiverse of Madness or Heart of Glory starring Patrick Stewart?
+
+
+Data: movies name No Time to Die. No Time to Die review score good. No Time to Die screenwriter John Hodge, Scott Z. Burns, Phoebe Waller-Bridge, Neal Purvis and Robert Wade.
+
+Data to Text for <recommend>: Have you seen No Time to Die? It has a good review score and it's written by John Hodge, Scott Z. Burns, Phoebe Waller-Bridge, Neal Purvis and Robert Wade.
+
+
+Data: movies name Medieval. Medieval cast member Til Schweiger. Judas Kiss cast member Til Schweiger.
+
+Data to Text for <recommend>: Do you know the movie Medieval with Til Schweiger in the cast? You should also check out Judas Kiss which also stars Til Schweiger.
+
+
+Data: movies name Midway. Midway review score average. Midway MPA film rating PG-13.
+
+Data to Text for <recommend>: Midway is rated PG-13 and has an average review score, have you seen it?
+
+
+Data: movies name Greyhound. Greyhound producer Tom Hanks. Forrest Gump cast member Tom Hanks.
+
+Data to Text for <recommend>: If you're a fan of Tom Hanks, have you seen Greyhound or Forrest Gump? They both have Tom Hanks in them and have pretty good reviews.
+
+
+Data: movies name Captain Phillips. Captain Phillips cast member Tom Hanks. Tom Hanks genre melodrama.
+
+Data to Text for <recommend>: Did you see Captain Phillips with Tom Hanks? It's a melodrama.
+
+
+Data: movies name Everything Everywhere All at Once. Everything Everywhere All at Once cast member Jamie Lee Curtis. True Lies cast member Jamie Lee Curtis.
+
+Data to Text for <recommend>: Have you seen Everything Everywhere All at Once, starring Jamie Lee Curtis? She was also in the movie True Lies.
+

@@ -1,0 +1,52 @@
+description of <inform>: A summary of the sports team based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: teams name West Ham United F.C.. West Ham United F.C. head coach David Moyes. David Moyes member of sports team Dunfermline Athletic F.C. Teddy Duckworth member of sports team West Ham United F.C. Ken Brown member of sports team West Ham United F.C. Teddy Duckworth member of sports team West Ham United F.C. Teddy Duckworth member of sports team West Ham United F.C.
+
+Data to Text for <inform>: West Ham United F.C. is an association football team coached by David Moyes. Notable players include Teddy Duckworth, Ken Brown, and Dunfermline Athletic F.C. member Teddy Duckworth.
+
+
+Data: teams name Don Barksdale. Don Barksdale member of sports team Boston Celtics. Don Barksdale member of sports team Boston Celtics. Don Barksdale sport basketball.
+
+Data to Text for <inform>: Don Barksdale was a basketball player for the Boston Celtics.
+
+
+Data: teams name Paris Saint-Germain FC. Paris Saint-Germain FC sport handball. Talleres de Remedios de Escalada sport handball. Alex Nyarko member of sports team Paris Saint-Germain FC. Diego Lugano member of sports team Paris Saint-Germain FC. Georginio Wijnaldum member of sports team Paris Saint-Germain FC. GIF Sundsvall sport handball. 1. FSV Mainz 05 sport handball.
+
+Data to Text for <inform>: Paris Saint-Germain FC, Talleres de Remedios de Escalada, GIF Sundsvall, and 1. FSV Mainz 05 are all handball teams. Alex Nyarko, Diego Lugano, and Georginio Wijnaldum are members of Paris Saint-Germain FC.
+
+
+Data: teams name Cerezo Osaka. Cerezo Osaka league J1 League. J1 League winner Kawasaki Frontale. Magnum Rafael Farias Tavares member of sports team Kawasaki Frontale. Kim Do-keun member of sports team Cerezo Osaka. Ko Jeong-woon member of sports team Cerezo Osaka.
+
+Data to Text for <inform>: Kawasaki Frontale won the J1 League, with Magnum Rafael Farias Tavares as a member, while Cerezo Osaka had members Kim Do-keun and Ko Jeong-woon.
+
+
+Data: teams name Real Madrid CF. Real Madrid CF sport association football. Real Madrid CF rating excellent. Real Madrid CF home venue Santiago Bernabéu Stadium. Real Madrid CF country Spain. Real Madrid CF headquarters location Madrid.
+
+Data to Text for <inform>: Real Madrid CF is an excellent football association based in Madrid, Spain, with its home venue at the Santiago Bernabéu Stadium.
+
+
+Data: teams name Dante Bonfim Costa Santos. Dante Bonfim Costa Santos member of sports team R. Charleroi S.C. Dante Bonfim Costa Santos member of sports team Borussia Mönchengladbach.
+
+Data to Text for <inform>: Dante Bonfim Costa Santos plays for both R. Charleroi S.C. and Borussia Mönchengladbach.
+
+
+Data: teams name FC Barcelona. FC Barcelona home venue Camp Nou. Camp Nou sport rugby league. Wakefield Trinity sport rugby league. Paulinho member of sports team FC Barcelona. Andreu Fontàs member of sports team FC Barcelona.
+
+Data to Text for <inform>: This information does not provide a summary of a sports team, and does not contain enough information to generate a summary.
+
+
+Data: teams name Cristiano Ronaldo. Cristiano Ronaldo member of sports team. BBC World Sport Star of the Year winner Cristiano Ronaldo. Smahi Triki member of sports team. Waleed Abdullah member of sports team. Hristo Stoichkov member of sports team. Marzouk Al-Otaibi member of sports team. Adrian Mierzejewski member of sports team.
+
+Data to Text for <inform>: Cristiano Ronaldo, Smahi Triki, Waleed Abdullah, Hristo Stoichkov, Marzouk Al-Otaibi, and Adrian Mierzejewski are members of sports teams, with Ronaldo being the winner of the BBC World Sport Star of the Year.
+
+
+Data: teams name Tokyo Yakult Swallows. Tokyo Yakult Swallows sport baseball. Tokyo Yakult Swallows country Japan.
+
+Data to Text for <inform>: Tokyo Yakult Swallows is a baseball team from Japan.
+
+
+Data: teams name Boston Celtics. Boston Celtics league National Basketball Association. National Basketball Association sport basketball. basketball inception 1891.
+
+Data to Text for <inform>: The Boston Celtics play basketball in the National Basketball Association, which was founded in 1891.
+

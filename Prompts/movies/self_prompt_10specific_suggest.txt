@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of movies. In the response, ask your friend if he or she has experience with a certain type of movies, suggesting the given movie as an example of such a movie. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the movie name at the end as an example. Make sure you ask about the general category of movies corresponding to the given attributes, not the example movie directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such movies, and not that your friend does not like the given movie.
+
+
+Data: movies name Fury. Fury cast member Shia LaBeouf. Constantine cast member Shia LaBeouf.
+
+Data to Text for <suggest>: Have you seen any movies starring Shia LaBeouf, such as Fury and Constantine?
+
+
+Data: movies name Avatar. Avatar cast member Sam Worthington. Avatar cast member Sam Worthington.
+
+Data to Text for <suggest>: No extra information should be added in Data to Text for <suggest>.
+
+
+Data: movies name Everything Everywhere All at Once. Everything Everywhere All at Once cast member Jamie Lee Curtis. A Fish Called Wanda cast member Jamie Lee Curtis.
+
+Data to Text for <suggest>: Did you ever watch a Jamie Lee Curtis movie, like Everything Everywhere All at Once or A Fish Called Wanda?
+
+
+Data: movies name Iron Man 2. Iron Man 2 cast member Larry Ellison. Iron Man 2 cast member Larry Ellison.
+
+Data to Text for <suggest>: Did you know that Larry Ellison was part of the cast of Iron Man 2?
+
+
+Data: movies name Midway. Midway producer Harald Kloser. 2012 screenwriter Harald Kloser.
+
+Data to Text for <suggest>: Invalid data, as there is no video game mentioned.
+
+
+Data: movies name Downton Abbey. Downton Abbey cast member Phyllis Logan. Franz Kafka's It's a Wonderful Life cast member Phyllis Logan.
+
+Data to Text for <suggest>: Do you recognize Phyllis Logan from either Downton Abbey or Franz Kafka's It's a Wonderful Life?
+
+
+Data: movies name Jason Bourne. Jason Bourne genre action film. Dragon Ball: Yo! Son Goku and His Friends Return!! genre action film.
+
+Data to Text for <suggest>: Do you like action films, like Jason Bourne and Dragon Ball: Yo! Son Goku and His Friends Return!!?
+
+
+Data: movies name Elvis. Elvis director Baz Luhrmann. Elvis publication date 2022.
+
+Data to Text for <suggest>: Are you looking forward to watching the 2022 movie directed by Baz Luhrmann, Elvis?
+
+
+Data: movies name Bird Box. Bird Box cast member John Malkovich. Bird Box cast member John Malkovich.
+
+Data to Text for <suggest>: This is not a valid data set for the <suggest> tag.
+
+
+Data: movies name Fargo. Fargo cast member Steve Buscemi. Delirious cast member Steve Buscemi.
+
+Data to Text for <suggest>: Were you familiar with Steve Buscemi's roles in Fargo and Delirious?
+

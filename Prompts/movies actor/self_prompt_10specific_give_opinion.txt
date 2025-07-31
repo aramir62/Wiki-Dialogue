@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given actor and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: movie actors name Bruce Lee. Bruce Lee rating moderately rated.
+
+Data to Text for <give_opinion>: I believe Bruce Lee was a moderately rated actor but his performances were always memorable and he had an amazing on-screen presence.
+
+
+Data: movie actors name Marilyn Monroe. Marilyn Monroe rating highly rated. Marilyn Monroe cast member of Some Like It Hot. Marilyn Monroe height average.
+
+Data to Text for <give_opinion>: I consider Marilyn Monroe to be one of the most highly rated actors of all time. Despite her average height, her performance in Some Like It Hot was truly remarkable.
+
+
+Data: movie actors name Pamela Adlon. Pamela Adlon rating lower rated. Pamela Adlon awards received Primetime Emmy Award. Pamela Adlon height shorter.
+
+Data to Text for <give_opinion>: Although Pamela Adlon is considered to have a lower rating, she has still received a Primetime Emmy Award and her shorter stature makes her stand out among other actors.
+
+
+Data: movie actors name David Tennant. David Tennant rating moderately rated. Georgia Tennant spouse David Tennant. Georgia Tennant occupation movie actors.
+
+Data to Text for <give_opinion>: I think David Tennant and Georgia Tennant make a great couple both on and off-screen. David's work as an actor has been moderately rated, while Georgia's has been great.
+
+
+Data: movie actors name Ronald Reagan. Ronald Reagan rating top rated. Ronald Reagan spouse Nancy Reagan. Nancy Reagan place of birth Manhattan.
+
+Data to Text for <give_opinion>: Ronald Reagan was a top rated actor and his marriage to Nancy Reagan, who was born in Manhattan, added a lot of richness to his life.
+
+
+Data: movie actors name Donnie Yen. Donnie Yen rating highly rated. Hero cast member Donnie Yen. Hero cast member Jet Li.
+
+Data to Text for <give_opinion>: I think Donnie Yen and Jet Li were both great in the movie Hero. Donnie Yen's performance was particularly outstanding and highly rated.
+
+
+Data: movie actors name Pamela Adlon. Pamela Adlon rating lower rated. Felix O. Adlon spouse Pamela Adlon. Felix O. Adlon place of birth Berlin.
+
+Data to Text for <give_opinion>: Despite having a lower rated acting career, Pamela Adlon is still an interesting figure due to her marriage to Felix O. Adlon from Berlin.
+
+
+Data: movie actors name Lena Dunham. Lena Dunham rating highly rated. Lena Dunham awards received Directors Guild of America Award for Outstanding Directing – Comedy Series. Lena Dunham place of birth New York City.
+
+Data to Text for <give_opinion>: Lena Dunham is an amazing actor from New York City. Her performances are highly rated and she even received a Directors Guild of America Award for Outstanding Directing – Comedy Series.
+
+
+Data: movie actors name Bruce Lee. Bruce Lee rating moderately rated. Linda Lee Cadwell spouse Bruce Lee. Linda Lee Cadwell occupation writer.
+
+Data to Text for <give_opinion>: Bruce Lee had a moderately successful acting career, but his influence has gone beyond the screen. His wife Linda Lee Cadwell is a talented writer and has helped keep Bruce Lee's legacy alive.
+
+
+Data: movie actors name Michael Jackson. Michael Jackson rating top rated. Lisa Marie Presley spouse Michael Jackson. Lisa Marie Presley spouse Nicolas Cage.
+
+Data to Text for <give_opinion>: Michael Jackson is one of the top rated actors of all time. He was an incredible performer and his relationship with Lisa Marie Presley and Nicolas Cage further proved his star power.
+

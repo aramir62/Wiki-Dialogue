@@ -1,0 +1,52 @@
+description of <inform>: A summary of the movie based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: movies name Elvis. Elvis publication date 2022. Elvis genre gambling film, musical film. Elvis character Mike Bingaman as Sonny West.
+
+Data to Text for <inform>: Elvis is a 2022 musical and gambling film starring Mike Bingaman as Sonny West.
+
+
+Data: movies name The Godfather. The Godfather publication date 1972. The Godfather cast member Morgana King. Morgana King genre vocal jazz. The Godfather cast member Roman Coppola. The Godfather cast member Abe Vigoda. The Godfather Part II cast member Morgana King.
+
+Data to Text for <inform>: The Godfather (1972) stars Morgana King, Roman Coppola and Abe Vigoda, with Morgana King performing vocal jazz. She also appears in The Godfather Part II.
+
+
+Data: movies name Blade Runner. Blade Runner publication date 1982. Blade Runner genre film based on a novel, thriller film. Blade Runner review score good. Blade Runner producer Bud Yorkin, Michael Deeley, Jerry Perenchio, Ivor Powell. Blade Runner character Morgan Paull as Dave Holden. Blade Runner MPA film rating R. Blade Runner screenwriter Hampton Fancher, David Peoples.
+
+Data to Text for <inform>: Blade Runner, a 1982 R-rated thriller film based on a novel, was written by Hampton Fancher and David Peoples, produced by Bud Yorkin, Michael Deeley, Jerry Perenchio and Ivor Powell, and stars Morgan Paull as Dave Holden. Reviews for it are good.
+
+
+Data: movies name Tick, Tick... Boom!. Tick, Tick... Boom! publication date 2021. Tick, Tick... Boom! cast member Black Thought. Black Thought genre hip hop music.
+
+Data to Text for <inform>: Tick, Tick... Boom! is a 2021 hip hop music featuring Black Thought.
+
+
+Data: movies name Captain America: The Winter Soldier. Captain America: The Winter Soldier publication date 2014. Captain America: The Winter Soldier cast member Stan Lee. Inhumans genre Stan Lee. Captain America: The Winter Soldier cast member Chris Evans. Captain America: The Winter Soldier cast member Branka Katić. Captain America: The Winter Soldier cast member Samuel L. Jackson. Spider-Man 2 cast member Stan Lee. Trek Nation cast member Stan Lee.
+
+Data to Text for <inform>: Captain America: The Winter Soldier, released in 2014, stars Stan Lee, Chris Evans, Branka Katić and Samuel L. Jackson.
+
+
+Data: movies name Iron Man 3. Iron Man 3 publication date 2013. Iron Man 3 cast member Ashley Hamilton. Ashley Hamilton genre pop rock.
+
+Data to Text for <inform>: Iron Man 3 is a 2013 movie starring Ashley Hamilton. Ashley Hamilton's genre is pop rock.
+
+
+Data: movies name Forrest Gump. Forrest Gump publication date 1994. Forrest Gump genre tragicomedy, comedy film. Forrest Gump review score good. Forrest Gump screenwriter Eric Roth, Winston Groom. Forrest Gump director Robert Zemeckis.
+
+Data to Text for <inform>: Forrest Gump, a 1994 comedy-tragicomedy directed by Robert Zemeckis and written by Eric Roth and Winston Groom, has a good review score.
+
+
+Data: movies name Thor: Love and Thunder. Thor: Love and Thunder publication date 2022. Thor: Love and Thunder genre adventure film, action film.
+
+Data to Text for <inform>: Thor: Love and Thunder is an 2022 adventure action film.
+
+
+Data: movies name Ant-Man and the Wasp. Ant-Man and the Wasp publication date 2018. Ant-Man and the Wasp cast member Stan Lee. Stan Lee genre comics.
+
+Data to Text for <inform>: Ant-Man and the Wasp, released in 2018, starred Stan Lee, known for his comics.
+
+
+Data: movies name Downton Abbey. Downton Abbey publication date 2019. Downton Abbey genre historical drama. Downton Abbey genre historical drama.
+
+Data to Text for <inform>: Downton Abbey is a 2019 historical drama.
+

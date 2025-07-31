@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a dog you would recommend. In the response, bring up the given dog (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the dog, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the dog, and not that the attribute is not true about the given dog or that your friend does not like the dog.
+
+
+Data: dogs name Black and Tan Coonhound.
+
+Data to Text for <recommend>: Have you ever heard of a Black and Tan Coonhound? I think it looks really cool.
+
+
+Data: dogs name English Toy Spaniel. English Toy Spaniel max height female 10.0.
+
+Data to Text for <recommend>: I'm quite fond of the English Toy Spaniel, which can grow up to 10.0 inches for females. Would you like to see one?
+
+
+Data: dogs name Central Asian Shepherd Dog. Central Asian Shepherd Dog good with children kid-friendly. Central Asian Shepherd Dog max weight female 140.0.
+
+Data to Text for <recommend>: I would really recommend the Central Asian Shepherd Dog as a pet because it is kid-friendly and its maximum weight for a female is 140.0. Are you familiar with this breed?
+
+
+Data: dogs name Sloughi.
+
+Data to Text for <recommend>: Have you ever seen the Sloughi? It's an animal that I find interesting.
+
+
+Data: dogs name Komondor. Komondor good with other dogs semi friendly to other dogs.
+
+Data to Text for <recommend>: I recently read about a dog called the Komondor that is good with other dogs and semi friendly to other dogs. Do you know anything about them?
+
+
+Data: dogs name Pembroke Welsh Corgi. Pembroke Welsh Corgi max life expectancy 13.
+
+Data to Text for <recommend>: I think you should consider getting a Pembroke Welsh Corgi, since they have a max life expectancy of 13 years. Have you heard of them before?
+
+
+Data: dogs name Swedish Lapphund. Swedish Lapphund playfulness very playful.
+
+Data to Text for <recommend>: One of my favorite animals to watch is the Swedish Lapphund, it's very playful. Have you ever seen one?
+
+
+Data: dogs name Chihuahua. Chihuahua grooming most grooming. Chihuahua max height male 8.0.
+
+Data to Text for <recommend>: If you have ever wanted to get a small pet, I'd recommend the Chihuahua which usually need quite a bit of grooming and can reach a maximum height of 8 inches for males. Have you ever had a Chihuahua as a pet?
+
+
+Data: dogs name Petit Basset Griffon Vendéen. Petit Basset Griffon Vendéen energy more energy. Petit Basset Griffon Vendéen ratings okay.
+
+Data to Text for <recommend>: The Petit Basset Griffon Vendéen is a breed I like very much, because it has more energy than other breeds and it's rated okay. Have you heard of it before?
+
+
+Data: dogs name Swedish Vallhund. Swedish Vallhund barking sometimes barks.
+
+Data to Text for <recommend>: I recently heard about this animal called a Swedish Vallhund that sometimes barks. Would you like to see one?
+

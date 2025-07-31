@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain athlete's characteristic.
+
+
+Data: athletes team positions .
+
+Data to Text for <request_attribute>: Which team positions do you prefer athletes to play in?
+
+
+Data: athletes height .
+
+Data to Text for <request_attribute>: What height do you think is best for an athlete?
+
+
+Data: athletes place of birth .
+
+Data to Text for <request_attribute>: Which place of birth or region do you prefer for athletes you follow?
+
+
+Data: athletes sport .
+
+Data to Text for <request_attribute>: What sport do you have the most interest in?
+
+
+Data: athletes awards .
+
+Data to Text for <request_attribute>: Which awards do you value most when considering an athlete’s achievements?
+
+
+Data: athletes sports teams .
+
+Data to Text for <request_attribute>: Which sports teams do you prefer athletes to be part of?
+
+
+Data: athletes sport .
+
+Data to Text for <request_attribute>: Which sport do you prefer to follow or watch the most?
+
+
+Data: athletes place of birth .
+
+Data to Text for <request_attribute>: Which nationality do you prefer athletes to have?
+
+
+Data: athletes awards .
+
+Data to Text for <request_attribute>: When thinking about athlete achievements, which awards stand out most to you?
+
+
+Data: athletes team positions .
+
+Data to Text for <request_attribute>: Which positions on a team do you prefer athletes to play?
+

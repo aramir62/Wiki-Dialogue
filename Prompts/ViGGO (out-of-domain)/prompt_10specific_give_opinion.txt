@@ -1,0 +1,51 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given {domain} and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: video games name Little Nightmares. Little Nightmares rating good. Little Nightmares genres adventure, platformer, puzzle. Little Nightmares player perspective side view.
+
+Data to Text for <give_opinion>: Adventure games that combine platforming and puzzles can be frustrating to play, but the side view perspective is perfect for them. That's why I enjoyed playing Little Nightmares.
+
+
+Data: video games name World of Warcraft. World of Warcraft developer Blizzard Entertainment. World of Warcraft rating good.
+
+Data to Text for <give_opinion>: World of Warcraft is a fun game. Blizzard Entertainment is a developer that knows what they're doing and always produces a solid product.
+
+
+Data: video games name Age of Wonders II: The Wizard's Throne. Age of Wonders II: The Wizard's Throne rating poor. Age of Wonders II: The Wizard's Throne genres role-playing, turn-based strategy.
+
+Data to Text for <give_opinion>: Age of Wonders II: The Wizard's Throne is an all around poor example of a turn-based strategy RPG game.
+
+
+Data: video games name Age of Empires II: The Age of Kings. Age of Empires II: The Age of Kings esrb T (for Teen). Age of Empires II: The Age of Kings rating good. Age of Empires II: The Age of Kings has multiplayer yes.
+
+Data to Text for <give_opinion>: I have fun playing Age of Empires II: The Age of Kings. I like that it has a multiplayer and, since it's only rated T (for Teen), I'm able to play it with friends and younger siblings.
+
+
+Data: video games name BioShock. BioShock esrb M (for Mature). BioShock rating good. BioShock available on steam yes.
+
+Data to Text for <give_opinion>: BioShock is a solid M rated game available on both Steam and Linux.
+
+
+Data: video games name Call of Duty: Advanced Warfare. Call of Duty: Advanced Warfare developer Sledgehammer Games. Call of Duty: Advanced Warfare rating average. Call of Duty: Advanced Warfare has multiplayer yes.
+
+Data to Text for <give_opinion>: Call of Duty: Advanced Warfare is pretty average in my view. I think that Sledgehammer Games is a talented developer, but adding multiplayer to the game just diluted their focus and made playing it just a so-so experience.
+
+
+Data: video games name Commandos: Behind Enemy Lines. Commandos: Behind Enemy Lines developer Pyro Studios. Commandos: Behind Enemy Lines rating good. Commandos: Behind Enemy Lines player perspective bird view.
+
+Data to Text for <give_opinion>: I think that games with a bird view perspective can be pretty fun if executed well, and fortunately, Pyro Studios is a competent developer. That's why I enjoyed playing Commandos: Behind Enemy Lines.
+
+
+Data: video games name Far Cry 3. Far Cry 3 rating good. Far Cry 3 platforms PlayStation.
+
+Data to Text for <give_opinion>: I enjoyed playing Far Cry 3, like I do pretty much all PlayStation games.
+
+
+Data: video games name Madden NFL 15. Madden NFL 15 rating average. Madden NFL 15 has multiplayer yes.
+
+Data to Text for <give_opinion>: Madden NFL 15 is average I guess. At first I didn't like it at all, but the multiplayer made it somewhat worthwhile.
+
+
+Data: video games name Super Mario World. Super Mario World esrb E (for Everyone). Super Mario World rating excellent. Super Mario World has multiplayer yes.
+
+Data to Text for <give_opinion>: Super Mario World is my current favorite game. I love multiplayer games that are rated E (for Everyone), so this is really my cup of tea!

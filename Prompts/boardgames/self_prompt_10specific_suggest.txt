@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of board games. In the response, ask your friend if he or she has experience with a certain type of board games, suggesting the given board game as an example of such a board game. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the board game name at the end as an example. Make sure you ask about the general category of board games corresponding to the given attributes, not the example board game directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such board games, and not that your friend does not like the given board game.
+
+
+Data: boardgames name Barbarossa. Barbarossa developer Klaus Teuber. The Settlers of Catan developer Klaus Teuber.
+
+Data to Text for <suggest>: Have you ever played a game by Klaus Teuber, like Barbarossa or The Settlers of Catan?
+
+
+Data: boardgames name Sherlock Holmes Consulting Detective. Sherlock Holmes Consulting Detective game mechanics deductive reasoning. Sherlock Holmes Consulting Detective game mechanics deductive reasoning.
+
+Data to Text for <suggest>: Are you familiar with any deductive reasoning games like Sherlock Holmes Consulting Detective?
+
+
+Data: boardgames name Punaisten ja valkoisten taistelu Suomessa 1918. Punaisten ja valkoisten taistelu Suomessa 1918 genre wargame. Space Empires 4X genre wargame.
+
+Data to Text for <suggest>: Do you ever play wargames, such as Punaisten ja valkoisten taistelu Suomessa 1918 or Space Empires 4X?
+
+
+Data: boardgames name Thurn and Taxis. Thurn and Taxis maximum number of players 4.
+
+Data to Text for <suggest>: Do you like playing board games with a maximum of four players, like Thurn and Taxis?
+
+
+Data: boardgames name Descent Journeys in the Dark. Descent Journeys in the Dark genre fantasy. Descent Journeys in the Dark maximum number of players 5.
+
+Data to Text for <suggest>: Have you ever played a board game in the fantasy genre for up to five players, such as Descent Journeys in the Dark?
+
+
+Data: boardgames name Scotland Yard. Scotland Yard publisher Ravensburger. Rivers, Roads & Rails publisher Ravensburger.
+
+Data to Text for <suggest>: Have you tried any of Ravensburger's games, like Scotland Yard or Rivers, Roads & Rails?
+
+
+Data: boardgames name Axis and Allies. Axis and Allies publisher Avalon Hill. Axis and Allies genre board wargame.
+
+Data to Text for <suggest>: Did you ever play a board wargame published by Avalon Hill, like Axis and Allies?
+
+
+Data: boardgames name Lord of the Rings. Lord of the Rings developer Reiner Knizia. Blue Moon developer Reiner Knizia.
+
+Data to Text for <suggest>: Have you tried any games by Reiner Knizia, such as Lord of the Rings or Blue Moon?
+
+
+Data: boardgames name Crossings. Crossings genre abstract strategy game. Crossings maximum number of players 2.
+
+Data to Text for <suggest>: Have you ever played an abstract strategy game for two players, like Crossings?
+
+
+Data: boardgames name Axis & Allies. Axis & Allies genre board wargame. Buck Rogers – Battle for the 25th Century genre board wargame.
+
+Data to Text for <suggest>: Do you ever play board wargames, such as Axis & Allies or Buck Rogers – Battle for the 25th Century?
+

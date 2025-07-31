@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given animal and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: wild animals name Hoary Bat. Hoary Bat popularity very popular. Hoary Bat common class Mammal.
+
+Data to Text for <give_opinion>: The Hoary Bat is an amazing Mammal.
+
+
+Data: wild animals name White Ferret / Albino Ferrets. White Ferret / Albino Ferrets popularity very popular. White Ferret / Albino Ferrets group behavior Social. White Ferret / Albino Ferrets locations Africa, South-America.
+
+Data to Text for <give_opinion>: I'm very fond of White Ferrets or Albino Ferrets because they are very social and can be found in both Africa and South America.
+
+
+Data: wild animals name Yellow Spotted Lizard. Yellow Spotted Lizard popularity very popular. Yellow Spotted Lizard other names Yellow-spotted tropical night lizard. Yellow Spotted Lizard gestation period 2.5 months.
+
+Data to Text for <give_opinion>: I'm really intrigued by the Yellow Spotted Lizard, also known as the Yellow-spotted tropical night lizard due to its 2.5 month gestation period.
+
+
+Data: wild animals name Red-Eared Slider. Red-Eared Slider popularity very popular. Red-Eared Slider predators Snakes, alligators, waterbirds, crows, opossums, large fish, skunks, raccoons, minks, otters, foxes, armadillos, coyotes and humans. White tailed deer and foxes eat their eggs. Red-Eared Slider common class reptile.
+
+Data to Text for <give_opinion>: The Red-Eared Slider is a really fascinating reptile with a long list of predators including snakes, alligators, waterbirds, crows, opossums, large fish, skunks, raccoons, minks, otters, foxes, armadillos, coyotes and humans. White tailed deer and foxes even eat their eggs
+
+
+Data: wild animals name Tree Kangaroo. Tree Kangaroo popularity very popular. Tree Kangaroo litter size 1. Tree Kangaroo group behavior Solitary.
+
+Data to Text for <give_opinion>: I find the Tree Kangaroo really interesting because it's a solitary animal that only has a litter size of 1.
+
+
+Data: wild animals name Imperial Moth. Imperial Moth popularity very popular. Imperial Moth favorite food oak, hickory, walnut, sycamore, basswood, maple, honey locust, chokecherry, sumac, sweet gum, sassafras, elm, beech, hornbeam, birch, alder, pine, spruce, hemlock, cedar, cypress, and juniper leaves. Imperial Moth predators Birds, mammals and insects.
+
+Data to Text for <give_opinion>: The Imperial Moth is an amazing insect due to its diverse diet which includes oak, hickory, walnut, sycamore, basswood, maple, honey locust, chokecherry, sumac, sweet gum, sassafras, elm, beech, hornbeam, birch, alder, pine, spruce, hemlock
+
+
+Data: wild animals name Sand Lizard. Sand Lizard popularity very popular. Sand Lizard slogan Males turn green in spring!. Sand Lizard weight 10g - 15g 0.35oz - 0.5oz.
+
+Data to Text for <give_opinion>: The Sand Lizard is an incredible animal, especially since the males can turn green in the spring. It can weigh between 10g - 15g or 0.35oz - 0.5oz.
+
+
+Data: wild animals name Gopher. Gopher popularity very popular. Gopher slogan They dig large networks of tunnels!. Gopher main prey Roots, Fruit, Leaves.
+
+Data to Text for <give_opinion>: I think Gophers are amazing because they dig extensive networks of tunnels and their main prey are Roots, Fruit, and Leaves.
+
+
+Data: wild animals name Drum Fish. Drum Fish popularity very popular. Drum Fish diet Carnivore. Drum Fish biggest threat Habitat changes.
+
+Data to Text for <give_opinion>: The Drum Fish is a fascinating carnivore which is threatened by Habitat changes.
+
+
+Data: wild animals name Albacore Tuna. Albacore Tuna popularity very popular. Albacore Tuna color GreyBlueSilver.
+
+Data to Text for <give_opinion>: I really appreciate the Albacore Tuna for its captivating GreyBlueSilver color.
+

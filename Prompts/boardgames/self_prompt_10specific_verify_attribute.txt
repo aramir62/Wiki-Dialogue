@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of board games in general. In the response, state an observation about your friend's attitude to the given board game and then ask him or her whether it generalizes to all board games of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given board game's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all board games of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: boardgames name Battle Masters. Battle Masters rating average. Battle Masters genre fantasy. Warhammer Quest genre fantasy.
+
+Data to Text for <verify_attribute>: You said Battle Masters was just okay. Is that usually the case for fantasy games like Warhammer Quest?
+
+
+Data: boardgames name Axis & Allies. Axis & Allies rating average. Axis & Allies publisher Avalon Hill. Axis & Allies genre board wargame.
+
+Data to Text for <verify_attribute>: You told me you find Axis & Allies an average game from Avalon Hill. Do you usually think that of other Avalon Hill board wargames?
+
+
+Data: boardgames name Spirit Island. Spirit Island rating excellent. Spirit Island genre cooperative boardgames. Spirit Island genre cooperative boardgames.
+
+Data to Text for <verify_attribute>: You love Spirit Island, so are all cooperative board games a must-play for you?
+
+
+Data: boardgames name Punaisten ja valkoisten taistelu Suomessa 1918. Punaisten ja valkoisten taistelu Suomessa 1918 rating poor. Punaisten ja valkoisten taistelu Suomessa 1918 genre wargame. Darwinia Demo genre wargame.
+
+Data to Text for <verify_attribute>: You said that Punaisten ja valkoisten taistelu Suomessa 1918 was boring. Does this extend to other wargames such as Darwinia Demo?
+
+
+Data: boardgames name Monopoly. Monopoly average rating poor. Monopoly genre roll-and-move. Monopoly developer Elizabeth Magie.
+
+Data to Text for <verify_attribute>: You didn't like Monopoly. Is this typical for roll-and-move games from Elizabeth Magie?
+
+
+Data: boardgames name Sherlock Holmes Consulting Detective. Sherlock Holmes Consulting Detective average rating excellent. Sherlock Holmes Consulting Detective publisher Space Cowboys. Sherlock Holmes Consulting Detective game mechanics deductive reasoning.
+
+Data to Text for <verify_attribute>: You loved Sherlock Holmes Consulting Detective. Do you think all deductive reasoning board games by Space Cowboys are great?
+
+
+Data: boardgames name Risk. Risk rating average. Risk publisher Parker Brothers. Risk publisher Schmidt Spiele.
+
+Data to Text for <verify_attribute>: You said that Risk was just mediocre. Does that apply to both Parker Brothers and Schmidt Spiele versions of the game?
+
+
+Data: boardgames name Thurn and Taxis. Thurn and Taxis average rating good. Thurn and Taxis publisher Hans im Glück. Thurn and Taxis developer Karen Seyfarth.
+
+Data to Text for <verify_attribute>: You like Thurn and Taxis. Do you usually have a good opinion of Hans im Glück and Karen Seyfarth's board games?
+
+
+Data: boardgames name Betrayal at House on the Hill. Betrayal at House on the Hill rating average. Betrayal at House on the Hill genre horror fiction.
+
+Data to Text for <verify_attribute>: You said Betrayal at House on the Hill was just okay. Are all horror fiction games usually average in your opinion?
+
+
+Data: boardgames name Spirit Island. Spirit Island rating excellent. Spirit Island genre cooperative boardgames. The Crew: The Quest for Planet Nine genre cooperative boardgames.
+
+Data to Text for <verify_attribute>: You love Spirit Island, so is The Crew: The Quest for Planet Nine also a must-play cooperative board game for you?
+

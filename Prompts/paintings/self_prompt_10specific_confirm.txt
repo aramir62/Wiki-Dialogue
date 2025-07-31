@@ -1,0 +1,51 @@
+description of <confirm>: A question trying to confirm a painting. In the response, ask for a confirmation of the given painting by referring to its attributes. Imagine that the painting's name has just been mentioned in the conversation, but you know of multiple paintings with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the painting, not the attribute(s), nor the friend's opinion. In other words, a ""no"" answer to your question should mean that that is not the painting your friend had in mind, and not that the attribute is not true about the given painting.
+
+
+Data: paintings name Virgin of the Consellers. Virgin of the Consellers  creator Lluís Dalmau. Virgin of the Consellers  movements Gothic painting. Virgin of the Consellers  genres religious art.
+
+Data to Text for <confirm>: Just to confirm, are you referring to the Gothic religious art painting "Virgin of the Consellers" created by Lluís Dalmau?
+
+
+Data: paintings name Rokeby Venus. Rokeby Venus  creator Diego Velázquez. Rokeby Venus  genres mythological painting, nude. Rokeby Venus  location National Gallery.
+
+Data to Text for <confirm>: So, when you mentioned Rokeby Venus, were you referring to the mythological nude painting by Diego Velázquez that is located in the National Gallery?
+
+
+Data: paintings name Christ in the House of Martha and Mary. Christ in the House of Martha and Mary  creator Johannes Vermeer. Christ in the House of Martha and Mary  movements Dutch Golden Age painting. Christ in the House of Martha and Mary  materials canvas, oil paint. 
+
+Data to Text for <confirm>: Is the painting you're referring to Christ in the House of Martha and Mary by Johannes Vermeer, a Dutch Golden Age painting on canvas with oil paint?
+
+
+Data: paintings name Cupid and Psyche. Cupid and Psyche  creator François Gérard. Cupid and Psyche  genres mythological painting, nude. Cupid and Psyche  location Louvre.
+
+Data to Text for <confirm>: Did you mean François Gérard's mythological nude painting, Cupid and Psyche, located in the Louvre?
+
+
+Data: paintings name The Tiger Hunt. The Tiger Hunt  creator Peter Paul Rubens. The Tiger Hunt  genres genre art. The Tiger Hunt  location Museum of Fine Arts of Rennes.
+
+Data to Text for <confirm>: Is The Tiger Hunt you're talking about the genre art painting by Peter Paul Rubens located in the Museum of Fine Arts of Rennes?
+
+
+Data: paintings name The Haywain Triptych. The Haywain Triptych  creator Hieronymus Bosch. The Haywain Triptych  genres religious art.
+
+Data to Text for <confirm>: Is The Haywain Triptych the religious art piece created by Hieronymus Bosch?
+
+
+Data: paintings name Seated Nude. Seated Nude  creator Amedeo Modigliani. Seated Nude  inception 1917. 
+
+Data to Text for <confirm>: Did you mean Amedeo Modigliani's Seated Nude from 1917?
+
+
+Data: paintings name Portrait of Innocent X. Portrait of Innocent X  creator Diego Velázquez. Portrait of Innocent X  inception 1640. Portrait of Innocent X  movements Baroque painting of Spain.
+
+Data to Text for <confirm>: Is the Portrait of Innocent X painting you mentioned the Baroque painting of Spain created by Diego Velázquez in 1640?
+
+
+Data: paintings name Ancient Rome. Ancient Rome  creator Giovanni Paolo Panini. Ancient Rome  materials canvas, oil paint.
+
+Data to Text for <confirm>: So, when you mention Ancient Rome, are you talking about the painting by Giovanni Paolo Panini that is made on canvas with oil paint?
+
+
+Data: paintings name Grande Odalisque. Grande Odalisque  creator Jean Auguste Dominique Ingres. Grande Odalisque  materials canvas, oil paint. Grande Odalisque  inception 1814.
+
+Data to Text for <confirm>: So, you're talking about Jean Auguste Dominique Ingres' Grande Odalisque painted on canvas with oil in 1814. Is that the painting you're referring to?

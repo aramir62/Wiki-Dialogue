@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of actors in general. In the response, state an observation about your friend's attitude to the given actor and then ask him or her whether it generalizes to all actors of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given actor's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all actors of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: movie actors name Mila Kunis. Mila Kunis rating moderately rated. Mila Kunis cast member of Black Swan. Mila Kunis place of birth Chernivtsi.
+
+Data to Text for <verify_attribute>: I know you appreciate Mila Kunis from Black Swan. Is that how you feel about all moderately rated actors from Chernivtsi?
+
+
+Data: movie actors name Liam Neeson. Liam Neeson rating highly rated. Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation cast member Liam Neeson.
+
+Data to Text for <verify_attribute>: You said Liam Neeson was highly rated in Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation. Do you generally think Liam Neeson is a great actor?
+
+
+Data: movie actors name Farrah Fawcett. Farrah Fawcett rating highly rated. Farrah Fawcett awards received TCA Award for Outstanding Achievement in Movies. Farrah Fawcett occupation stage movie actors.
+
+Data to Text for <verify_attribute>: You seem to have a great appreciation for Farrah Fawcett. Do you usually have a high opinion of stage actors who have been given the TCA Award for Outstanding Achievement in Movies?
+
+
+Data: movie actors name Jennifer Connelly. Jennifer Connelly rating moderately rated. Blood Diamond cast member Jennifer Connelly. Blood Diamond cast member Leonardo DiCaprio.
+
+Data to Text for <verify_attribute>: You told me Jennifer Connelly's performance in Blood Diamond was only moderately rated. Do you usually find that performances by Jennifer Connelly and Leonardo DiCaprio are just ok?
+
+
+Data: movie actors name Ken Watanabe. Ken Watanabe rating highly rated. Ken Watanabe occupation television movie actors. Anthony Hopkins occupation television movie actors.
+
+Data to Text for <verify_attribute>: You said that Ken Watanabe has a high rating as a television actor. Is the same true for Anthony Hopkins as well?
+
+
+Data: movie actors name Rita Hayworth. Rita Hayworth rating lower rated. Rita Hayworth occupation film movie actors. Rita Hayworth gender female.
+
+Data to Text for <verify_attribute>: You don't seem to be a big fan of Rita Hayworth as an actor. Is this usually your opinion of female film actors with a lower rating?
+
+
+Data: movie actors name Christina Ricci. Christina Ricci rating moderately rated. Fear and Loathing in Las Vegas cast member Christina Ricci. Fear and Loathing in Las Vegas cast member Johnny Depp.
+
+Data to Text for <verify_attribute>: You said that Christina Ricci was moderately rated in Fear and Loathing in Las Vegas. Do movies with Christina Ricci and Johnny Depp usually receive moderate ratings?
+
+
+Data: movie actors name Yukio Mishima. Yukio Mishima rating highly rated. Yukio Mishima occupation playwright. Woody Allen occupation playwright.
+
+Data to Text for <verify_attribute>: You rated Yukio Mishima highly. Do you usually think highly of other playwrights like Woody Allen?
+
+
+Data: movie actors name Traci Lords. Traci Lords rating lower rated. Traci Lords cast member of Traci Lords: Underneath It All. Traci Lords occupation model.
+
+Data to Text for <verify_attribute>: I know you don't care for Traci Lords in Traci Lords: Underneath It All. Is that how you feel about all lower-rated models who are also actors?
+
+
+Data: movie actors name George Clooney. George Clooney rating top rated. George Clooney date of birth 1961.
+
+Data to Text for <verify_attribute>: You have an excellent opinion of George Clooney. Do you love all actors born in 1961?
+

@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of songs in general. In the response, state an observation about your friend's attitude to the given song and then ask him or her whether it generalizes to all songs of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given song's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all songs of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: songs name King of Sorrow. King of Sorrow rating excellent. King of Sorrow producer Sade Adu. Sade Adu record label Portrait.
+
+Data to Text for <verify_attribute>: You love King of Sorrow by Sade Adu. Do you think songs from Portrait label are usually great?
+
+
+Data: songs name Wanna Get to Know You. Wanna Get to Know You rating good. Wanna Get to Know You genre hip hop music. 5 O'Clock genre hip hop music.
+
+Data to Text for <verify_attribute>: I know you like Wanna Get to Know You. Is 5 O'Clock's hip hop music also good in your opinion?
+
+
+Data: songs name About Damn Time. About Damn Time rating good. About Damn Time genre disco. Discovery genre disco.
+
+Data to Text for <verify_attribute>: I know you like About Damn Time. Does the same go for the disco songs by Discovery?
+
+
+Data: songs name Right Here, Right Now. Right Here, Right Now rating good. Right Here, Right Now genres electronic dance music. Right Here, Right Now publication year 2015.
+
+Data to Text for <verify_attribute>: You told me that Right Here, Right Now is good. Do you generally enjoy electronic dance music from 2015?
+
+
+Data: songs name Paint It Black. Paint It Black rating excellent. Surrender performer Paint It Black.
+
+Data to Text for <verify_attribute>: You love Paint It Black's version of Surrender. Are all of Paint It Black's performances equally great?
+
+
+Data: songs name Dragostea din tei. Dragostea din tei rating good. Dragostea din tei performer O-Zone. Dar, unde eşti. performer O-Zone.
+
+Data to Text for <verify_attribute>: You said you like Dragostea din tei. Is Dar, unde eşti... by O-Zone as enjoyable in your view?
+
+
+Data: songs name Money for Nothing. Money for Nothing rating excellent. Money for Nothing genres rock music. Money for Nothing from album Brothers in Arms.
+
+Data to Text for <verify_attribute>: You love Money for Nothing from Brothers in Arms. Do you usually have a good time listening to rock music?
+
+
+Data: songs name Stargazing. Stargazing rating excellent. Stargazing performer Justin Jesso.
+
+Data to Text for <verify_attribute>: You love Stargazing by Justin Jesso. Are all his songs as great as this one?
+
+
+Data: songs name Bitter Sweet Symphony. Bitter Sweet Symphony rating mediocre. Bitter Sweet Symphony genre alternative rock. Pixies genre alternative rock.
+
+Data to Text for <verify_attribute>: You didn't seem to like Bitter Sweet Symphony. Do you usually find alternative rock songs by Pixies mediocre as well?
+
+
+Data: songs name Pumped Up Kicks. Pumped Up Kicks rating excellent. Pumped Up Kicks genre pop rock. Pumped Up Kicks performer Foster the People.
+
+Data to Text for <verify_attribute>: You love Pumped Up Kicks. Is Foster the People's pop rock music usually excellent in your eyes?
+

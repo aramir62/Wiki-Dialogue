@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a sports team you would recommend. In the response, bring up the given sports team (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the sports team, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the sports team, and not that the attribute is not true about the given sports team or that your friend does not like the sports team.
+
+
+Data: teams name Alanyaspor. Alanyaspor league Turkish Süper Lig. Fenerbahçe SK league Turkish Süper Lig. Fenerbahçe SK sport association football.
+
+Data to Text for <recommend>: Do you know about Alanyaspor and Fenerbahçe SK, two association football teams in the Turkish Süper Lig?
+
+
+Data: teams name Golden State Warriors. Golden State Warriors sport basketball. Golden State Warriors winners 1974–75 NBA season, Pacific Division. Golden State Warriors country United States of America.
+
+Data to Text for <recommend>: Are you familiar with the Golden State Warriors, the basketball team from the United States of America that won the 1974–75 NBA season and Pacific Division?
+
+
+Data: teams name A.S. Roma. A.S. Roma home venue Stadio Olimpico. Stadio Olimpico sport athletics. IF Fram Larvik sport athletics.
+
+Data to Text for <recommend>: Have you heard of A.S. Roma? They play at Stadio Olimpico, which is also used for athletics events like those of IF Fram Larvik.
+
+
+Data: teams name Servette FC. Servette FC league Swiss Super League. Grasshopper Club Zürich league Swiss Super League. Grasshopper Club Zürich sport ice hockey.
+
+Data to Text for <recommend>: Did you know about the Swiss Super League? It has both Servette FC and Grasshopper Club Zürich, an ice hockey team.
+
+
+Data: teams name Nottingham Forest F.C.. Nottingham Forest F.C. sport association football. Nottingham Forest F.C. players Paul McKenna, Thomas Lam. Nottingham Forest F.C. owned by Evangelos Marinakis.
+
+Data to Text for <recommend>: Are you familiar with Nottingham Forest F.C., the association football team with Paul McKenna and Thomas Lam, owned by Evangelos Marinakis?
+
+
+Data: teams name Arizona State Sun Devils football. Arizona State Sun Devils football sport American football. Dallas Texans sport American football.
+
+Data to Text for <recommend>: Have you heard of either the Arizona State Sun Devils football or the Dallas Texans American football teams?
+
+
+Data: teams name FC Barcelona. FC Barcelona home venue Palau Blaugrana. Palau Blaugrana sport futsal. Palau Blaugrana sport handball.
+
+Data to Text for <recommend>: Do you know about FC Barcelona, which plays futsal and handball at Palau Blaugrana?
+
+
+Data: teams name Stade Rochelais. Stade Rochelais sport rugby union. Stade Rochelais winners 2022–23 European Rugby Champions Cup, 2023 European Rugby Champions Cup final.
+
+Data to Text for <recommend>: Are you familiar with Stade Rochelais, the rugby union team that won the 2022–23 European Rugby Champions Cup and the 2023 European Rugby Champions Cup final?
+
+
+Data: teams name Baylor Bears football. Baylor Bears football sport American football. Baylor Bears football players Andrew Billings, Charlie Dupre. Baylor Bears football league Big 12 Conference.
+
+Data to Text for <recommend>: Have you heard of Baylor Bears football? It's an American football team featuring players like Andrew Billings and Charlie Dupre, playing in the Big 12 Conference.
+
+
+Data: teams name Los Angeles Lakers. Los Angeles Lakers sport basketball. Los Angeles Lakers headquarters location Los Angeles.
+
+Data to Text for <recommend>: Are you familiar with the Los Angeles Lakers basketball team, based in Los Angeles?
+

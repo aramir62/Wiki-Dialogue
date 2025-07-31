@@ -1,0 +1,51 @@
+description of <request_attribute>: A question about a preference in a certain painter's characteristic.
+
+
+Data: painters nationality .
+
+Data to Text for <request_attribute>: Do you have a preference for painters from a certain nationality?
+
+
+Data: painters nationality .
+
+Data to Text for <request_attribute>: What is your preference when it comes to the nationality of the painter?
+
+
+Data: painters movements .
+
+Data to Text for <request_attribute>: Which artistic movement do you prefer when it comes to painters and their work?
+
+
+Data: painters movements .
+
+Data to Text for <request_attribute>: Which artistic movement do you prefer when it comes to paintings?
+
+
+Data: painters genres .
+
+Data to Text for <request_attribute>: What genres or styles of painting do you prefer in a painter's work?
+
+
+Data: painters genres .
+
+Data to Text for <request_attribute>: What genres of paintings are your favorite in general?
+
+
+Data: painters nationality .
+
+Data to Text for <request_attribute>:  Which nationality of painters do you find most intriguing or appealing?
+
+
+Data: painters movements .
+
+Data to Text for <request_attribute>: Which artistic movement do you find most interesting or appealing in a painter's work?
+
+
+Data: painters genres .
+
+Data to Text for <request_attribute>: What genres do you appreciate the most when it comes to paintings by a certain artist?
+
+
+Data: painters nationality .
+
+Data to Text for <request_attribute>: Which nationality of painter do you prefer or are most interested in?

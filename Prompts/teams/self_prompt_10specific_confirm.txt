@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a sports team. In the response, ask for a confirmation of the given sports team by referring to its attributes. Imagine that the sports team's name has just been mentioned in the conversation, but you know of multiple sports teams with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the sports team, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the sports team your friend had in mind, and not that the attribute is not true about the given sports team.
+
+
+Data: teams name Dorados de Sinaloa. Dorados de Sinaloa sport association football. Dorados de Sinaloa winners Apertura 2012 Copa MX. Dorados de Sinaloa head coach José Guadalupe Cruz.
+
+Data to Text for <confirm>: Are you talking about Dorados de Sinaloa, the association football team led by José Guadalupe Cruz that won the Apertura 2012 Copa MX?
+
+
+Data: teams name Maryland Terrapins football. Maryland Terrapins football sport American football. Maryland Terrapins football country United States of America. Maryland Terrapins football home venue SECU Stadium.
+
+Data to Text for <confirm>: Are you referring to Maryland Terrapins football, an American football team from the United States of America that plays at SECU Stadium?
+
+
+Data: teams name FC Bayern Munich. FC Bayern Munich sport association football. FC Bayern Munich winners VfB Stuttgart versus FC Bayern Munich 2010–11 Fußball-Bundesliga, FC Bayern München versus Werder Bremen 1998-99 Fußball-Bundesliga. FC Bayern Munich players Unger, Sonja Kirsinger.
+
+Data to Text for <confirm>: Are you talking about FC Bayern Munich, the association football team with players Unger and Sonja Kirsinger that won VfB Stuttgart versus FC Bayern Munich 2010–11 Fußball-Bundesliga and FC Bayern München versus Werder Bremen 1998-99 Fußball-Bundesliga?
+
+
+Data: teams name Hanshin Tigers. Hanshin Tigers sport baseball. Hanshin Tigers head coach Akinobu Okada. Hanshin Tigers players Akitoshi Kodama, Shuhei Takada.
+
+Data to Text for <confirm>: Are you talking about Hanshin Tigers, the baseball team coached by Akinobu Okada with Akitoshi Kodama and Shuhei Takada as players?
+
+
+Data: teams name Los Angeles Lakers. Los Angeles Lakers sport basketball. Los Angeles Lakers winners 2001–02 NBA season, 1953 NBA World Championship Series. Los Angeles Lakers inception 1947.
+
+Data to Text for <confirm>: Are you referring to the Los Angeles Lakers basketball team that won the 2001–02 NBA season and 1953 NBA World Championship Series, founded in 1947?
+
+
+Data: teams name Stade Rochelais. Stade Rochelais sport rugby union. Stade Rochelais home venue Stade Marcel-Deflandre.
+
+Data to Text for <confirm>: Are you talking about Stade Rochelais, the rugby union team based at Stade Marcel-Deflandre?
+
+
+Data: teams name Baylor Bears football. Baylor Bears football sport American football. Baylor Bears football winners N/A. Baylor Bears football inception 1899.
+
+Data to Text for <confirm>: Are you referring to Baylor Bears football, an American football team founded in 1899 that has no major wins?
+
+
+Data: teams name Barcelona S.C.. Barcelona S.C. sport association football. Barcelona S.C. league Ecuador Serie A. Barcelona S.C. winners 1971 Campeonato Ecuatoriano de Fútbol Serie A, 1970 Campeonato Ecuatoriano de Fútbol Serie A.
+
+Data to Text for <confirm>: Are you talking about Barcelona S.C., the association football team from Ecuador Serie A that won the 1971 Campeonato Ecuatoriano de Fútbol Serie A and the 1970 Campeonato Ecuatoriano de Fútbol Serie A?
+
+
+Data: teams name Leeds United F.C.. Leeds United F.C. sport association football. Leeds United F.C. owned by http://www.wikidata.org/.well-known/genid/75a8f1144c10481b55eec170e1e4053c.
+
+Data to Text for <confirm>: Are you talking about Leeds United F.C., the association football team owned by http://www.wikidata.org/.well-known/genid/75a8f1144c10481b55eec170e1e4053c?
+
+
+Data: teams name Boston Celtics. Boston Celtics sport basketball. Boston Celtics country United States of America. Boston Celtics headquarters location Boston.
+
+Data to Text for <confirm>: Are you referring to the Boston Celtics basketball team from the United States of America located in Boston?
+

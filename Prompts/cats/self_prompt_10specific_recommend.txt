@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a cat you would recommend. In the response, bring up the given cat (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the cat, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the cat, and not that the attribute is not true about the given cat or that your friend does not like the cat.
+
+
+Data: cats name Selkirk Rex. Selkirk Rex other pets friendly very friendly to other pets. Selkirk Rex rating alright.
+
+Data to Text for <recommend>: I think you'll really like the Selkirk Rex cat breed, they are very friendly to other pets and rate alright. Have you ever heard of it?
+
+
+Data: cats name Manx. Manx meowing meows occasionally. Manx min weight 8.0.
+
+Data to Text for <recommend>: One of my favorite cat breeds is the Manx, which can weight as little as 8.0 and meows occasionally. Do you know this breed?
+
+
+Data: cats name Exotic. Exotic rating okay. Exotic playfulness very playful.
+
+Data to Text for <recommend>: If you're looking for a playful cat, you should consider getting an Exotic. It's not too exotic, but it's very playful. Would you like to know more about it?
+
+
+Data: cats name American Shorthair. American Shorthair origin United States.
+
+Data to Text for <recommend>: Have you ever seen the American Shorthair breed of cats? They were originally from the United States.
+
+
+Data: cats name Havana Brown. Havana Brown min life expectancy 10. Havana Brown min weight 6.0.
+
+Data to Text for <recommend>: I've heard a lot about the Havana Brown cat breed, with its minimum life expectancy of 10 years and minimum weight of 6.0 lbs. Have you ever seen a Havana Brown cat before?
+
+
+Data: cats name Bengal Cats. Bengal Cats length 17 to 22 inches, not including tail.
+
+Data to Text for <recommend>: I really like Bengal Cats because of their size, which is usually between 17 and 22 inches, not including the tail. Have you heard of them?
+
+
+Data: cats name Ocicat. Ocicat other pets friendly friendly to other pets.
+
+Data to Text for <recommend>: You should really consider getting an Ocicat, they are friendly to other pets and make great companions. Are you familiar with them?
+
+
+Data: cats name Chantilly-Tiffany. Chantilly-Tiffany origin United States. Chantilly-Tiffany general health mainly healthy.
+
+Data to Text for <recommend>: I recently have been researching cat breeds and came across the Chantilly-Tiffany from the United States. It has a mainly healthy general health. Would you like to learn more about it?
+
+
+Data: cats name Siamese Cat. Siamese Cat shedding minimal shedding. Siamese Cat intelligence most intelligent.
+
+Data to Text for <recommend>: I might be biased, but I highly recommend the Siamese Cat. It's known for minimal shedding and is considered one of the most intelligent of all cat breeds. Have you ever seen a Siamese Cat?
+
+
+Data: cats name Himalayan.
+
+Data to Text for <recommend>: I'm a huge fan of Himalayan Cats. Have you ever seen one?
+

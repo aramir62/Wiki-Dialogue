@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of actors in general. In the response, state an observation about your friend's attitude to the given actor and then ask him or her whether it generalizes to all actors of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given actor's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all actors of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: tv actors name Billy Bob Thornton. Billy Bob Thornton rating top rated. Billy Bob Thornton height average. Billy Bob Thornton place of birth Hot Springs.
+
+Data to Text for <verify_attribute>: I know you love Billy Bob Thornton's performances. Do you think all actors with an average height from Hot Springs are top rated?
+
+
+Data: tv actors name Rob Lowe. Rob Lowe rating highly_rated. Austin Powers in Goldmember cast member Rob Lowe. Brothers & Sisters cast member Rob Lowe.
+
+Data to Text for <verify_attribute>: You seem to really like Rob Lowe in Austin Powers in Goldmember. Is that the same for Rob Lowe in Brothers & Sisters?
+
+
+Data: tv actors name Rashida Jones. Rashida Jones rating lower rated. Rashida Jones place of birth Los Angeles. John Gavin place of birth Los Angeles.
+
+Data to Text for <verify_attribute>: You said Rashida Jones is lower rated. Does that opinion extend to other Los Angeles born tv actors like John Gavin?
+
+
+Data: tv actors name Rami Malek. Rami Malek rating top rated. The Twilight Saga: Breaking Dawn – Part 1 cast member Rami Malek. The Twilight Saga: Breaking Dawn – Part 1 cast member Peter Facinelli.
+
+Data to Text for <verify_attribute>: You love Rami Malek from The Twilight Saga: Breaking Dawn – Part 1. Do you feel the same way about Peter Facinelli?
+
+
+Data: tv actors name Nikolaj Coster-Waldau. Nikolaj Coster-Waldau rating highly rated. Game of Thrones cast member Nikolaj Coster-Waldau. Game of Thrones cast member Hafþór Júlíus Björnsson.
+
+Data to Text for <verify_attribute>: I know you think highly of Nikolaj Coster-Waldau on Game of Thrones. Do you like Hafþór Júlíus Björnsson's acting too?
+
+
+Data: tv actors name Aubrey Plaza. Aubrey Plaza rating moderately rated. Aubrey Plaza place of birth Wilmington. George Alexis Weymouth place of birth Wilmington.
+
+Data to Text for <verify_attribute>: You told me you think Aubrey Plaza is decent. Is George Alexis Weymouth another moderately rated actor from Wilmington?
+
+
+Data: tv actors name Kaley Cuoco. Kaley Cuoco rating top rated. Kaley Cuoco place of birth Camarillo. Picture Perfect cast member Kaley Cuoco.
+
+Data to Text for <verify_attribute>: You love Kaley Cuoco from Camarillo. Is Picture Perfect cast member Kaley Cuoco just as good in your opinion?
+
+
+Data: tv actors name Jeffrey Dean Morgan. Jeffrey Dean Morgan rating highly_rated. Jeffrey Dean Morgan cast member of The Walking Dead. Jeffrey Dean Morgan date of birth 1966.
+
+Data to Text for <verify_attribute>: You seem to really appreciate Jeffrey Dean Morgan's acting. Does this apply to other highly rated actors born in 1966 who were cast members of The Walking Dead?
+
+
+Data: tv actors name Tobias Menzies. Tobias Menzies rating moderately rated. Casino Royale cast member Tobias Menzies. Casino Royale cast member Ludger Pistor.
+
+Data to Text for <verify_attribute>: You only gave Tobias Menzies a mediocre rating. Do you have the same opinion of Ludger Pistor from Casino Royale?
+
+
+Data: tv actors name Winona Ryder. Winona Ryder rating top rated. Black Swan cast member Winona Ryder. Black Swan cast member Mark Margolis.
+
+Data to Text for <verify_attribute>: You love Winona Ryder in Black Swan. Is your opinion of Mark Margolis just as high?
+

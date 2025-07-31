@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of TV shows in general. In the response, state an observation about your friend's attitude to the given TV show and then ask him or her whether it generalizes to all TV shows of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given TV show's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all TV shows of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: tv shows name 1899. 1899 rating good. 1899 creator Baran bo Odar. The Origin screenwriter Baran bo Odar.
+
+Data to Text for <verify_attribute>: You said 1899 was good. Do you think that most of Baran bo Odar's works in TV are good?
+
+
+Data: tv shows name My Country: The New Age. My Country: The New Age rating average. My Country: The New Age screenwriter Chae Seung-dae. Master – God of Noodles screenwriter Chae Seung-dae.
+
+Data to Text for <verify_attribute>: You said My Country: The New Age had an average rating. Does this apply to other works by Chae Seung-dae, like Master – God of Noodles?
+
+
+Data: tv shows name Gunpowder. Gunpowder review score average. Gunpowder cast member Martin Lindley, Edward Holcroft. Gunpowder character Robert Cecil, Christopher Wright.
+
+Data to Text for <verify_attribute>: I remember you thought Gunpowder was just alright. Do you usually find shows starring Martin Lindley, Edward Holcroft, Robert Cecil, and Christopher Wright to be average?
+
+
+Data: tv shows name Bordertown. Bordertown rating poor. Bordertown cast member Ville Virtanen. Ville Virtanen award received Jussi Award for Best Leading Actor.
+
+Data to Text for <verify_attribute>: You said Bordertown was pretty boring. Is it usually the case for films starring Ville Virtanen, who won the Jussi Award for Best Leading Actor?
+
+
+Data: tv shows name The Crown. The Crown rating good. The Crown characters Mary of Teck. Delhi Durbar cast member Mary of Teck.
+
+Data to Text for <verify_attribute>: You like the show The Crown. Did you also enjoy Mary of Teck's performance in Delhi Durbar?
+
+
+Data: tv shows name Self Made: Inspired by the Life of Madam C. J. Walker. Self Made: Inspired by the Life of Madam C. J. Walker review score average.
+
+Data to Text for <verify_attribute>: I know you found Self Made: Inspired by the Life of Madam C. J. Walker to be average. Do you usually think TV shows are not that great?
+
+
+Data: tv shows name Lucifer. Lucifer review score average. Lucifer cast member Scarlett Estevez, Brianna Hildebrand. Lucifer character Linda Martin, Presence.
+
+Data to Text for <verify_attribute>: You said Lucifer was just okay. Are Scarlett Estevez, Brianna Hildebrand, Linda Martin, and Presence usually in average shows in your opinion?
+
+
+Data: tv shows name Belgravia. Belgravia rating poor. Belgravia creator Julian Fellowes. Julian Fellowes award received Academy Award for Best Writing, Original Screenplay.
+
+Data to Text for <verify_attribute>: You said Belgravia was poor. Does this usually apply to Julian Fellowes' work, even though he won an Academy Award for Best Writing, Original Screenplay?
+
+
+Data: tv shows name Belgravia. Belgravia rating poor. Belgravia characters Arthur Wellesley, 1st Duke of Wellington. Arthur Wellesley, 1st Duke of Wellington award received Knight of the Grand Cross of the Order of the Sword.
+
+Data to Text for <verify_attribute>: You mentioned that Belgravia wasn't very good. Do you usually think shows with Arthur Wellesley, 1st Duke of Wellington, a Knight of the Grand Cross of the Order of the Sword, are poor?
+
+
+Data: tv shows name The Big Bang Theory. The Big Bang Theory review score excellent. The Big Bang Theory awards received Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series. The Big Bang Theory character Stuart Bloom, Leslie Winkle.
+
+Data to Text for <verify_attribute>: You said The Big Bang Theory was excellent and won a Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series. Do you generally like sitcoms featuring Stuart Bloom and Leslie Winkle?
+

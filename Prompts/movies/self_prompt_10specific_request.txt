@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a movie. In the response, prompt your friend to name a movie which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single movie, or a yes/no answer (followed by the name of a movie in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: movies specifier dramatic. movies screenwriter Sylvester Stallone, Cheo Hodari Coker.
+
+Data to Text for <request>: What dramatic movie has been written by Sylvester Stallone and Cheo Hodari Coker?
+
+
+Data: movies specifier overrated. movies genre film based on a novel, slasher film.
+
+Data to Text for <request>: Do you think any film based on a novel or slasher film is overrated?
+
+
+Data: movies specifier realistic. movies publication date 1998.
+
+Data to Text for <request>: Are there any realistic movies from 1998 that you like?
+
+
+Data: movies specifier funniest. movies director Cary Joji Fukunaga.
+
+Data to Text for <request>: What's the funniest movie Cary Joji Fukunaga directed?
+
+
+Data: movies specifier engaging. movies genre action film, science fiction film.
+
+Data to Text for <request>: Can you think of an engaging action or science fiction film?
+
+
+Data: movies specifier cheerful. movies producer Bill Block, Jason Blum, Malek Akkad.
+
+Data to Text for <request>: What cheerful movie did Bill Block, Jason Blum, and Malek Akkad produce?
+
+
+Data: movies specifier scary. movies publication date 2022.
+
+Data to Text for <request>: Are you looking forward to any scary movies coming out in 2022?
+
+
+Data: movies specifier boring. movies producer Brian Gunn, Kenneth Huang, Dan Clifton, Mark Gunn, James Gunn.
+
+Data to Text for <request>: What's the most boring movie Brian Gunn, Kenneth Huang, Dan Clifton, Mark Gunn, and James Gunn have produced?
+
+
+Data: movies specifier scary. movies MPA film rating R.
+
+Data to Text for <request>: Have you seen any R-rated horror movies that were really scary?
+
+
+Data: movies specifier interesting. movies screenwriter David Ayer.
+
+Data to Text for <request>: What interesting movie has David Ayer written?
+

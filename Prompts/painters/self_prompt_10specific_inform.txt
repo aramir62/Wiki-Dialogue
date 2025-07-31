@@ -1,0 +1,51 @@
+description of <inform>: A summary of the painter based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: painters name Otto Dix. Otto Dix  notable works Metropolis, The Skat players. Otto Dix  nationality German. Otto Dix  movements Expressionism, New Objectivity. Otto Dix  occupations graphic artist, sculptor. Otto Dix  genres landscape art, still life. Otto Dix  life period century XIX - XX.
+
+Data to Text for <inform>:  Otto Dix was a German artist known for his works such as Metropolis and The Skat Players. He was associated with the Expressionism and New Objectivity movements, and worked in landscape art and still life genres during the 19th and 20th centuries. In addition to being a graphic artist, he also dabbled in sculpting.
+
+
+Data: painters name Banksy. Banksy  notable works Love is in the Bin. Banksy  occupations muralist, painter. Banksy  genres social-artistic project, graffiti. Banksy  movements contemporary art.
+
+Data to Text for <inform>:  Banksy is a painter and muralist known for his social-artistic projects, graffiti, and controversial works. He is associated with the contemporary art movement and is famous for pieces like "Love is in the Bin."
+
+
+Data: painters name Edvard Munch. Edvard Munch  notable works The Scream, Arve Arvesen. Edvard Munch  genres portrait, Expressionism. Edvard Munch  life period century XIX - XX. Edvard Munch  nationality Norwegian. Edvard Munch  occupations drawer, printmaker.
+
+Data to Text for <inform>: Edvard Munch, a Norwegian artist from the 19th and 20th centuries, is known for his iconic works like The Scream and Arve Arvesen. He was a renowned drawer and printmaker, specializing in portrait art within the Expressionism genre.
+
+
+Data: painters name Pablo Picasso. Pablo Picasso  notable works Three Musicians, Garçon à la pipe. Pablo Picasso  movements surrealism, post-impressionism. Pablo Picasso  occupations drawer, scenographer. Pablo Picasso  genres ceramic, animal art. Pablo Picasso  nationality Spanish. 
+
+Data to Text for <inform>: Pablo Picasso, a Spanish artist, was known for his movements in surrealism and post-impressionism. He worked in various genres such as ceramic and animal art, and his notable works include "Three Musicians" and "Garçon à la pipe." In addition to being a painter, he also worked as a drawer and scenographer.
+
+
+Data: painters name L. S. Lowry. L. S. Lowry  notable works Going to the Match. L. S. Lowry  nationality British. L. S. Lowry  genres genre painting, landscape art. L. S. Lowry  occupations visual artist, painter. L. S. Lowry  movements naïve art. L. S. Lowry  life period century XIX - XX. 
+
+Data to Text for <inform>:  L. S. Lowry, a British painter and visual artist, is known for his genre painting and landscape art, including notable works like "Going to the Match". He was part of the naïve art movement and lived during the 19th and 20th centuries.
+
+
+Data: painters name Jasper Johns. Jasper Johns  notable works Map, Three Flags. Jasper Johns  genres Abstract art, figure. Jasper Johns  life period century XX. Jasper Johns  movements Neo-Dada. 
+
+Data to Text for <inform>: Jasper Johns, known for his Abstract art and figures, was a prominent artist in the 20th century associated with the Neo-Dada movement. Some of his notable works include Map and Three Flags.
+
+
+Data: painters name Salvador Dalí. Salvador Dalí  notable works Soft Construction with Boiled Beans, The Sacrament of the Last Supper. Salvador Dalí  occupations painter, photographer. Salvador Dalí  life period century XX.
+
+Data to Text for <inform>: Salvador Dalí, a painter and photographer from the 20th century, is known for his notable works such as Soft Construction with Boiled Beans and The Sacrament of the Last Supper.
+
+
+Data: painters name Johannes Vermeer. Johannes Vermeer  notable works The Procuress, A Girl Asleep. Johannes Vermeer  nationality Dutch.
+
+Data to Text for <inform>:  Johannes Vermeer, a Dutch painter, is known for notable works such as The Procuress and A Girl Asleep.
+
+
+Data: painters name Claude Monet. Claude Monet  notable works Garden at Sainte-Adresse, La Corniche near Monaco. Claude Monet  nationality French. Claude Monet  life period century XIX - XX. 
+
+Data to Text for <inform>:  Claude Monet, a French painter from the 19th to 20th century, is known for his notable works like Garden at Sainte-Adresse and La Corniche near Monaco.
+
+
+Data: painters name Pablo Picasso. Pablo Picasso  notable works Les Demoiselles dAvignon, Science and Charity. Pablo Picasso  occupations architectural draftsperson, scenographer.
+
+Data to Text for <inform>:  Pablo Picasso is known for his notable works such as Les Demoiselles d'Avignon and Science and Charity. He worked as an architectural draftsperson and scenographer.

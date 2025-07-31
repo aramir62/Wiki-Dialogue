@@ -1,0 +1,51 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of painters. In the response, ask your friend if he or she has experience with a certain type of painters, suggesting the given painter as an example of such a painter. The response should consist of a single yes/no question (possibly an indirect one, such as ""I was wondering if...""), with the painter name at the end as an example. Make sure you ask about the general category of painters corresponding to the given attributes, not the example painter directly, nor the friend's general opinion. In other words, a ""no"" answer to your question should mean that your friend has no experience or is not fond of such painters, and not that your friend does not like the given painter.
+
+
+Data: painters name John Everett Millais. John Everett Millais  occupations painter, photographer.
+
+Data to Text for <suggest>:  I was wondering, do you have any experience with painters who are also photographers, like John Everett Millais?
+
+
+Data: painters name Leonardo da Vinci. Leonardo da Vinci  movements High Renaissance. Leonardo da Vinci  life period century XV - XVI.
+
+Data to Text for <suggest>:  Have you studied artists from the High Renaissance period, like Leonardo da Vinci?
+
+
+Data: painters name Leonardo da Vinci. Leonardo da Vinci  genres religious painting, religious art. 
+
+Data to Text for <suggest>:  Have you ever come across religious paintings or religious art, like those done by Leonardo da Vinci?
+
+
+Data: painters name Edvard Munch. Edvard Munch  movements Expressionism, Symbolism. Edvard Munch  occupations printmaker, graphic artist.
+
+Data to Text for <suggest>:  Are you familiar with artists who work in the Expressionism and Symbolism movements, such as Edvard Munch, who was a printmaker and graphic artist?
+
+
+Data: painters name Gerhard Richter. Gerhard Richter  movements capitalist realism. Gerhard Richter  nationality German.
+
+Data to Text for <suggest>: Do you have any knowledge or experience with German artists associated with the capitalist realism movement, such as Gerhard Richter?
+
+
+Data: painters name Caravaggio. Caravaggio  genres religious painting, genre painting. Caravaggio  nationality Italian. 
+
+Data to Text for <suggest>:  Have you ever been interested in Italian painters who specialize in religious and genre painting, like Caravaggio?
+
+
+Data: painters name Raphael. Raphael  life period century XV - XVI.
+
+Data to Text for <suggest>:  Have you studied any painters from the 15th or 16th centuries, like Raphael?
+
+
+Data: painters name William Blake. William Blake  occupations printer, poet.
+
+Data to Text for <suggest>:  Have you ever heard of someone who is both a printer and a poet, like William Blake?
+
+
+Data: painters name Edvard Munch. Edvard Munch  life period century XIX - XX. Edvard Munch  genres self-portrait, landscape art. 
+
+Data to Text for <suggest>:  I was wondering if you enjoy self-portraits and landscape art from the 19th to 20th centuries, like the works of Edvard Munch?
+
+
+Data: painters name Ivan Aivazovsky. Ivan Aivazovsky  nationality Russian.
+
+Data to Text for <suggest>:  Do you have any interest in Russian painters, like Ivan Aivazovsky?

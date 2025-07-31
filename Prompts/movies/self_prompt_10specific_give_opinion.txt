@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given movie and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: movies name The Banshees of Inisherin. The Banshees of Inisherin review score excellent. The Banshees of Inisherin screenwriter Martin McDonagh.
+
+Data to Text for <give_opinion>: The Banshees of Inisherin was excellent, thanks in part to the great writing of Martin McDonagh.
+
+
+Data: movies name Thor: Love and Thunder. Thor: Love and Thunder review score average. Thor: Love and Thunder producer Kevin Feige. Thor: Love and Thunder cast member Stephen Hunter, Elsa Pataky.
+
+Data to Text for <give_opinion>: Thor: Love and Thunder had an average review score, but I think Stephen Hunter and Elsa Pataky's performances, along with Kevin Feige's producing, make it worth watching.
+
+
+Data: movies name Spencer. Spencer rating good. Spencer producer Janine Jackowski. Spencer producer Juan de Dios Larraín.
+
+Data to Text for <give_opinion>: Spencer is a good movie with solid production from Janine Jackowski and Juan de Dios Larraín.
+
+
+Data: movies name Midway. Midway rating average. Midway genre action film.
+
+Data to Text for <give_opinion>: I think Midway is an average action film. It's entertaining, but nothing particularly special.
+
+
+Data: movies name Top Gun: Maverick. Top Gun: Maverick review score excellent. Top Gun: Maverick screenwriter Justin Marks, Peter Craig, Christopher McQuarrie, Eric Warren Singer, Ashley Miller, Ehren Kruger, Zack Stentz. Top Gun: Maverick MPA film rating PG-13.
+
+Data to Text for <give_opinion>: Top Gun: Maverick is an excellent movie. The PG-13 rating makes it accessible for all ages, and the writing by Justin Marks, Peter Craig, Christopher McQuarrie, Eric Warren Singer, Ashley Miller, Ehren Kruger, and Zack Stentz is top notch.
+
+
+Data: movies name Black Panther. Black Panther rating good. Black Panther cast member Martin Freeman. Love Actually cast member Martin Freeman.
+
+Data to Text for <give_opinion>: Black Panther is a good movie. Martin Freeman delivers a great performance, just like he did in Love Actually.
+
+
+Data: movies name Pinocchio. Pinocchio review score poor. Pinocchio director Robert Zemeckis. Pinocchio publication date 2022.
+
+Data to Text for <give_opinion>: Pinocchio has a poor review score, but I am still looking forward to its release in 2022 due to Robert Zemeckis's direction.
+
+
+Data: movies name Halloween Ends. Halloween Ends review score average.
+
+Data to Text for <give_opinion>: Halloween Ends was an average movie.
+
+
+Data: movies name Sonic the Hedgehog 2. Sonic the Hedgehog 2 rating average. Sonic the Hedgehog 2 genre action film. The Usual Suspects genre action film.
+
+Data to Text for <give_opinion>: Sonic the Hedgehog 2 is an average action film. There are better action movies out there, such as The Usual Suspects.
+
+
+Data: movies name Elvis. Elvis rating good. Elvis genre biographical film. Allá en el setenta y tantos genre biographical film.
+
+Data to Text for <give_opinion>: Elvis is a good biographical film. It's an interesting take on the life of Elvis and worth watching. Allá en el setenta y tantos is also a biographical film, but I haven't seen it yet so I can't give an opinion.
+

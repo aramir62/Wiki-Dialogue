@@ -1,0 +1,51 @@
+description of <request_attribute>: A question about a preference in a certain musician's characteristic.
+
+
+Data: musicians gender .
+
+Data to Text for <request_attribute>: Which gender of musicians do you usually prefer or feel more drawn to?
+
+
+Data: musicians from .
+
+Data to Text for <request_attribute>: Is there a particular region or country you prefer the musicians to come from?
+
+Data: musicians genres .
+
+Data to Text for <request_attribute>: Which music genres do you enjoy most?
+
+
+Data: musicians record label .
+
+Data to Text for <request_attribute>: Are there any record labels whose musicians you prefer or follow closely?
+
+
+Data: musicians awards .
+
+Data to Text for <request_attribute>: Which awards do you value most when considering a musician’s achievements?
+
+
+Data: musicians gender .
+
+Data to Text for <request_attribute>: Which gender of musicians do you find yourself most drawn to?
+
+
+Data: musicians from .
+
+Data to Text for <request_attribute>: Which region or country do you prefer your musicians to hail from?
+
+
+Data: musicians awards .
+
+Data to Text for <request_attribute>: Which awards do you consider most meaningful when evaluating a musician’s career?
+
+
+Data: musicians record label .
+
+Data to Text for <request_attribute>: Which record label’s musicians do you prefer to listen to?
+
+
+Data: musicians genres .
+
+Data to Text for <request_attribute>: Which music genres do you prefer when choosing musicians to listen to?
+

@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of movies. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of movies. Assume your friend has indicated his or her sentiment about the kind of movies earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of movies determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: movies review score good. movies director Robert Eggers. movies screenwriter Robert Eggers, Sjón.
+
+Data to Text for <request_explanation>: What makes you like the movies directed by Robert Eggers and written by Robert Eggers and Sjón?
+
+
+Data: movies review score average. movies character Meg Ryan as Carole Bradshaw.
+
+Data to Text for <request_explanation>: Why do you think Meg Ryan's performance as Carole Bradshaw has an average rating?
+
+
+Data: movies review score good. movies publication date 2021. movies cast member Ana de Armas, Rami Malek.
+
+Data to Text for <request_explanation>: What is it about the 2021 movie starring Ana de Armas and Rami Malek that you find so good?
+
+
+Data: movies name black comedy. black comedy rating excellent. The Simpsons genre black comedy.
+
+Data to Text for <request_explanation>: What makes The Simpsons such an excellent black comedy?
+
+
+Data: movies name Salma Hayek. Salma Hayek rating average. From Dusk till Dawn cast member Salma Hayek.
+
+Data to Text for <request_explanation>: Why do you think Salma Hayek's performance in From Dusk till Dawn was average?
+
+
+Data: movies review score poor. movies genre adventure film, fantasy film. movies producer Chris Weitz.
+
+Data to Text for <request_explanation>: What made you give the adventure-fantasy movie produced by Chris Weitz a poor review?
+
+
+Data: movies review score average. movies character Bill Murray as Krylar.
+
+Data to Text for <request_explanation>: What makes Bill Murray's performance as Krylar just average in your opinion?
+
+
+Data: movies review score excellent. movies screenwriter Justin Marks, Peter Craig, Christopher McQuarrie, Eric Warren Singer, Ashley Miller, Ehren Kruger, Zack Stentz. movies publication date 2022.
+
+Data to Text for <request_explanation>: What is it about the 2022 movies written by Justin Marks, Peter Craig, Christopher McQuarrie, Eric Warren Singer, Ashley Miller, Ehren Kruger, and Zack Stentz that you find to be excellent?
+
+
+Data: movies name Reese Witherspoon. Reese Witherspoon rating average. Water for Elephants cast member Reese Witherspoon.
+
+Data to Text for <request_explanation>: Why do you think Water for Elephants with Reese Witherspoon received an average rating?
+
+
+Data: movies review score excellent. movies screenwriter Anthony Fabian, Olivia Hetreed. movies producer Anthony Fabian, Xavier Marchand, Guillaume Benski.
+
+Data to Text for <request_explanation>: What makes the movies written by Anthony Fabian and Olivia Hetreed and produced by Anthony Fabian, Xavier Marchand, and Guillaume Benski so excellent?
+

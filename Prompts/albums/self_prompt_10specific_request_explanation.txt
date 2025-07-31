@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of albums. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of albums. Assume your friend has indicated his or her sentiment about the kind of albums earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of albums determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: albums rating excellent. albums producer Nigel Godrich.
+
+Data to Text for <request_explanation>: What makes you think the albums produced by Nigel Godrich are excellent?
+
+
+Data: albums rating excellent. albums contains Shine On You Crazy Diamond. albums performer Pink Floyd.
+
+Data to Text for <request_explanation>: What do you like about Pink Floyd's song Shine On You Crazy Diamond that makes it so excellent?
+
+
+Data: albums rating mediocre. albums publication year 1982. albums contains El Shaddai.
+
+Data to Text for <request_explanation>: Why do you think the 1982 album El Shaddai is only mediocre?
+
+
+Data: albums rating excellent. albums performer Michael Jackson. albums genres contemporary R&B.
+
+Data to Text for <request_explanation>: What makes Michael Jackson's contemporary R&B albums so excellent?
+
+
+Data: albums rating excellent. albums contains Heaven in Your Eyes. albums record label Columbia Records.
+
+Data to Text for <request_explanation>: What is it about Heaven in Your Eyes from Columbia Records that makes it so excellent?
+
+
+Data: albums rating mediocre. albums contains D-O-G Me Out. albums performer Guy.
+
+Data to Text for <request_explanation>: Why do you think the album D-O-G Me Out by Guy is only mediocre?
+
+
+Data: albums rating excellent. albums contains Lets Go Away for Awhile. albums performer The Beach Boys.
+
+Data to Text for <request_explanation>: What makes the Beach Boys' song Lets Go Away for Awhile so excellent?
+
+
+Data: albums rating excellent. albums performer Taylor Swift. albums genres alternative rock.
+
+Data to Text for <request_explanation>: What do you like about Taylor Swift's alternative rock albums that make them excellent?
+
+
+Data: albums rating mediocre. albums contains Until You Come Back to Me. albums producer Jerry Wexler.
+
+Data to Text for <request_explanation>: Why do you think the album Until You Come Back to Me produced by Jerry Wexler is only mediocre?
+
+
+Data: albums rating excellent. albums contains New Years Day. albums record label Big Machine Records.
+
+Data to Text for <request_explanation>: What makes the Big Machine Records album New Years Day so excellent?
+

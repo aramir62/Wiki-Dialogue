@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about an album. In the response, prompt your friend to name an album which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single album, or a yes/no answer (followed by the name of an album in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: albums specifier bland. albums contains Delicate.
+
+Data to Text for <request>: Do you know any bland albums featuring Delicate?
+
+
+Data: albums specifier catchy. albums genres synth-pop.
+
+Data to Text for <request>: What's the most catchy synth-pop album?
+
+
+Data: albums specifier bland. albums contains Geronimos Cadillac.
+
+Data to Text for <request>: Is Geronimos Cadillac a bland album?
+
+
+Data: albums specifier nostalgic. albums contains Run for Your Life.
+
+Data to Text for <request>: Do you know any nostalgic albums with Run for Your Life?
+
+
+Data: albums specifier thought-provoking. albums contains While My Guitar Gently Weeps.
+
+Data to Text for <request>: What's the most thought-provoking album featuring While My Guitar Gently Weeps?
+
+
+Data: albums specifier energetic. albums record label Def Jam Recordings.
+
+Data to Text for <request>: Do you know any energetic albums by Def Jam Recordings?
+
+
+Data: albums specifier forgettable. albums genres rock and roll.
+
+Data to Text for <request>: What's the most forgettable rock and roll album?
+
+
+Data: albums specifier nostalgic. albums contains Wish I Didnt Know Now.
+
+Data to Text for <request>: Do you know any nostalgic albums featuring Wish I Didn't Know Now?
+
+
+Data: albums specifier captivating. albums contains Ive Just Seen a Face.
+
+Data to Text for <request>: What's the most captivating album featuring Ive Just Seen a Face?
+
+
+Data: albums specifier uplifting. albums record label Big Machine Records.
+
+Data to Text for <request>: Do you know any uplifting albums by Big Machine Records?
+

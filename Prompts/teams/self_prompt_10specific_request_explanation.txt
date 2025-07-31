@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of sports teams. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of sports teams. Assume your friend has indicated his or her sentiment about the kind of sports teams earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of sports teams determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: teams rating excellent. teams winners 2004–05 Coppa Italia, 2008–09 Serie A.
+
+Data to Text for <request_explanation>: What makes the team that won the 2004–05 Coppa Italia and 2008–09 Serie A so excellent?
+
+
+Data: teams rating good. teams league Premier League. teams owned by Farhad Moshiri.
+
+Data to Text for <request_explanation>: What do you like about Farhad Moshiri's Premier League teams?
+
+
+Data: teams name Liga Portugal. Liga Portugal rating okay. C.S. Marítimo league Liga Portugal.
+
+Data to Text for <request_explanation>: What makes C.S. Marítimo's Liga Portugal performance just okay?
+
+
+Data: teams rating excellent. teams winners Eintracht Frankfurt versus Borussia Dortmund 1964-65 Fußball-Bundesliga, Borussia Dortmund versus FC St. Pauli 1995-96 Fußball-Bundesliga.
+
+Data to Text for <request_explanation>: What makes the Eintracht Frankfurt versus Borussia Dortmund 1964-65 Fußball-Bundesliga and Borussia Dortmund versus FC St. Pauli 1995-96 Fußball-Bundesliga winners so excellent?
+
+
+Data: teams name Estadio Monumental Banco Pichincha. Estadio Monumental Banco Pichincha rating good. http://www.wikidata.org/entity/Q6044132 home venue Estadio Monumental Banco Pichincha.
+
+Data to Text for <request_explanation>: What makes you rate Estadio Monumental Banco Pichincha as good?
+
+
+Data: teams rating okay. teams winners 1985 Japan Series, 1985 Nippon Professional Baseball season.
+
+Data to Text for <request_explanation>: Why do you think the team that won the 1985 Japan Series and 1985 Nippon Professional Baseball season is just okay?
+
+
+Data: teams rating excellent. teams owned by Elliott Management Corporation. teams winners 2001 Torneo di Viareggio, 1949 Torneo di Viareggio.
+
+Data to Text for <request_explanation>: What makes the team owned by Elliott Management Corporation so excellent, even after winning the 2001 Torneo di Viareggio and 1949 Torneo di Viareggio?
+
+
+Data: teams rating good. teams players Kunishige Kamamoto, Francisco Narcizio. teams home venue Yodoko Sakura Stadium.
+
+Data to Text for <request_explanation>: What makes you enjoy watching Kunishige Kamamoto and Francisco Narcizio play at Yodoko Sakura Stadium?
+
+
+Data: teams name League of Ireland Premier Division. League of Ireland Premier Division rating good. University College Dublin A.F.C. league League of Ireland Premier Division.
+
+Data to Text for <request_explanation>: What makes University College Dublin A.F.C. in the League of Ireland Premier Division so good?
+
+
+Data: teams rating excellent. teams winners FC Bayern Munich versus Hertha BSC 2015–16 Bundesliga, FC St. Pauli versus FC Bayern München 2010-11 Fußball-Bundesliga. teams players Fritz Fürst, Alain Sutter.
+
+Data to Text for <request_explanation>: What makes Fritz Fürst and Alain Sutter's teams, which won the FC Bayern Munich versus Hertha BSC 2015–16 Bundesliga and FC St. Pauli versus FC Bayern München 2010-11 Fußball-Bundesliga, so excellent?
+

@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of musicians. In the response, ask your friend if he or she has experience with a certain type of musicians, suggesting the given musician as an example of such a musician. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the musician name at the end as an example. Make sure you ask about the general category of musicians corresponding to the given attributes, not the example musician directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such musicians, and not that your friend does not like the given musician.
+
+
+Data: musicians name Uffie. Uffie genres dance-pop. Uffie date of birth December 9, 1987.
+
+Data to Text for <suggest>: Do you enjoy listening to dance-pop musicians, like Uffie, born on December 9, 1987?
+
+
+Data: musicians name Eminem. Eminem award received Academy Award for Best Original Song. Burt Bacharach award received Academy Award for Best Original Song.
+
+Data to Text for <suggest>: Have you ever heard any songwriters who have won an Academy Award for Best Original Song, such as Eminem and Burt Bacharach?
+
+
+Data: musicians name Aaron Carter. Aaron Carter performer of After Party Tour. Aaron Carter from United States of America.
+
+Data to Text for <suggest>: Did you attend the After Party Tour by Aaron Carter from the US?
+
+
+Data: musicians name Kanye West. Kanye West genre hip hop music. Ice Cube genre hip hop music.
+
+Data to Text for <suggest>: Are you a fan of hip hop music, like Kanye West or Ice Cube?
+
+
+Data: musicians name David Bowie. David Bowie awards Commander of the Order of the British Empire. David Bowie record label Mercury Records.
+
+Data to Text for <suggest>: Did you know that David Bowie was awarded Commander of the Order of the British Empire and was signed to Mercury Records?
+
+
+Data: musicians name Lisa Marie Presley. Lisa Marie Presley from United States of America. Lisa Marie Presley performer of To Whom It May Concern.
+
+Data to Text for <suggest>: Do you listen to any American musicians, such as Lisa Marie Presley who performs "To Whom It May Concern"?
+
+
+Data: musicians name Terry Callier. Terry Callier genre jazz. Robert Downey Jr. genre jazz.
+
+Data to Text for <suggest>: Are you familiar with any jazz artists, like Terry Callier or Robert Downey Jr.?
+
+
+Data: musicians name Scarlett Johansson. Scarlett Johansson awards Tony Award for Best Featured Actress in a Play.
+
+Data to Text for <suggest>: Did you ever appreciate an actor or actress who won a Tony Award for Best Featured Actress in a Play, like Scarlett Johansson?
+
+
+Data: musicians name Zella Day. Zella Day date of birth March 13, 1995. Zella Day from United States of America.
+
+Data to Text for <suggest>: I bet you like the American musicians, like Zella Day, born on March 13, 1995, right?
+
+
+Data: musicians name Allie X. Allie X performer of CollXtion I.
+
+Data to Text for <suggest>: Have you ever listened to any of CollXtion I, performed by Allie X?
+

@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a musician you would recommend. In the response, bring up the given musician (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the musician, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the musician, and not that the attribute is not true about the given musician or that your friend does not like the musician.
+
+
+Data: musicians name Donna Fargo. Donna Fargo gender female. Donna Fargo record label Challenge Records.
+
+Data to Text for <recommend>: Are you familiar with Donna Fargo, the female artist under Challenge Records?
+
+
+Data: musicians name Yukihiro Takahashi. Yukihiro Takahashi num awards 0.
+
+Data to Text for <recommend>: How about Yukihiro Takahashi, even though he doesn't have any awards, it's still worth giving a try.
+
+
+Data: musicians name Madonna. Madonna awards Grammy Award for Best Dance/Electronic Recording. Madonna from United States of America.
+
+Data to Text for <recommend>: I really recommend Madonna, she is from United States of America and has won a Grammy Award for Best Dance/Electronic Recording.
+
+
+Data: musicians name Olamide. Olamide genres hip hop music.
+
+Data to Text for <recommend>: You should check out Olamide if you like hip hop music.
+
+
+Data: musicians name Beverley Craven. Beverley Craven record label Sony Music.
+
+Data to Text for <recommend>: Sony Music's Beverley Craven, ever heard of it?
+
+
+Data: musicians name Noize MC. Noize MC genre punk rock. Billy Idol genre punk rock.
+
+Data to Text for <recommend>: Do you want to try some punk rock? I can recommend Noize MC and Billy Idol.
+
+
+Data: musicians name Paul McCartney. Paul McCartney awards Orden al Mérito Docente y Cultural Gabriela Mistral.
+
+Data to Text for <recommend>: Paul McCartney got the Orden al Mérito Docente y Cultural Gabriela Mistral award, maybe you should check him out.
+
+
+Data: musicians name Matt Nathanson. Matt Nathanson gender male. Matt Nathanson performer of Some Mad Hope.
+
+Data to Text for <recommend>: Male artist Matt Nathanson has a song called Some Mad Hope that you might like.
+
+
+Data: musicians name Luther Campbell. Luther Campbell awards N/A.
+
+Data to Text for <recommend>: How about Luther Campbell? Even though he didn't get any awards, he still produces great music.
+
+
+Data: musicians name Dua Lipa. Dua Lipa country of citizenship Albania. Edmond Kapllani country of citizenship Albania.
+
+Data to Text for <recommend>: Are you familiar with Dua Lipa or Edmond Kapllani, both from Albania?
+

@@ -1,0 +1,52 @@
+description of <inform>: A summary of the animal based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: wild animals name Northern Alligator Lizard. Northern Alligator Lizard locations North-America. Northern Alligator Lizard weight Around 1 ounce.
+
+Data to Text for <inform>: The Northern Alligator Lizard is native to North-America and typically weighs around 1 ounce.
+
+
+Data: wild animals name Gerbil. Gerbil estimated population size Unknown, though some species are endangered. Gerbil common class Mammal. Gerbil name of young Pup. Gerbil color BrownGreyRedWhiteOrangePinkOlive. Gerbil habitat Deserts and other arid places, though some gerbils are found in pastures, woodlands, scrub forests and mountain valleys.
+
+Data to Text for <inform>: Gerbils are mammals with an unknown population size, though some species are endangered. Its young are called Pups and they come in a variety of colors such as Brown, Grey, Red, White, Orange, Pink and Olive. They inhabit deserts and other arid places, though some gerbils are found in pastures, woodlands, scrub forests and mountain valleys
+
+
+Data: wild animals name Fin Whale. Fin Whale habitat Deep offshore waters.
+
+Data to Text for <inform>: The Fin Whale lives in deep offshore waters.
+
+
+Data: wild animals name Peringuey’s Adder. Peringuey’s Adder common class reptile. Peringuey’s Adder color BrownGreyFawnTanLight-Brown. Peringuey’s Adder distinctive feature Strongly keeled scales that give it an almost furry appearance. Peringuey’s Adder group behavior Solitary.
+
+Data to Text for <inform>: Peringuey's Adder is a reptile with a brown, grey, fawn, tan or light-brown color. It has a distinctive feature of strongly keeled scales that give it an almost furry appearance. It is a solitary animal.
+
+
+Data: wild animals name Emerald Tree Monitor. Emerald Tree Monitor gestation period 165 days. Emerald Tree Monitor other names Green tree monitor.
+
+Data to Text for <inform>: The Emerald Tree Monitor, also known as the Green Tree Monitor, takes 165 days to gestate.
+
+
+Data: wild animals name Bison. Bison common class Mammal. Bison diet Herbivore. Bison habitat Grass plains and forest.
+
+Data to Text for <inform>: Bison are herbivore mammals that inhabit grass plains and forest.
+
+
+Data: wild animals name Pesquet’s Parrot Dracula Parrot. Pesquet’s Parrot Dracula Parrot locations Oceania.
+
+Data to Text for <inform>: Pesquet's Parrot Dracula Parrot is found in Oceania.
+
+
+Data: wild animals name Shrew. Shrew litter size Two to 10 babies. Shrew top speed 8 mph. Shrew biggest threat Habitat destruction, climate change, pollution. Shrew lifespan 12 to 30 months. Shrew group behavior Solitary. Shrew estimated population size 100 billion, conservation status least concern. Shrew skin type Fur.
+
+Data to Text for <inform>: Shrews are solitary animals that typically produce litters of two to ten babies. They have a top speed of 8 mph and a lifespan of 12 to 30 months. There are an estimated 100 billion Shrews, with a conservation status of least concern. Their biggest threats are habitat destruction, climate change, and pollution.
+
+
+Data: wild animals name Urutu Snake. Urutu Snake distinctive feature Chocolate brown pattern with white or cream borders.
+
+Data to Text for <inform>: The Urutu Snake has a distinctive chocolate brown pattern with white or cream borders.
+
+
+Data: wild animals name Human. Human slogan Thought to have orignated 200,000 years ago!. Human predators Bears, Lion, Tiger.
+
+Data to Text for <inform>: Humans are thought to have originated around 200,000 years ago, and they are preyed upon by Bears, Lions, and Tigers.
+

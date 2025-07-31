@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given album and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: albums name Thriller. Thriller rating excellent. Thriller contains The Girl Is Mine.
+
+Data to Text for <give_opinion>: Thriller is an excellent album and the track The Girl Is Mine is a classic.
+
+
+Data: albums name Missing...Presumed Having a Good Time. Missing...Presumed Having a Good Time rating mediocre. Missing...Presumed Having a Good Time publication year 1990. Missing...Presumed Having a Good Time producer Mark Knopfler.
+
+Data to Text for <give_opinion>: I think Missing...Presumed Having a Good Time, produced by Mark Knopfler in 1990, is only mediocre. It's not one of Knopfler's best works.
+
+
+Data: albums name The Beatles. The Beatles rating excellent. The Beatles genres hard rock.
+
+Data to Text for <give_opinion>: The Beatles are an amazing hard rock band and their albums are excellent.
+
+
+Data: albums name Postcards from Paradise. Postcards from Paradise rating mediocre. Postcards from Paradise record label Universal Music Group. Postcards from Paradise performer Ringo Starr.
+
+Data to Text for <give_opinion>: Postcards from Paradise by Ringo Starr released by Universal Music Group is only mediocre.
+
+
+Data: albums name Body Talk Pt. 2. Body Talk Pt. 2 rating mediocre. Body Talk Pt. 2 genres synth-pop.
+
+Data to Text for <give_opinion>: I think Body Talk Pt. 2 is only mediocre due to its synth-pop genre.
+
+
+Data: albums name Metallica. Metallica rating excellent. Metallica publication year 1991. Metallica producer Bob Rock.
+
+Data to Text for <give_opinion>: Metallica's album from 1991 is excellent and Bob Rock did a great job producing it.
+
+
+Data: albums name The Beatles. The Beatles rating excellent. The Beatles producer George Martin.
+
+Data to Text for <give_opinion>: The Beatles are an amazing album, thanks to the production of George Martin.
+
+
+Data: albums name Life in 1472. Life in 1472 rating mediocre. Life in 1472 genres pop rap. Life in 1472 performer Jermaine Dupri.
+
+Data to Text for <give_opinion>: Life in 1472 by Jermaine Dupri is only mediocre. The pop rap sound did not stand out as much as I had hoped.
+
+
+Data: albums name Midnights. Midnights rating excellent. Midnights performer Taylor Swift. Midnights publication year 2022.
+
+Data to Text for <give_opinion>: I believe Midnights by Taylor Swift, released in 2022, will be an excellent album. I look forward to hearing it.
+
+
+Data: albums name Patsy Cline Showcase. Patsy Cline Showcase rating mediocre. Patsy Cline Showcase genres country music. Patsy Cline Showcase publication year 1961.
+
+Data to Text for <give_opinion>: Patsy Cline Showcase from 1961 is only mediocre, despite being a good example of country music.
+

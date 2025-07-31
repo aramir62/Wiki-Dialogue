@@ -1,0 +1,52 @@
+description of <inform>: A summary of the actor based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: movie actors name Donnie Yen. Donnie Yen spouse Cissy Wang. Cissy Wang place of birth Lima. Donnie Yen occupation judoka. Cissy Wang sex or gender female.
+
+Data to Text for <inform>: Donnie Yen is a judoka married to Cissy Wang, a female actor from Lima.
+
+
+Data: movie actors name Ronald Reagan. Ronald Reagan occupation autobiographer. Ronald Reagan cast member of Tear down this wall!. Ronald Reagan place of birth Tampico.
+
+Data to Text for <inform>: Ronald Reagan was an autobiographer and cast member of Tear down this wall!, born in Tampico.
+
+
+Data: movie actors name Star Wars: Episode III – Revenge of the Sith. Star Wars: Episode III – Revenge of the Sith cast member Natalie Portman. Star Wars: Episode III – Revenge of the Sith cast member George Lucas. Natalie Portman occupation television movie actors. Star Wars: Episode III – Revenge of the Sith cast member Samuel L. Jackson.
+
+Data to Text for <inform>: Star Wars: Episode III – Revenge of the Sith starred Natalie Portman, George Lucas, and Samuel L. Jackson as television actors.
+
+
+Data: movie actors name Om Shanti Om. Om Shanti Om cast member Kajol. Om Shanti Om cast member Miles Teller. Kajol date of birth 1974. Om Shanti Om cast member Amitabh Bachchan.
+
+Data to Text for <inform>: Om Shanti Om stars Kajol (born 1974), Miles Teller, and Amitabh Bachchan.
+
+
+Data: movie actors name Yukio Mishima. Yukio Mishima gender male. Yukio Mishima height shorter. Yukio Mishima occupation prosaist. Yukio Mishima rating highly rated.
+
+Data to Text for <inform>: Yukio Mishima is a highly rated male prosaist known for his shorter stature.
+
+
+Data: movie actors name Dwayne Johnson. Dwayne Johnson occupation executive producer. Taika Waititi occupation executive producer. Dwayne Johnson occupation American football player. Hugh Jackman occupation executive producer.
+
+Data to Text for <inform>: Dwayne Johnson, Taika Waititi, and Hugh Jackman are executive producers in the film industry, with Dwayne Johnson also being an American football player.
+
+
+Data: movie actors name June Carter Cash. June Carter Cash spouse Johnny Cash. June Carter Cash occupation movie actors. Johnny Cash occupation singer.
+
+Data to Text for <inform>: June Carter Cash was an actor who married singer Johnny Cash.
+
+
+Data: movie actors name Briana Loves Jenna. Briana Loves Jenna cast member Jenna Jameson. Briana Loves Jenna cast member Briana Banks.
+
+Data to Text for <inform>: Briana Loves Jenna features actors Jenna Jameson and Briana Banks.
+
+
+Data: movie actors name Lena Dunham. Lena Dunham awards received Directors Guild of America Award for Outstanding Directing – Comedy Series.
+
+Data to Text for <inform>: Lena Dunham has won a Directors Guild of America Award for Outstanding Directing – Comedy Series.
+
+
+Data: movie actors name Pope John Paul II. Pope John Paul II cast member James Cromwell. Pope John Paul II cast member Christopher Lee.
+
+Data to Text for <inform>: Pope John Paul II featured James Cromwell and Christopher Lee as cast members.
+

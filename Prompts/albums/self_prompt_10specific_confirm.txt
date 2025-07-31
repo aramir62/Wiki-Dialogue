@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm an album. In the response, ask for a confirmation of the given album by referring to its attributes. Imagine that the album's name has just been mentioned in the conversation, but you know of multiple albums with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the album, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the album your friend had in mind, and not that the attribute is not true about the given album.
+
+
+Data: albums name Postcards from Paradise. Postcards from Paradise publication year 2015. Postcards from Paradise performer Ringo Starr.
+
+Data to Text for <confirm>: Are you talking about Ringo Starr's 2015 album Postcards from Paradise?
+
+
+Data: albums name Life in 1472. Life in 1472 contains Money Aint a Thang. Life in 1472 producer Jermaine Dupri.
+
+Data to Text for <confirm>: Are we discussing Life in 1472, produced by Jermaine Dupri and containing the track Money Aint a Thang?
+
+
+Data: albums name Body Talk Pt. 2. Body Talk Pt. 2 record label Konichiwa Records.
+
+Data to Text for <confirm>: Are you speaking of Body Talk Pt. 2, released on Konichiwa Records?
+
+
+Data: albums name Led Zeppelin IV. Led Zeppelin IV contains Misty Mountain Hop. Led Zeppelin IV performer Led Zeppelin.
+
+Data to Text for <confirm>: Are you mentioning Led Zeppelin IV, with the track Misty Mountain Hop performed by Led Zeppelin?
+
+
+Data: albums name 1989. 1989 genres synth-pop. 1989 performer Taylor Swift.
+
+Data to Text for <confirm>: Are we discussing Taylor Swift's 1989 synth-pop album?
+
+
+Data: albums name Metallica. Metallica record label Universal Music Group.
+
+Data to Text for <confirm>: Are you referring to Metallica, which is released on Universal Music Group?
+
+
+Data: albums name The Rise and Fall of Ziggy Stardust and the Spiders from Mars. The Rise and Fall of Ziggy Stardust and the Spiders from Mars genres rock opera.
+
+Data to Text for <confirm>: Are we discussing the rock opera The Rise and Fall of Ziggy Stardust and the Spiders from Mars?
+
+
+Data: albums name Missing...Presumed Having a Good Time. Missing...Presumed Having a Good Time producer Mark Knopfler.
+
+Data to Text for <confirm>: Are you mentioning Missing...Presumed Having a Good Time, produced by Mark Knopfler?
+
+
+Data: albums name Rings Around the World. Rings Around the World publication year 2001. Rings Around the World producer Super Furry Animals.
+
+Data to Text for <confirm>: Are we talking about Rings Around the World, the 2001 Super Furry Animals album?
+
+
+Data: albums name Let Me in Your Life. Let Me in Your Life producer Jerry Wexler. Let Me in Your Life contains Until You Come Back to Me.
+
+Data to Text for <confirm>: Are we talking about Let Me in Your Life, produced by Jerry Wexler with the song Until You Come Back to Me?
+

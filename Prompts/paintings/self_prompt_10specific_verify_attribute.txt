@@ -1,0 +1,51 @@
+description of <verify_attribute>:  A response in which you verify whether your friend (dis)likes a certain type of paintings in general. In the response, state an observation about your friend's attitude to the given painting and then ask him or her whether it generalizes to all painitngs of that type. The response should consist of 2 sentences:
+The first one will be the observation based on the Liking attribute and including the given painting's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all paintings of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: paintings name Walk on the Beach. Walk on the Beach  rating poor. Walk on the Beach  materials canvas, oil paint. 
+
+Data to Text for <verify_attribute>: Based on your review, it seems you did not enjoy "Walk on the Beach" by Joaquín Sorolla. Do you generally have a poor opinion of paintings made with canvas and oil paint?
+
+
+Data: paintings name View of Toledo. View of Toledo  rating good. View of Toledo  creator El Greco. View of Toledo  genres landscape art.
+
+Data to Text for <verify_attribute>: I know you appreciate View of Toledo by El Greco. Do you generally enjoy landscape art in paintings?
+
+
+Data: paintings name The Haywain Triptych. The Haywain Triptych  rating average. The Haywain Triptych  genres religious art. The Haywain Triptych  movements Early Netherlandish painting.
+
+Data to Text for <verify_attribute>: You seemed unimpressed by The Haywain Triptych. Is this your typical reaction to paintings of Early Netherlandish religious art?
+
+
+Data: paintings name Impression, Sunrise. Impression, Sunrise  rating excellent. Impression, Sunrise  movements Impressionism. Impression, Sunrise  materials canvas, oil paint.
+
+Data to Text for <verify_attribute>: I see you really loved Impression, Sunrise. Would you say that you generally have a strong liking for paintings with an Impressionist style and made with canvas and oil paint?
+
+
+Data: paintings name The Birth of Venus. The Birth of Venus  rating good. The Birth of Venus  genres mythological painting, nude. 
+
+Data to Text for <verify_attribute>: I can see you really liked The Birth of Venus. Do you generally appreciate mythological and nude paintings?
+
+
+Data: paintings name Guernica. Guernica  rating excellent. Guernica  movements surrealism, Cubism. Guernica  materials canvas, oil paint. 
+
+Data to Text for <verify_attribute>: You really appreciated Guernica's unique style and materials. Do you generally enjoy paintings that fall under the movements of surrealism and Cubism, made with canvas and oil paint?
+
+Data: paintings name Nativity at Night. Nativity at Night  rating poor. Nativity at Night  creator Geertgen tot Sint Jans.
+
+Data to Text for <verify_attribute>: I know you don't like Nativity at Night. Is Geertgen tot Sint Jans a painter whose work you generally find unappealing?
+
+
+Data: paintings name Saturn Devouring His Son. Saturn Devouring His Son  rating excellent. Saturn Devouring His Son  genres mythological painting.
+
+Data to Text for <verify_attribute>: I noticed you rated Saturn Devouring His Son as excellent. Do you generally have a liking for mythological paintings?
+
+
+Data: paintings name Van Gogh's Chair. Van Gogh's Chair  rating average. Van Gogh's Chair  materials canvas, oil paint. Van Gogh's Chair  genres still life. 
+
+Data to Text for <verify_attribute>: I noticed you found Cupid and Psyche to be just average. Is neoclassicism not really your preferred art movement?
+
+
+Data: paintings name Van Gogh's Chair. Van Gogh's Chair  rating average. Van Gogh's Chair  materials canvas, oil paint. Van Gogh's Chair  genres still life.
+
+Data to Text for <verify_attribute>: I noticed that you found Van Gogh's Chair to be just average. Are you generally not a fan of still life paintings done in oil on canvas?

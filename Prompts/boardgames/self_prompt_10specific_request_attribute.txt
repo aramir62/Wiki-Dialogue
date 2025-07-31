@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain board game's characteristic.
+
+
+Data: board game genre .
+
+Data to Text for <request_attribute>: What board game genre do you find the most enjoyable?
+
+
+Data: board game developer .
+
+Data to Text for <request_attribute>: Who is your go-to board game developer?
+
+
+Data: board game complexity rating .
+
+Data to Text for <request_attribute>: What complexity rating do you prefer when playing board games?
+
+
+Data: board game publisher .
+
+Data to Text for <request_attribute>: What board game publisher do you think produces the best games in the board game domain?
+
+
+Data: board game instance of .
+
+Data to Text for <request_attribute>: What type of board game do you usually play?
+
+
+Data: board game game mechanics .
+
+Data to Text for <request_attribute>: What game mechanics do you prefer in a board game?
+
+
+Data: board game genre .
+
+Data to Text for <request_attribute>: Which board game genre do you enjoy the most?
+
+
+Data: board game game mechanics .
+
+Data to Text for <request_attribute>: Which game mechanics do you find most engaging in a board game?
+
+
+Data: board game publisher .
+
+Data to Text for <request_attribute>: Which board game publisher do you prefer or trust the most?
+
+
+Data: board game instance of .
+
+Data to Text for <request_attribute>: Which type of board game do you usually prefer to play?
+

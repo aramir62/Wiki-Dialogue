@@ -1,0 +1,51 @@
+description of <request>: A casual prompt to start talking about a {domain}. In the response, prompt your friend to name a {domain} which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single {domain}, or a yes/no answer (followed by the name of a {domain} in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: video games release year 2014. video games specifier terrible.
+
+Data to Text for <request>: Were there even any terrible games in 2014?
+
+
+Data: video games developer Firefly Studios. video games specifier upcoming.
+
+Data to Text for <request>: Are there any upcoming games from Firefly Studios you're looking forward to?
+
+
+Data: video games specifier mindless.
+
+Data to Text for <request>: What's a nice mindless game you can think of that I could play to just unwind?
+
+
+Data: video games available on steam yes. video games specifier ugliest.
+
+Data to Text for <request>: What's the ugliest game you've found on Steam so far?
+
+
+Data: video games developer Overkill Software. video games specifier empowering.
+
+Data to Text for <request>: Ever played a game from Overkill Software you felt was empowering?
+
+
+Data: video games genres action-adventure. video games specifier easy.
+
+Data to Text for <request>: Do you know of any action-adventure games that are nice and easy?
+
+
+Data: video games has linux release yes. video games specifier frightening.
+
+Data to Text for <request>: Do you know of any frightening games that are available on Linux?
+
+
+Data: video games platforms PlayStation. video games specifier weirdest.
+
+Data to Text for <request>: What's the weirdest game you've ever played on PlayStation.
+
+
+Data: video games specifier boring.
+
+Data to Text for <request>: Did you find any releases this year to be overly boring?
+
+
+Data: video games specifier unfair.
+
+Data to Text for <request>: What's the first game that comes to your mind about which you felt it was just unfair?

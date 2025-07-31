@@ -1,0 +1,52 @@
+description of <inform>: A summary of the song based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: songs name Black Barbies. Black Barbies genre hip hop music. Brittany Murphy genre hip hop music. Black Barbies publication date 2016. Black Barbies performer Nicki Minaj. Black Barbies record label Interscope Records. hip hop music part of hip hop culture. Stan genre hip hop music.
+
+Data to Text for <inform>: Black Barbies is a hip hop song by Nicki Minaj released in 2016 on Interscope Records, part of hip hop culture. Other examples of hip hop music include Brittany Murphy and Stan.
+
+
+Data: songs name Apple Shampoo. Apple Shampoo performer Blink-182. Blink-182 genre alternative rock. Pixies genre alternative rock. Apple Shampoo publication date 1997. Apple Shampoo part of Dude Ranch.
+
+Data to Text for <inform>: In 1997, Blink-182, an alternative rock band, released "Apple Shampoo" from their album Dude Ranch. Pixies is another notable alternative rock band.
+
+
+Data: songs name Dog Eat Dog. Dog Eat Dog genre new wave. The B-52's genre new wave. Frankie Goes to Hollywood genre new wave.
+
+Data to Text for <inform>: Dog Eat Dog, The B-52's and Frankie Goes to Hollywood are all new wave bands.
+
+
+Data: songs name Littlest Things. Littlest Things performer Lily Allen. Lily Allen genre synth-pop.
+
+Data to Text for <inform>: Lily Allen is a synth-pop artist, her work includes Littlest Things.
+
+
+Data: songs name Take My Breath Away. Take My Breath Away producer Giorgio Moroder. Giorgio Moroder genre disco. Discovery genre disco.
+
+Data to Text for <inform>: Giorgio Moroder produced the disco song Take My Breath Away, as well as the disco album Discovery.
+
+
+Data: songs name Stereotypes. Stereotypes genre Britpop. D'You Know What I Mean? genre Britpop. Richard Ashcroft genre Britpop.
+
+Data to Text for <inform>: Stereotypes and D'You Know What I Mean? are Britpop songs by Richard Ashcroft.
+
+
+Data: songs name Space Oddity. Space Oddity performer David Bowie. David Bowie genre ambient music. Space Oddity publication date 1969.
+
+Data to Text for <inform>: Space Oddity by David Bowie is an ambient music published in 1969.
+
+
+Data: songs name Evolution. Evolution genre nu metal. Iowa genre nu metal. Chocolate Starfish and the Hot Dog Flavored Water genre nu metal.
+
+Data to Text for <inform>: Evolution, Iowa, and Chocolate Starfish and the Hot Dog Flavored Water are all nu metal genres.
+
+
+Data: songs name Waka Waka (This Time for Africa). Waka Waka (This Time for Africa) performer Shakira. Shakira genre Latin rock. Shakira record label Sony BMG.
+
+Data to Text for <inform>: Shakira's Latin rock song Waka Waka (This Time for Africa) was released by Sony BMG.
+
+
+Data: songs name Hold My Hand. Hold My Hand performer Lady Gaga. Lady Gaga genre pop music. Hold My Hand publication date 2022. Hold My Hand record label Interscope Records. Lady Gaga genre dance-pop. Lady Gaga record label Universal Music Group.
+
+Data to Text for <inform>: In 2022, Lady Gaga, an artist of pop and dance-pop music, will release "Hold My Hand" through Interscope Records under Universal Music Group.
+

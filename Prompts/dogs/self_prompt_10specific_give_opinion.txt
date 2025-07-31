@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given dog and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: dogs name Braque du Bourbonnais. Braque du Bourbonnais ratings good. Braque du Bourbonnais protectiveness alert.
+
+Data to Text for <give_opinion>: I think the Braque du Bourbonnais is a good pet due to its alert protectiveness.
+
+
+Data: dogs name Boxer. Boxer ratings excellent.
+
+Data to Text for <give_opinion>: Boxers are excellent animals with great ratings.
+
+
+Data: dogs name American Foxhound. American Foxhound shedding average shedding. American Foxhound grooming most grooming.
+
+Data to Text for <give_opinion>: I like American Foxhounds because they require an average amount of shedding and most grooming.
+
+
+Data: dogs name Alaskan Klee Kai. Alaskan Klee Kai energy more energy.
+
+Data to Text for <give_opinion>: The Alaskan Klee Kai has so much energy which makes it really endearing.
+
+
+Data: dogs name Dutch Shepherd. Dutch Shepherd max height female 24.5.
+
+Data to Text for <give_opinion>: I'm amazed at how tall the female Dutch Shepherd can be, reaching 24.5 inches.
+
+
+Data: dogs name Entlebucher Mountain Dog. Entlebucher Mountain Dog drooling sometimes drool.
+
+Data to Text for <give_opinion>: The Entlebucher Mountain Dog is an interesting dog that sometimes drools.
+
+
+Data: dogs name Golden Retriever. Golden Retriever energy energetic.
+
+Data to Text for <give_opinion>: I really love Golden Retrievers because of their energetic personalities.
+
+
+Data: dogs name Bracco Italiano. Bracco Italiano trainability very easy to train. Bracco Italiano max weight male 90.0.
+
+Data to Text for <give_opinion>: The Bracco Italiano is an impressive animal as it is very easy to train and can weigh up to 90.0 pounds for a male.
+
+
+Data: dogs name Bulldog. Bulldog good with children kid-friendly. Bulldog drooling average drool.
+
+Data to Text for <give_opinion>: I think Bulldogs are great pets for families with children since they are kid-friendly. Despite being a bit of a drooler, their average drool is manageable.
+
+
+Data: dogs name Pumi. Pumi ratings okay.
+
+Data to Text for <give_opinion>: Although the ratings of the Pumi are only okay, I still find the Pumi quite interesting.
+

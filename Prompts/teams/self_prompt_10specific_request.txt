@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a sports team. In the response, prompt your friend to name a sports team which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single sports team, or a yes/no answer (followed by the name of a sports team in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: teams specifier experienced. teams winners 1986 Football Championship of Ukrainian SSR, 1962 Ukrainian Class B.
+
+Data to Text for <request>: Was there an experienced team that won the 1986 Football Championship of Ukrainian SSR or the 1962 Ukrainian Class B?
+
+
+Data: teams specifier versatile. teams players Willy de Hond, Wout van Blijderveen.
+
+Data to Text for <request>: Do you think the team with Willy de Hond and Wout van Blijderveen is versatile?
+
+
+Data: teams specifier experienced. teams players Kinichi Matsuhiro, Akitoshi Kodama.
+
+Data to Text for <request>: Who has more experience, Kinichi Matsuhiro or Akitoshi Kodama?
+
+
+Data: teams specifier unmotivated. teams country Saudi Arabia.
+
+Data to Text for <request>: Are there any unmotivated teams in Saudi Arabia?
+
+
+Data: teams specifier resilient. teams head coach Luís Castro.
+
+Data to Text for <request>: Does Luís Castro have a resilient team?
+
+
+Data: teams specifier competitive. teams winners 1964–65 La Liga, 2000–01 La Liga.
+
+Data to Text for <request>: What were the competitive teams for the 1964–65 La Liga and the 2000–01 La Liga?
+
+
+Data: teams specifier undisciplined. teams head coach D. J. Durkin.
+
+Data to Text for <request>: Has D. J. Durkin ever coached an undisciplined team?
+
+
+Data: teams specifier experienced. teams winners Borussia Dortmund versus 1. FSV Mainz 05 2014–15 Bundesliga, Borussia Dortmund versus Eintracht Frankfurt 1987-88 Fußball-Bundesliga.
+
+Data to Text for <request>: Which of Borussia Dortmund versus 1. FSV Mainz 05 in 2014–15 Bundesliga and Borussia Dortmund versus Eintracht Frankfurt in 1987–88 Fußball-Bundesliga do you think was the most experienced team?
+
+
+Data: teams specifier selfish. teams home venue Alanya Oba Stadium.
+
+Data to Text for <request>: Are there any selfish teams that play at Alanya Oba Stadium?
+
+
+Data: teams specifier resilient. teams head coach Edin Terzić.
+
+Data to Text for <request>: Is Edin Terzić's team resilient?
+

@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a TV show you would recommend. In the response, bring up the given TV show (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the TV show, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the TV show, and not that the attribute is not true about the given TV show or that your friend does not like the TV show.
+
+
+Data: tv shows name Wolf Hall. Wolf Hall genre drama television series. Will It Snow For Christmas? genre drama television series.
+
+Data to Text for <recommend>: Have you seen the drama television series Wolf Hall or Will It Snow For Christmas?
+
+
+Data: tv shows name Atlanta. Atlanta review score average. Atlanta cast member Brian Tyree Henry, Zazie Beetz.
+
+Data to Text for <recommend>: Do you watch Atlanta? It has an average review score and features Brian Tyree Henry and Zazie Beetz.
+
+
+Data: tv shows name The Last of Us. The Last of Us creator Craig Mazin. Craig Mazin award received Order of Prince Yaroslav the Wise, 5th class.
+
+Data to Text for <recommend>: Have you heard of The Last of Us, the TV show created by Craig Mazin who was awarded the Order of Prince Yaroslav the Wise, 5th class?
+
+
+Data: tv shows name My Love from the Star. My Love from the Star cast member Jun Ji-hyun. 100 Days with Mr. Arrogant producer Jun Ji-hyun.
+
+Data to Text for <recommend>: Have you watched My Love from the Star with Jun Ji-hyun? She also produced the movie 100 Days with Mr. Arrogant.
+
+
+Data: tv shows name Stranger Things. Stranger Things cast member Winona Ryder. Winona Ryder award received Golden Globe Award for Best Supporting Actress – Motion Picture.
+
+Data to Text for <recommend>: Have you seen Stranger Things? Winona Ryder, who won a Golden Globe Award for Best Supporting Actress – Motion Picture, is in the cast.
+
+
+Data: tv shows name Perry Mason. Perry Mason genre legal drama. Law & Order: Special Victims Unit genre legal drama.
+
+Data to Text for <recommend>: Have you watched Perry Mason or Law & Order: Special Victims Unit? Both are legal dramas.
+
+
+Data: tv shows name Lonesome Dove. Lonesome Dove cast member Steve Buscemi. Steve Buscemi award received Screen Actors Guild Award.
+
+Data to Text for <recommend>: Do you know the TV series Lonesome Dove? Steve Buscemi is in the cast, and he won a Screen Actors Guild Award.
+
+
+Data: tv shows name Wednesday. Wednesday review score average. Wednesday screenwriter April Blair.
+
+Data to Text for <recommend>: Did you watch Wednesday, written by April Blair? It has an average review score.
+
+
+Data: tv shows name Houdini. Houdini cast member Adrien Brody. Inappropriate Comedy screenwriter Adrien Brody.
+
+Data to Text for <recommend>: Have you seen Houdini, starring Adrien Brody who also wrote Inappropriate Comedy?
+
+
+Data: tv shows name Peacemaker. Peacemaker creator James Gunn. Guardians of the Galaxy: Awesome Mix Vol. 1 – Original Motion Picture Soundtrack producer James Gunn.
+
+Data to Text for <recommend>: Have you heard of the TV show Peacemaker, created by James Gunn, the producer of Guardians of the Galaxy: Awesome Mix Vol. 1 – Original Motion Picture Soundtrack?
+

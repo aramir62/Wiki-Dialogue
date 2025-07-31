@@ -1,0 +1,51 @@
+description of <confirm>: A question trying to confirm a painter. In the response, ask for a confirmation of the given painter by referring to its attributes. Imagine that the painter's name has just been mentioned in the conversation, but you know of multiple painters with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the painter, not the attribute(s), nor the friend's opinion. In other words, a ""no"" answer to your question should mean that that is not the painter your friend had in mind, and not that the attribute is not true about the given painter.
+
+
+Data: painters name Anthony van Dyck. Anthony van Dyck  genres animal painting, portrait. Anthony van Dyck  movements Baroque painting.
+
+Data to Text for <confirm>: So, are you talking about Anthony van Dyck, the Baroque painter known for his animal paintings and portraits?
+
+
+Data: painters name Hieronymus Bosch. Hieronymus Bosch  life period century XV - XVI. Hieronymus Bosch  occupations visual artist, painter. 
+
+Data to Text for <confirm>: Just to be clear, we're talking about Hieronymus Bosch, the painter and visual artist from the 15th to 16th centuries, right?
+
+
+Data: painters name Kazimir Malevich. Kazimir Malevich  genres still life, scenography. Kazimir Malevich  occupations printmaker, sculptor. 
+
+Data to Text for <confirm>: Is the Kazimir Malevich you're referring to known for his work in still life and scenography, as well as being a printmaker and sculptor?
+
+
+Data: painters name Mary Cassatt. Mary Cassatt  notable works Portrait of an Elderly Lady in a Bonnet: Red Background. Mary Cassatt  movements Impressionism.
+
+Data to Text for <confirm>: Did you mean Mary Cassatt, known for creating the Impressionist artwork "Portrait of an Elderly Lady in a Bonnet: Red Background"?
+
+
+Data: painters name Francis Bacon. Francis Bacon  occupations painter, designer. Francis Bacon  notable works Three Studies for Figures at the Base of a Crucifixion, Head IV. 
+
+Data to Text for <confirm>: So, when you mentioned Francis Bacon, were you referring to the painter and designer known for works like "Three Studies for Figures at the Base of a Crucifixion" and "Head IV"?
+
+
+Data: painters name Leonardo da Vinci. Leonardo da Vinci  nationality Italian.
+
+Data to Text for <confirm>:  To confirm, are you talking about the Italian painter Leonardo da Vinci?
+
+
+Data: painters name Giorgio de Chirico. Giorgio de Chirico  movements metaphysical painting. Giorgio de Chirico  notable works Mystery and Melancholy of a Street, The Uncertainty of the Poet. 
+
+Data to Text for <confirm>:  Are we discussing Giorgio de Chirico, known for his metaphysical paintings like Mystery and Melancholy of a Street and The Uncertainty of the Poet?
+
+
+Data: painters name Wassily Kandinsky. Wassily Kandinsky  life period century XIX - XX. Wassily Kandinsky  occupations designer, graphic artist.
+
+Data to Text for <confirm>: So you're talking about Wassily Kandinsky, the designer and graphic artist from the late 19th to early 20th century?
+
+
+Data: painters name Mark Rothko. Mark Rothko  genres Abstract art.
+
+Data to Text for <confirm>: Just to clarify, are you referring to the painter Mark Rothko known for his abstract art?
+
+
+Data: painters name Francisco Goya. Francisco Goya  life period century XVIII - XIX. Francisco Goya  nationality Spanish.
+
+Data to Text for <confirm>: So, are we talking about the Spanish painter Francisco Goya from the 18th to 19th century?

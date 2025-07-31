@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain TV show's characteristic.
+
+
+Data: tv show genre .
+
+Data to Text for <request_attribute>: What is your preferred genre of TV show?
+
+
+Data: tv show awards received .
+
+Data to Text for <request_attribute>: Which awards do you personally value the most when it comes to TV shows?
+
+
+Data: tv show creator .
+
+Data to Text for <request_attribute>: Which TV show creator do you admire or prefer the most?
+
+
+Data: tv show screenwriter .
+
+Data to Text for <request_attribute>: Who is your favorite TV show screenwriter?
+
+
+Data: tv show genre .
+
+Data to Text for <request_attribute>: Which TV show genre do you find most entertaining or appealing?
+
+
+Data: tv show awards received .
+
+Data to Text for <request_attribute>: Which awards do you think truly reflect excellence in TV shows?
+
+
+Data: tv show screenwriter .
+
+Data to Text for <request_attribute>: Which TV show screenwriter’s work do you admire or enjoy the most?
+
+
+Data: tv show creator .
+
+Data to Text for <request_attribute>: Which TV show creator do you prefer or usually follow?
+
+
+Data: tv show genre .
+
+Data to Text for <request_attribute>: When it comes to TV shows, which genres do you find yourself most drawn to?
+
+
+Data: tv show screenwriter .
+
+Data to Text for <request_attribute>: Is there a particular TV show screenwriter whose work you prefer or follow closely?
+

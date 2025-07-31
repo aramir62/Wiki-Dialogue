@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of animals. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of animals. Assume your friend has indicated his or her sentiment about the kind of animals earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of animals determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: wild animals popularity very popular. wild animals color BlackWhiteOrange. wild animals skin type Fur.
+
+Data to Text for <request_explanation>: What do you like about animals that have a Black, White and Orange fur?
+
+
+Data: wild animals popularity niche interest. wild animals locations North-America. wild animals common class Mammal.
+
+Data to Text for <request_explanation>: Why are you less interested in mammals from North America?
+
+
+Data: wild animals popularity very popular. wild animals estimated population size 100 billion, conservation status least concern. wild animals top speed 8 mph.
+
+Data to Text for <request_explanation>: What is it about an animal with an estimated population size of 100 billion, least concern conservation status, and a top speed of 8 mph that you find so appealing?
+
+
+Data: wild animals popularity very popular. wild animals diet Carnivore. wild animals weight 900kg - 3,000kg 2,000lbs - 6,000lbs.
+
+Data to Text for <request_explanation>: What draws your attention to carnivorous animals that weigh between 900kg - 3,000kg (2,000lbs - 6,000lbs)?
+
+
+Data: wild animals popularity very popular. wild animals habitat High-altitude, moist bamboo forest. wild animals diet Omnivore.
+
+Data to Text for <request_explanation>: What makes omnivores that inhabit high-altitude, moist bamboo forests so attractive to you?
+
+
+Data: wild animals popularity niche interest. wild animals weight 132 pounds. wild animals locations North-America, South-America.
+
+Data to Text for <request_explanation>: Why does a 132 pound animal found in North America and South America not interest you as much as other animals?
+
+
+Data: wild animals popularity very popular. wild animals most distinctive feature Its use as haute cuisine. wild animals predators Humans, birds of prey, cats, foxes, weasels.
+
+Data to Text for <request_explanation>: What do you find so appealing about an animal that is used as haute cuisine and is preyed upon by Humans, birds of prey, cats, foxes, and weasels?
+
+
+Data: wild animals popularity very popular. wild animals group behavior Solitary. wild animals name of young Baby sea roach or juvenile.
+
+Data to Text for <request_explanation>: What draws you to solitary animals whose young are called baby sea roaches or juveniles?
+
+
+Data: wild animals popularity very popular. wild animals common class Amphibian. wild animals color BrownGreyYellowRedBlackGreenOrange.
+
+Data to Text for <request_explanation>: Why do you find Amphibians with colors of Brown, Grey, Yellow, Red, Black, Green and Orange so appealing?
+
+
+Data: wild animals popularity very popular. wild animals most distinctive feature Hooked teeth in some species babies for peeling and eating mothers skin. wild animals biggest threat habitat loss.
+
+Data to Text for <request_explanation>: What is it about the species that have hooked teeth in their babies for peeling and eating their mother's skin, and are threatened by habitat loss, that interests you?
+

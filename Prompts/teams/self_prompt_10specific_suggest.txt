@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of sports teams. In the response, ask your friend if he or she has experience with a certain type of sports teams, suggesting the given sports team as an example of such a sports team. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the sports team name at the end as an example. Make sure you ask about the general category of sports teams corresponding to the given attributes, not the example sports team directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such sports teams, and not that your friend does not like the given sports team.
+
+
+Data: teams name Barcelona S.C.. Barcelona S.C. winners 1989 Campeonato Ecuatoriano de Fútbol Serie A, 1963 Campeonato Ecuatoriano de Fútbol. Barcelona S.C. headquarters location Guayaquil.
+
+Data to Text for <suggest>: Are you aware of the teams from Guayaquil, like Barcelona S.C., who won the 1989 Campeonato Ecuatoriano de Fútbol Serie A and 1963 Campeonato Ecuatoriano de Fútbol?
+
+
+Data: teams name Gamba Osaka. Gamba Osaka league J1 League. Gamba Osaka head coach Levir Culpi.
+
+Data to Text for <suggest>: Have you followed the J1 League team Gamba Osaka, coached by Levir Culpi?
+
+
+Data: teams name Arizona State Sun Devils football. Arizona State Sun Devils football players Leon Burton, Bryan Proby.
+
+Data to Text for <suggest>: Are you familiar with Arizona State Sun Devils football, such as Leon Burton and Bryan Proby?
+
+
+Data: teams name Wrexham A.F.C.. Wrexham A.F.C. headquarters location Wrexham. Wrexham A.F.C. owned by Ryan Reynolds.
+
+Data to Text for <suggest>: Do you know any teams owned by Ryan Reynolds, like Wrexham A.F.C. based in Wrexham?
+
+
+Data: teams name Dorados de Sinaloa. Dorados de Sinaloa home venue Estadio Carlos González.
+
+Data to Text for <suggest>: Are you aware of Dorados de Sinaloa, whose home venue is Estadio Carlos González?
+
+
+Data: teams name Stade Rochelais. Stade Rochelais league Top 14. Stade Rochelais home venue Stade Marcel-Deflandre.
+
+Data to Text for <suggest>: Have you kept up with the Top 14 team Stade Rochelais, who play their home games at Stade Marcel-Deflandre?
+
+
+Data: teams name Independiente del Valle. Independiente del Valle league Ecuador Serie A.
+
+Data to Text for <suggest>: Have you ever followed Ecuador Serie A teams like Independiente del Valle?
+
+
+Data: teams name Real Madrid CF. Real Madrid CF winners 1987–88 La Liga, 2016–17 La Liga.
+
+Data to Text for <suggest>: Are you familiar with Real Madrid CF who won the 1987–88 La Liga and 2016–17 La Liga?
+
+
+Data: teams name Shandong Taishan F.C.. Shandong Taishan F.C. headquarters location Jinan.
+
+Data to Text for <suggest>: Do you follow any teams from Jinan, such as Shandong Taishan F.C.?
+
+
+Data: teams name Boston Celtics. Boston Celtics league National Basketball Association. Boston Celtics country United States of America.
+
+Data to Text for <suggest>: Have you been following the National Basketball Association team from the United States of America, like Boston Celtics?
+

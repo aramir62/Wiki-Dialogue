@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a movie. In the response, ask for a confirmation of the given movie by referring to its attributes. Imagine that the movie's name has just been mentioned in the conversation, but you know of multiple movies with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the movie, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the movie your friend had in mind, and not that the attribute is not true about the given movie.
+
+
+Data: movies name Avengers: Endgame. Avengers: Endgame genre speculative/fantastic fiction film, action film. Avengers: Endgame director Joe Russo.
+
+Data to Text for <confirm>: Are you talking about the action-speculative fiction movie Avengers: Endgame, directed by Joe Russo?
+
+
+Data: movies name Uncharted. Uncharted publication date 2022. Uncharted cast member El Rubius, Rudy Pankow.
+
+Data to Text for <confirm>: Are you referring to Uncharted from 2022 with El Rubius and Rudy Pankow?
+
+
+Data: movies name Ad Astra. Ad Astra character LisaGay Hamilton as Adjutant General Amelia Vogel. Ad Astra genre epic film, thriller film.
+
+Data to Text for <confirm>: Are you talking about Ad Astra starring LisaGay Hamilton as Adjutant General Amelia Vogel, which is an epic-thriller film?
+
+
+Data: movies name Iron Man 3. Iron Man 3 character David Anthony Buglione as Mandarin Guards. Iron Man 3 screenwriter Drew Pearce, Larry Lieber, Don Heck, Warren Ellis, Jack Kirby, Shane Black, Stan Lee.
+
+Data to Text for <confirm>: Are you talking about Iron Man 3 with David Anthony Buglione as Mandarin Guards and written by Drew Pearce, Larry Lieber, Don Heck, Warren Ellis, Jack Kirby, Shane Black, Stan Lee?
+
+
+Data: movies name Once Upon a Time in Hollywood. Once Upon a Time in Hollywood character Corey Burton as the Bounty Law promotional announcer.
+
+Data to Text for <confirm>: Are you talking about Once Upon a Time in Hollywood which featured Corey Burton as the Bounty Law promotional announcer?
+
+
+Data: movies name Downton Abbey. Downton Abbey screenwriter Julian Fellowes. Downton Abbey cast member Mark Addy, David Haig.
+
+Data to Text for <confirm>: Are you referring to Downton Abbey written by Julian Fellowes, starring Mark Addy and David Haig?
+
+
+Data: movies name Indiana Jones and the Temple of Doom. Indiana Jones and the Temple of Doom genre treasure hunt film, adventure film. Indiana Jones and the Temple of Doom character Amrish Puri as Mola Ram.
+
+Data to Text for <confirm>: Are you talking about Indiana Jones and the Temple of Doom, the treasure hunt-adventure film with Amrish Puri as Mola Ram?
+
+
+Data: movies name Yesterday. Yesterday character Kate McKinnon as Debra. Yesterday producer Bernard Bellew, Eric Fellner, Tim Bevan, Richard Curtis, Liza Chasin, Danny Boyle.
+
+Data to Text for <confirm>: Are you talking about Yesterday starring Kate McKinnon as Debra, produced by Bernard Bellew, Eric Fellner, Tim Bevan, Richard Curtis, Liza Chasin, and Danny Boyle?
+
+
+Data: movies name Apollo 13. Apollo 13 publication date 1995. Apollo 13 screenwriter Al Reinert, Jeffrey Kluger, Jim Lovell, William Broyles, Jr.
+
+Data to Text for <confirm>: Are you talking about Apollo 13 from 1995, written by Al Reinert, Jeffrey Kluger, Jim Lovell, William Broyles, Jr.?
+
+
+Data: movies name Fargo. Fargo cast member Peter Stormare, Frances McDormand. Fargo producer Ethan Coen, Joel Coen.
+
+Data to Text for <confirm>: Are you referring to the movie Fargo with Peter Stormare and Frances McDormand, produced by Ethan Coen and Joel Coen?
+

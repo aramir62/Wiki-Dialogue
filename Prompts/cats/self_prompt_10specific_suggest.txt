@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of cats. In the response, ask your friend if he or she has experience with a certain type of cats, suggesting the given cat as an example of such a cat. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the cat name at the end as an example. Make sure you ask about the general category of cats corresponding to the given attributes, not the example cat directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such cats, and not that your friend does not like the given cat.
+
+
+Data: cats name European Shorthair. European Shorthair max life expectancy 20.
+
+Data to Text for <suggest>: Are you also interested in the European Shorthair, which has a maximum life expectancy of 20 years?
+
+
+Data: cats name Egyptian Mau. Egyptian Mau min weight 6.0. Egyptian Mau children friendly very kid-friendly.
+
+Data to Text for <suggest>: Have you ever considered owning a cat breed such as the Egyptian Mau? It is known to be very kid-friendly and its min weight is 6.0.
+
+
+Data: cats name Chartreux. Chartreux grooming lots of grooming.
+
+Data to Text for <suggest>: I've been wondering, do you like cats that need lots of grooming, like the Chartreux?
+
+
+Data: cats name Thai. Thai intelligence intelligent. Thai general health mainly healthy.
+
+Data to Text for <suggest>: Would you like to know more about the intelligent and mainly healthy Thai cat breed?
+
+
+Data: cats name Ocicat. Ocicat length 9 to 11 inches. Ocicat max weight 15.
+
+Data to Text for <suggest>: Are you interested in the Ocicat breed of cats? They usually grow up to between 9 and 11 inches in length and can weigh up to 15 pounds.
+
+
+Data: cats name Ukrainian Levkoy. Ukrainian Levkoy children friendly most kid-friendly.
+
+Data to Text for <suggest>: Have you ever thought about getting a Ukrainian Levkoy? It's one of the most kid-friendly cat breeds.
+
+
+Data: cats name Exotic. Exotic intelligence intelligent.
+
+Data to Text for <suggest>: Are you also interested in cats that are known for being particularly intelligent, such as Exotic breeds?
+
+
+Data: cats name Bambino. Bambino origin United States. Bambino general health healthy.
+
+Data to Text for <suggest>: I'm curious, do you like cats like the Bambino, which is originally from the United States and generally quite healthy?
+
+
+Data: cats name Chantilly-Tiffany. Chantilly-Tiffany intelligence very intelligent. Chantilly-Tiffany shedding average shedding.
+
+Data to Text for <suggest>: Have you ever considered a Chantilly-Tiffany? They are known to be very intelligent and have an average shedding rate.
+
+
+Data: cats name Balinese. Balinese grooming little grooming. Balinese length Up to 18 inches, not including tail.
+
+Data to Text for <suggest>: Are you interested in a Balinese cat breed, which only needs little grooming and is up to 18 inches long, not including its tail?
+

@@ -1,0 +1,51 @@
+description of <reccommend>: A question asking if your friend is familiar with a painter you would recommend. In the response, bring up the given painter (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as ""..., I was wondering if...""). Make sure you ask about the painter, not the attribute(s), nor the friend's opinion. In other words, a ""no"" answer to your question should mean that your friend has not seen/heard about the painter, and not that the attribute is not true about the given painter or that your friend does not like the painter.
+
+
+Data: painters name Giuseppe Arcimboldo. Giuseppe Arcimboldo  occupations architectural draftsperson, tapestry designer. Giuseppe Arcimboldo  nationality Italian.
+
+Data to Text for <recommend>: I know you appreciate Italian artists, have you ever come across Giuseppe Arcimboldo? His work as an architectural draftsperson and tapestry designer is truly fascinating, I was wondering if you're familiar with him?
+
+
+Data: painters name Kazimir Malevich. Kazimir Malevich  movements constructivism, suprematism. Kazimir Malevich  nationality Russian. 
+
+Data to Text for <recommend>:  I was reading about this Russian painter, Kazimir Malevich, who was associated with the movements constructivism and suprematism. Have you ever heard of him before?
+
+
+Data: painters name Willem de Kooning. Willem de Kooning  occupations printmaker, drawer.
+
+Data to Text for <recommend>:  Hey, have you ever heard of Willem de Kooning? He's a renowned artist known for his work as a printmaker and drawer. I was wondering if you're familiar with his pieces?
+
+
+Data: painters name Hieronymus Bosch. Hieronymus Bosch  genres religious painting, genre painting. Hieronymus Bosch  movements Early Netherlandish painting, Northern Renaissance.
+
+Data to Text for <recommend>:  I was just admiring some religious paintings by Hieronymus Bosch, who is known for his work in Early Netherlandish painting and Northern Renaissance movements. Have you ever seen any of his pieces before?
+
+
+Data: painters name Henri de Toulouse-Lautrec. Henri de Toulouse-Lautrec  genres genre painting, portrait. 
+
+Data to Text for <recommend>: I recently learned about a painter named Henri de Toulouse-Lautrec who is known for his genre painting and portrait work. I was wondering if you're familiar with his work?
+
+
+Data: painters name Cy Twombly. Cy Twombly  movements abstract expressionism, postmodernism. 
+
+Data to Text for <recommend>:  Given your interest in abstract expressionism and postmodernism, I was wondering if you're familiar with Cy Twombly's work?
+
+
+Data: painters name Raphael. Raphael  life period century XV - XVI.
+
+Data to Text for <recommend>: I know you're interested in art from the 15th and 16th centuries, have you heard of Raphael? I was wondering if you're familiar with his work.
+
+
+Data: painters name Salvador Dalí. Salvador Dalí  nationality Spanish.
+
+Data to Text for <recommend>: Have you ever heard of Salvador Dalí? I was wondering if you're familiar with his work as a Spanish painter.
+
+
+Data: painters name Mary Cassatt. Mary Cassatt  life period century XIX - XX. Mary Cassatt  genres portrait painting, portrait. 
+
+Data to Text for <recommend>:  I recently came across a painter named Mary Cassatt who is known for her beautiful portrait paintings. Have you ever heard of her before? I was wondering if she's someone you might be interested in learning more about.
+
+
+Data: painters name Johannes Vermeer. Johannes Vermeer  life period century XVII. Johannes Vermeer  occupations painter, art collector.
+
+Data to Text for <recommend>: I remember we were talking about painters from the 17th century. Have you heard of Johannes Vermeer? He was not only a painter but also an art collector. I was wondering if you've seen any of his works?

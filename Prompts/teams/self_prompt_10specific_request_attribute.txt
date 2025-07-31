@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain sports team's characteristic.
+
+
+Data: sports teams league .
+
+Data to Text for <request_attribute>: Which sports league do you prefer or follow most closely?
+
+
+Data: sports teams head coach .
+
+Data to Text for <request_attribute>: Which head coach do you prefer leading your favorite sports teams?
+
+
+Data: sports teams sport .
+
+Data to Text for <request_attribute>: What's your favorite sport?
+
+
+Data: sports teams owned by .
+
+Data to Text for <request_attribute>: Which team owners do you admire or prefer in the world of sports?
+
+
+Data: sports teams country .
+
+Data to Text for <request_attribute>: What country do you think has the best teams in the world?
+
+
+Data: sports teams home venue .
+
+Data to Text for <request_attribute>: Which home venues do you prefer for your favorite sports teams?
+
+
+Data: sports teams players .
+
+Data to Text for <request_attribute>: Which players do you prefer to see on your favorite sports teams?
+
+
+Data: sports teams head coach .
+
+Data to Text for <request_attribute>: Which head coach do you prefer to see leading your favorite sports teams?
+
+
+Data: sports teams headquarters location .
+
+Data to Text for <request_attribute>: Which city or place do you find most fitting as the headquarters for your favorite sports teams?
+
+
+Data: sports teams sport .
+
+Data to Text for <request_attribute>: Which sports league do you find most exciting or enjoyable to follow?
+

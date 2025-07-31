@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of sports teams in general. In the response, state an observation about your friend's attitude to the given sports team and then ask him or her whether it generalizes to all sports teams of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given sports team's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all sports teams of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: teams name A.C. ChievoVerona. A.C. ChievoVerona rating okay. A.C. ChievoVerona sport association football. A.C. ChievoVerona league Serie B.
+
+Data to Text for <verify_attribute>: You said A.C. ChievoVerona is okay. Is this your opinion of all association football teams in Serie B?
+
+
+Data: teams name Cerezo Osaka. Cerezo Osaka rating good. Cerezo Osaka players Kakeru Funaki, Teruyuki Moniwa. Cerezo Osaka winners 2017 Emperors Cup, 2017 J.League Cup.
+
+Data to Text for <verify_attribute>: You seem to like Cerezo Osaka with Kakeru Funaki and Teruyuki Moniwa. Do you usually support teams that have won the 2017 Emperors Cup and 2017 J.League Cup?
+
+
+Data: teams name AFC Ajax. AFC Ajax rating excellent. AFC Ajax league Eredivisie. Feyenoord league Eredivisie.
+
+Data to Text for <verify_attribute>: You told me you love AFC Ajax from the Eredivisie. Is the same true for Feyenoord also from the Eredivisie?
+
+
+Data: teams name Baylor Bears football. Baylor Bears football rating bad. Robert Griffin III member of sports team Baylor Bears football.
+
+Data to Text for <verify_attribute>: You said Baylor Bears football was not good. Is that how you feel about Robert Griffin III's performances in general?
+
+
+Data: teams name Real Madrid CF. Real Madrid CF rating excellent. Real Madrid CF head coach Carlo Ancelotti. Real Madrid CF country Spain.
+
+Data to Text for <verify_attribute>: You love Real Madrid CF with Carlo Ancelotti as head coach. Do you always rate Spanish teams highly?
+
+
+Data: teams name Juventus F.C.. Juventus F.C. rating excellent. Juventus F.C. head coach Massimiliano Allegri. Massimiliano Allegri member of sports team A.C. Perugia Calcio.
+
+Data to Text for <verify_attribute>: You seem to have a great opinion of Juventus F.C. and Massimiliano Allegri. Are you a fan of A.C. Perugia Calcio as well?
+
+
+Data: teams name Independiente del Valle. Independiente del Valle rating okay. Independiente del Valle country Ecuador. Fuerza Amarilla Sporting Club country Ecuador.
+
+Data to Text for <verify_attribute>: You said Independiente del Valle was just okay. Does this attitude apply to other Ecuadorian teams like Fuerza Amarilla Sporting Club?
+
+
+Data: teams name Dorados de Sinaloa. Dorados de Sinaloa rating okay. Dorados de Sinaloa players Miguel Garduño, Bruno Piceno. Dorados de Sinaloa home venue Estadio Carlos González.
+
+Data to Text for <verify_attribute>: You told me that Dorados de Sinaloa is just okay. Is that your opinion when Miguel Garduño and Bruno Piceno are playing at Estadio Carlos González too?
+
+
+Data: teams name Borussia Dortmund. Borussia Dortmund rating excellent. Borussia Dortmund winners Borussia Dortmund versus SG Wattenscheid 09 1993-94 Fußball-Bundesliga, Borussia Dortmund versus Arminia Bielefeld 2005–06 Fußball-Bundesliga. Borussia Dortmund head coach Edin Terzić.
+
+Data to Text for <verify_attribute>: You seem to be a big fan of Borussia Dortmund due to their victories against SG Wattenscheid 09 1993-94 and Arminia Bielefeld 2005–06 Fußball-Bundesliga under the guidance of Edin Terzić. Do you usually support teams with the same coach?
+
+
+Data: teams name Cerezo Osaka. Cerezo Osaka rating good. Cerezo Osaka league J1 League. Urawa Red Diamonds league J1 League.
+
+Data to Text for <verify_attribute>: You seem to enjoy Cerezo Osaka playing in the J1 League. Is this also the case for Urawa Red Diamonds?
+

@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a TV show. In the response, ask for a confirmation of the given TV show by referring to its attributes. Imagine that the TV show's name has just been mentioned in the conversation, but you know of multiple TV shows with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the TV show, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the TV show your friend had in mind, and not that the attribute is not true about the given TV show.
+
+
+Data: tv shows name Houdini. Houdini genre historical drama, film based on books. Houdini character Bess Houdini, Cecilia Steiner.
+
+Data to Text for <confirm>: Are you referring to Houdini, the historical drama film based on books, starring Bess Houdini and Cecilia Steiner?
+
+
+Data: tv shows name My Country: The New Age. My Country: The New Age genre romance television series. My Country: The New Age creator Kim Jin-won.
+
+Data to Text for <confirm>: Is My Country: The New Age the romance television series created by Kim Jin-won?
+
+
+Data: tv shows name 1899.
+
+Data to Text for <confirm>: Is 1899 the TV show you had in mind?
+
+
+Data: tv shows name Star Trek: Picard. Star Trek: Picard creator Jonathan Frakes, Hanelle Culpepper. Star Trek: Picard character Deanna Troi, Kestra Troi-Riker.
+
+Data to Text for <confirm>: Are you referring to Star Trek: Picard, created by Jonathan Frakes and Hanelle Culpepper featuring Deanna Troi and Kestra Troi-Riker?
+
+
+Data: tv shows name Knightfall. Knightfall screenwriter Vivian Tse, Ethan Reiff, Dominic Minghella, Vincent Angell, Cyrus Voris, Richard Rayner, Sharon Hoffman, Don Handfield, Aaron Helbing. Knightfall genre historical drama, action film.
+
+Data to Text for <confirm>: Is Knightfall the historical drama and action film series co-written by Vivian Tse, Ethan Reiff, Dominic Minghella, Vincent Angell, Cyrus Voris, Richard Rayner, Sharon Hoffman, Don Handfield, and Aaron Helbing?
+
+
+Data: tv shows name Stranger Things. Stranger Things cast member Millie Bobby Brown, Dacre Montgomery. Stranger Things character Nancy Wheeler, Dustin Henderson.
+
+Data to Text for <confirm>: Is Stranger Things the show featuring Millie Bobby Brown, Dacre Montgomery, Nancy Wheeler, and Dustin Henderson?
+
+
+Data: tv shows name Obi-Wan Kenobi. Obi-Wan Kenobi genre science fiction television series, science fiction.
+
+Data to Text for <confirm>: Are you thinking of the science fiction television series Obi-Wan Kenobi?
+
+
+Data: tv shows name Self Made: Inspired by the Life of Madam C. J. Walker. Self Made: Inspired by the Life of Madam C. J. Walker character W.E.B. DuBois, C. J. Self Made: Inspired by the Life of Madam C. J. Walker creator Kasi Lemmons.
+
+Data to Text for <confirm>: Are you referring to Self Made: Inspired by the Life of Madam C. J. Walker, starring W.E.B. DuBois and C. J. with Kasi Lemmons as the creator?
+
+
+Data: tv shows name Drop Dead Diva. Drop Dead Diva creator Michael Grossman, David Petrarca, Robert J. Wilson. Drop Dead Diva character Jay Parker, A.D.A. Paul Saginaw.
+
+Data to Text for <confirm>: Is Drop Dead Diva the TV show created by Michael Grossman, David Petrarca, and Robert J. Wilson starring Jay Parker and A.D.A. Paul Saginaw?
+
+
+Data: tv shows name Lucifer. Lucifer screenwriter Tom Kapinos.
+
+Data to Text for <confirm>: Are you referring to Lucifer, written by Tom Kapinos?
+

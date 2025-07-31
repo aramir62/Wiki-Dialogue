@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about an athlete. In the response, prompt your friend to name an athlete which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single athlete, or a yes/no answer (followed by the name of an athlete in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: athletes specifier seasoned. athletes height 185.
+
+Data to Text for <request>: Who is the most seasoned athlete you know of that is 185 cm tall?
+
+
+Data: athletes specifier accomplished. athletes num awards 0.
+
+Data to Text for <request>: Are there any accomplished athletes without any awards?
+
+
+Data: athletes specifier inadequate. athletes sports teams Uni Girona CB, Spain womens national basketball team.
+
+Data to Text for <request>: Who do you think is an inadequate player on the Uni Girona CB or the Spain women's national basketball team?
+
+
+Data: athletes specifier unlucky. athletes sports teams Derby County F.C., D.C. United.
+
+Data to Text for <request>: Were there any unlucky athletes from Derby County F.C. and D.C. United?
+
+
+Data: athletes specifier boring. athletes stats leader 2011 NBA All-Star Game.
+
+Data to Text for <request>: Who was the most boring player in the 2011 NBA All-Star Game?
+
+
+Data: athletes specifier seasoned. athletes start time 2000.
+
+Data to Text for <request>: Who is a seasoned athlete that has been active since 2000?
+
+
+Data: athletes specifier unlucky. athletes sport basketball.
+
+Data to Text for <request>: Were there any unlucky basketball players?
+
+
+Data: athletes specifier Underated. athletes start time 1939.
+
+Data to Text for <request>: Who are some underrated athletes from 1939 onwards?
+
+
+Data: athletes specifier inadequate. athletes awards UEFA Club Footballer of the Year.
+
+Data to Text for <request>: Who do you think is an inadequate UEFA Club Footballer of the Year?
+
+
+Data: athletes specifier gifted. athletes start time 2012.
+
+Data to Text for <request>: Who are some gifted athletes that began their career in 2012 or later?
+

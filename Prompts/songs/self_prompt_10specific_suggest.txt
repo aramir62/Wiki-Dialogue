@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of songs. In the response, ask your friend if he or she has experience with a certain type of songs, suggesting the given song as an example of such a song. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the song name at the end as an example. Make sure you ask about the general category of songs corresponding to the given attributes, not the example song directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such songs, and not that your friend does not like the given song.
+
+
+Data: songs name Pumped Up Kicks. Pumped Up Kicks performer Foster the People. Don't Stop (Color on the Walls) performer Foster the People.
+
+Data to Text for <suggest>: Are you a fan of Foster the People, like Pumped Up Kicks and Don't Stop (Color on the Walls)?
+
+
+Data: songs name Evolution. Evolution from album Untitled Korn album.
+
+Data to Text for <suggest>: Do you listen to songs from Untitled Korn album, such as Evolution?
+
+
+Data: songs name Mad Love. Mad Love part of High Expectations. High Expectations producer Fraser T. Smith.
+
+Data to Text for <suggest>: Have you heard Fraser T. Smith's High Expectations, like Mad Love?
+
+
+Data: songs name Over It. Over It from album Katharine McPhee. Over It record label RCA Records.
+
+Data to Text for <suggest>: Are there any RCA Records songs that you like, like Katharine McPhee's Over It?
+
+
+Data: songs name Money, Cash, Hoes. Money, Cash, Hoes record label Def Jam Recordings. Money, Cash, Hoes genres East Coast hip hop.
+
+Data to Text for <suggest>: Are you familiar with the East Coast hip hop sound, like Money, Cash, Hoes by Def Jam Recordings?
+
+
+Data: songs name Feel Again. Feel Again genre pop music. If I Were a Boy genre pop music.
+
+Data to Text for <suggest>: Do you like pop music, like Feel Again by If I Were a Boy?
+
+
+Data: songs name Marilyn Monroe. Marilyn Monroe performer Pharrell Williams. Pharrell Williams genre contemporary R&B.
+
+Data to Text for <suggest>: Are you into contemporary R&B, like Pharrell Williams' Marilyn Monroe?
+
+
+Data: songs name Apple Shampoo. Apple Shampoo performer Blink-182. Take Off Your Pants and Jacket performer Blink-182.
+
+Data to Text for <suggest>: Are you familiar with Blink-182, like Apple Shampoo and Take Off Your Pants and Jacket?
+
+
+Data: songs name Blinding Lights. Blinding Lights producer Max Martin. Baby One More Time producer Max Martin.
+
+Data to Text for <suggest>: Do you like Max Martin's work, like Blinding Lights and ...Baby One More Time?
+
+
+Data: songs name King of Sorrow. King of Sorrow performer Sade. King of Sorrow producer Sade Adu.
+
+Data to Text for <suggest>: Are you a fan of Sade and her producer Sade Adu, like King of Sorrow?
+

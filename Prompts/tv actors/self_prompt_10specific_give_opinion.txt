@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given actor and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: tv actors name Jennifer Morrison. Jennifer Morrison rating lower rated. Star Trek cast member Jennifer Morrison. Star Trek cast member Greg Grunberg.
+
+Data to Text for <give_opinion>: Jennifer Morrison and Greg Grunberg are both good in Star Trek, though Jennifer Morrison is lower rated.
+
+
+Data: tv actors name William H. Macy. William H. Macy rating top rated. William H. Macy awards received Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie. William H. Macy gender male.
+
+Data to Text for <give_opinion>: I consider William H. Macy to be one of the top rated male TV actors. He has won a Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie.
+
+
+Data: tv actors name Lauren German. Lauren German rating moderately rated. The Texas Chainsaw Massacre cast member Lauren German. Down to You cast member Lauren German.
+
+Data to Text for <give_opinion>: Lauren German has given moderately rated performances in The Texas Chainsaw Massacre and Down to You.
+
+
+Data: tv actors name Norman Reedus. Norman Reedus rating lower rated. Norman Reedus height average. Norman Reedus place of birth Hollywood.
+
+Data to Text for <give_opinion>: I believe Norman Reedus is an underrated actor from Hollywood of average height.
+
+
+Data: tv actors name Chris Pratt. Chris Pratt rating highly_rated. Chris Pratt spouse Anna Faris. Anna Faris spouse Michael Barrett.
+
+Data to Text for <give_opinion>: Chris Pratt is a highly rated actor, and his chemistry with Anna Faris is undeniable. Both Chris and Anna have gone on to marry other people, Michael Barrett and Chris Pratt, respectively.
+
+
+Data: tv actors name Aimee Garcia. Aimee Garcia rating lower rated. Dexter cast member Aimee Garcia. Dexter cast member Desmond Harrington.
+
+Data to Text for <give_opinion>: Aimee Garcia has a lower rating, but she and Desmond Harrington work well together in Dexter.
+
+
+Data: tv actors name Ginnifer Goodwin. Ginnifer Goodwin rating lower rated. A Single Man cast member Ginnifer Goodwin. A Single Man cast member Lee Pace.
+
+Data to Text for <give_opinion>: Ginnifer Goodwin and Lee Pace have good chemistry in A Single Man. Despite being lower rated, Ginnifer Goodwin's performance is still solid.
+
+
+Data: tv actors name Eva Green. Eva Green rating highly_rated. Eva Green gender female. Eva Green awards received Chevalier des Arts et des Lettres.
+
+Data to Text for <give_opinion>: Eva Green is a highly rated female actor who has been awarded the Chevalier des Arts et des Lettres.
+
+
+Data: tv actors name Jim Parsons. Jim Parsons rating top rated. Jim Parsons gender male. Jim Parsons place of birth St. Joseph Medical Center (Houston, Texas).
+
+Data to Text for <give_opinion>: I consider Jim Parsons to be one of the top rated male actors from St. Joseph Medical Center (Houston, Texas).
+
+
+Data: tv actors name Finn Wolfhard. Finn Wolfhard rating highly rated. Stranger Things, season 2 cast member Finn Wolfhard. Stranger Things, season 2 cast member David Harbour.
+
+Data to Text for <give_opinion>: Finn Wolfhard and David Harbour make a great team in Stranger Things, season 2. Finn Wolfhard is highly rated and it really shows in this series.
+

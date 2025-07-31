@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of actors. In the response, ask your friend if he or she has experience with a certain type of actors, suggesting the given actor as an example of such an actor. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the actor name at the end as an example. Make sure you ask about the general category of actors corresponding to the given attributes, not the example actor directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such actors, and not that your friend does not like the given actor.
+
+
+Data: movie actors name Lee Byung-hun. Lee Byung-hun awards received Asian Film Award for Best Actor. Lee Byung-hun spouse Lee Min-jung.
+
+Data to Text for <suggest>: Have you seen any films by actors who have won the Asian Film Award for Best Actor, like Lee Byung-hun and his spouse Lee Min-jung?
+
+
+Data: movie actors name Jennifer Connelly. Jennifer Connelly place of birth Cairo. Jennifer Connelly date of birth 1970.
+
+Data to Text for <suggest>: Are you familiar with the work of actors from Cairo born in 1970, such as Jennifer Connelly?
+
+
+Data: movie actors name Rekhā. Rekhā occupation playback singer. Rekhā spouse Vinod Mehra.
+
+Data to Text for <suggest>: Did you ever watch a film featuring a playback singer, like Rekhā who was married to Vinod Mehra?
+
+
+Data: movie actors name Fear and Loathing in Las Vegas. Fear and Loathing in Las Vegas cast member Christina Ricci. Fear and Loathing in Las Vegas cast member Johnny Depp.
+
+Data to Text for <suggest>: Have you ever watched Fear and Loathing in Las Vegas, which featured actors like Christina Ricci and Johnny Depp?
+
+
+Data: movie actors name Jessica Walter. Jessica Walter spouse Ron Leibman. Jessica Walter cast member of Play Misty for Me.
+
+Data to Text for <suggest>: Did you ever watch a movie featuring an actor married to Ron Leibman, like Jessica Walter who starred in Play Misty for Me?
+
+
+Data: movie actors name Ronald Reagan. Ronald Reagan spouse Nancy Reagan. Ronald Reagan awards received Grand Cross 1st class of the Order of Merit of the Federal Republic of Germany.
+
+Data to Text for <suggest>: Are you familiar with the work of actors who have received a Grand Cross 1st class of the Order of Merit of the Federal Republic of Germany, such as Ronald Reagan and his spouse Nancy Reagan?
+
+
+Data: movie actors name Jada Pinkett Smith. Jada Pinkett Smith cast member of Madagascar. Jada Pinkett Smith spouse Will Smith.
+
+Data to Text for <suggest>: Have you ever seen any movies starring Jada Pinkett Smith and her spouse Will Smith, like Madagascar?
+
+
+Data: movie actors name Michael Jackson. Michael Jackson cast member of Dangerous. Michael Jackson occupation poet.
+
+Data to Text for <suggest>: Are you familiar with the performances of actor-poets, such as Michael Jackson who was a cast member of Dangerous?
+
+
+Data: movie actors name Anne Hathaway. Anne Hathaway place of birth New York City. Noah Schnapp place of birth New York City.
+
+Data to Text for <suggest>: Have you seen any films by actors from New York City, like Anne Hathaway or Noah Schnapp?
+
+
+Data: movie actors name James Cromwell. James Cromwell awards received Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie. James Cromwell date of birth 1940.
+
+Data to Text for <suggest>: Did you ever watch a movie or miniseries starring actors born in 1940, such as James Cromwell who won a Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie?
+

@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain animal's characteristic.
+
+
+Data: animals diet . 
+
+Data to Text for <request_attribute>:  Which diet for an animal is preferable by you?
+
+
+Data: animals group behavior . 
+
+Data to Text for <request_attribute>:  What group behaviors do you prefer your favorite animal to be associated with?
+
+
+Data: animals weight . 
+
+Data to Text for <request_attribute>:  What is your preferred weight when it comes to animals?
+
+
+Data: animals group behavior . 
+
+Data to Text for <request_attribute>:  Do you prefer any particular group behaviors in animals?
+
+
+Data: animals habitat . 
+
+Data to Text for <request_attribute>:  Which type of habitat do you prefer animals to come from or live in?
+
+
+Data: animals main prey . 
+
+Data to Text for <request_attribute>:  Which type of prey do you find most interesting or acceptable in an animal's diet?
+
+
+Data: animals litter size . 
+
+Data to Text for <request_attribute>:  What litter size do you prefer or find ideal in an animal?
+
+
+Data: animals color . 
+
+Data to Text for <request_attribute>:  What colors do you prefer in animals?
+
+
+Data: animals estimated population size . 
+
+Data to Text for <request_attribute>:  What estimated population size do you find most relevant or meaningful when considering an animal?
+
+
+Data: animals distinctive feature . 
+
+Data to Text for <request_attribute>:  What distinctive feature of an animal do you find most attractive?
+

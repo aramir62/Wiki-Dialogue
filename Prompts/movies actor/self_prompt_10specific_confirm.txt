@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm an actor. In the response, ask for a confirmation of the given actor by referring to its attributes. Imagine that the actor's name has just been mentioned in the conversation, but you know of multiple actors with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the actor, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the actor your friend had in mind, and not that the attribute is not true about the given actor.
+
+
+Data: movie actors name Tiffani Thiessen. Tiffani Thiessen gender female.
+
+Data to Text for <confirm>: Are you talking about the female actor Tiffani Thiessen?
+
+
+Data: movie actors name James Cromwell. James Cromwell cast member of Six Feet Under. James Cromwell spouse Julie Cobb.
+
+Data to Text for <confirm>: Is this the James Cromwell who is married to Julie Cobb and starred in Six Feet Under?
+
+
+Data: movie actors name Traci Lords. Traci Lords place of birth Steubenville. Traci Lords date of birth 1968.
+
+Data to Text for <confirm>: Are you referring to Traci Lords, who was born in Steubenville in 1968?
+
+
+Data: movie actors name Niecy Nash. Niecy Nash awards received Black Reel Award for Outstanding Actress. Niecy Nash occupation voice movie actors.
+
+Data to Text for <confirm>: Is Niecy Nash the voice actor and actor who won the Black Reel Award for Outstanding Actress?
+
+
+Data: movie actors name Candace Cameron Bure. Candace Cameron Bure cast member of Fuller House.
+
+Data to Text for <confirm>: Are you talking about Candace Cameron Bure, who is a cast member of Fuller House?
+
+
+Data: movie actors name Lee Byung-hun. Lee Byung-hun place of birth Seoul.
+
+Data to Text for <confirm>: Is the Lee Byung-hun you mentioned the actor from Seoul?
+
+
+Data: movie actors name Ken Watanabe. Ken Watanabe spouse Kaho Minami.
+
+Data to Text for <confirm>: Is the Ken Watanabe you're referring to married to Kaho Minami?
+
+
+Data: movie actors name Candice Bergen. Candice Bergen date of birth 1946.
+
+Data to Text for <confirm>: Do you mean Candice Bergen, the actor born in 1946?
+
+
+Data: movie actors name Jenna Jameson. Jenna Jameson cast member of How to Make Love Like a Porn Star.
+
+Data to Text for <confirm>: Are you talking about Jenna Jameson, who starred in How to Make Love Like a Porn Star?
+
+
+Data: movie actors name Yukio Mishima. Yukio Mishima gender male. Yukio Mishima occupation military personnel.
+
+Data to Text for <confirm>: Is this Yukio Mishima the male actor and military personnel?
+

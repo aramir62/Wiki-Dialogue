@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of dogs. In the response, ask your friend if he or she has experience with a certain type of dogs, suggesting the given dog as an example of such a dog. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the dog name at the end as an example. Make sure you ask about the general category of dogs corresponding to the given attributes, not the example dog directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such dogs, and not that your friend does not like the given dog.
+
+
+Data: dogs name English Foxhound. English Foxhound good with other dogs most friendly to other dogs. English Foxhound playfulness very playful.
+
+Data to Text for <suggest>: I was wondering if you'd like to know more about the English Foxhound, which is known to be very playful and most friendly to other dogs?
+
+
+Data: dogs name Border Terrier. Border Terrier max height male 15.0.
+
+Data to Text for <suggest>: Have you ever seen a Border Terrier? They have a maximum height of 15.0 for males!
+
+
+Data: dogs name Collie. Collie ratings excellent.
+
+Data to Text for <suggest>: Are you interested in dogs with an excellent rating, such as the Collie?
+
+
+Data: dogs name Grand Basset Griffon Vendéen. Grand Basset Griffon Vendéen drooling sometimes drool.
+
+Data to Text for <suggest>: Do you also like animals like the Grand Basset Griffon Vendéen that sometimes drool?
+
+
+Data: dogs name Cavalier King Charles Spaniel. Cavalier King Charles Spaniel trainability easy trainable. Cavalier King Charles Spaniel energy energetic.
+
+Data to Text for <suggest>: Have you ever considered owning a Cavalier King Charles Spaniel? They are easy to train and energetic.
+
+
+Data: dogs name Nova Scotia Duck Tolling Retriever. Nova Scotia Duck Tolling Retriever barking bark occasionally.
+
+Data to Text for <suggest>: Would you be interested in the Nova Scotia Duck Tolling Retriever, which only barks occasionally?
+
+
+Data: dogs name Chinese Shar-Pei. Chinese Shar-Pei shedding average shedding.
+
+Data to Text for <suggest>: I was curious, are you also fond of Chinese Shar-Peis that have an average shedding rate?
+
+
+Data: dogs name Estrela Mountain Dog. Estrela Mountain Dog ratings okay. Estrela Mountain Dog protectiveness very alert.
+
+Data to Text for <suggest>: Do you also find the Estrela Mountain Dog interesting? It has been rated as okay for protection, and is very alert.
+
+
+Data: dogs name Transylvanian Hound. Transylvanian Hound max weight female 77.0. Transylvanian Hound max weight male 77.0.
+
+Data to Text for <suggest>: Are you curious about the Transylvanian Hound? Both males and females typically weigh around 77.0 pounds.
+
+
+Data: dogs name Irish Terrier. Irish Terrier max height female 18.0. Irish Terrier playfulness playful.
+
+Data to Text for <suggest>: Have you ever wanted to meet a playful Irish Terrier? They can grow up to 18.0 inches for females.
+

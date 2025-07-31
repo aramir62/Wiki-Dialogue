@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of dogs. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of dogs. Assume your friend has indicated his or her sentiment about the kind of dogs earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of dogs determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: dogs trainability trainable. dogs good with strangers very friendly to strangers.
+
+Data to Text for <request_explanation>: What do you find appealing about animals that are very trainable and very friendly to strangers?
+
+
+Data: dogs max height female 21.0. dogs barking sometimes barks.
+
+Data to Text for <request_explanation>: Why does a female animal animal who is 21.0 feet tall and sometimes barks interest you so much?
+
+
+Data: dogs ratings okay. dogs coat length short coat.
+
+Data to Text for <request_explanation>: What makes you think of animals with short coats as being just okay?
+
+
+Data: dogs protectiveness alert. dogs max life expectancy 10.
+
+Data to Text for <request_explanation>: Why are you alert and protective towards animals that have a maximum life expectancy of 10?
+
+
+Data: dogs grooming average amount of grooming. dogs trainability trainable.
+
+Data to Text for <request_explanation>: What is it about an animal that requires an average amount of grooming and is trainable that you appreciate?
+
+
+Data: dogs max life expectancy 14. dogs max height male 16.0.
+
+Data to Text for <request_explanation>: Why do you like animals that can only live up to 14 years and can be no taller than 16.0 for males?
+
+
+Data: dogs max height male 10.0. dogs good with other dogs most friendly to other dogs.
+
+Data to Text for <request_explanation>: What makes a 10.0 male with a domain in animals and who is most friendly to other dogs so appealing to you?
+
+
+Data: dogs ratings alright. dogs barking silient.
+
+Data to Text for <request_explanation>: Why do you think the animal's performance in animal roles is only alright despite being able to bark silently?
+
+
+Data: dogs shedding average shedding. dogs ratings alright.
+
+Data to Text for <request_explanation>: What makes animals with an average shedding rate and an
+
+
+Data: dogs max height male 27.0. dogs good with children kid-friendly.
+
+Data to Text for <request_explanation>: What is it that appeals to you about child-friendly male animals who specialize in animals who are 27.0 inches tall?
+

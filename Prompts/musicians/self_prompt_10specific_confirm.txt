@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a musician. In the response, ask for a confirmation of the given musician by referring to its attributes. Imagine that the musician's name has just been mentioned in the conversation, but you know of multiple musicians with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the musician, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the musician your friend had in mind, and not that the attribute is not true about the given musician.
+
+
+Data: musicians name Sarah Cracknell. Sarah Cracknell performer of Kellys Locker. Sarah Cracknell gender female.
+
+Data to Text for <confirm>: Are you referring to the female musician Sarah Cracknell who performed Kellys Locker?
+
+
+Data: musicians name Hoku. Hoku genres soul music. Hoku record label Geffen Records.
+
+Data to Text for <confirm>: Are you speaking of Hoku who plays soul music and signed with Geffen Records?
+
+
+Data: musicians name Olivia Newton-John. Olivia Newton-John from United Kingdom. Olivia Newton-John awards Dame Commander of the Order of the British Empire.
+
+Data to Text for <confirm>: Are you refering to Olivia Newton-John from the United Kingdom who was awarded a Dame Commander of the Order of the British Empire?
+
+
+Data: musicians name Kate Bush. Kate Bush genres singer-songwriter music.
+
+Data to Text for <confirm>: Are you talking about the singer-songwriter music artist Kate Bush?
+
+
+Data: musicians name Zella Day. Zella Day date of birth March 13, 1995.
+
+Data to Text for <confirm>: Are you referring to Zella Day born on March 13, 1995?
+
+
+Data: musicians name Lisa Marie Presley. Lisa Marie Presley awards N/A. Lisa Marie Presley genres pop rock.
+
+Data to Text for <confirm>: Are you referring to Lisa Marie Presley who sings pop rock and didn't get any awards?
+
+
+Data: musicians name Austin Butler. Austin Butler awards Golden Globe Award for Best Actor – Motion Picture Drama. Austin Butler from United States of America.
+
+Data to Text for <confirm>: Are you referring to Austin Butler from the United States of America who won a Golden Globe Award for Best Actor – Motion Picture Drama?
+
+
+Data: musicians name Kim Ryeowook. Kim Ryeowook date of birth June 21, 1987.
+
+Data to Text for <confirm>: Are you speaking of Kim Ryeowook who was born on June 21, 1987?
+
+
+Data: musicians name Noize MC. Noize MC record label Respect Production.
+
+Data to Text for <confirm>: Are you referring to Noize MC that signed with Respect Production?
+
+
+Data: musicians name Paul McCartney. Paul McCartney num awards 23. Paul McCartney gender male.
+
+Data to Text for <confirm>: Are you talking about the male musician Paul McCartney who has 23 awards?
+

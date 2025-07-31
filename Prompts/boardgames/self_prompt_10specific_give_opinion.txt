@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given board game and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: boardgames name Monopoly. Monopoly average rating poor. Monopoly instance of boardgames. Monopoly game mechanics resource management.
+
+Data to Text for <give_opinion>: Monopoly is a classic board game, but it's not very enjoyable. The resource management game mechanics and the poor rating confirm that.
+
+
+Data: boardgames name Thurn and Taxis. Thurn and Taxis rating good. Thurn and Taxis publisher Hans im Glück. Goa publisher Hans im Glück.
+
+Data to Text for <give_opinion>: I think Thurn and Taxis and Goa are both good games. Hans im Glück did a great job in developing them.
+
+
+Data: boardgames name Battle Masters. Battle Masters rating average. Battle Masters publication date 1992. Battle Masters genre fantasy.
+
+Data to Text for <give_opinion>: Even though Battle Masters was released in 1992, it still hasn't aged well. I find it to be an average fantasy game.
+
+
+Data: boardgames name Twilight Struggle. Twilight Struggle rating excellent. Twilight Struggle publisher GMT Games. Labyrinth publisher GMT Games.
+
+Data to Text for <give_opinion>: I think GMT Games produces excellent games, so I really enjoyed playing Twilight Struggle and Labyrinth.
+
+
+Data: boardgames name Betrayal at House on the Hill. Betrayal at House on the Hill rating average. Betrayal at House on the Hill minimum number of players 3.
+
+Data to Text for <give_opinion>: Betrayal at House on the Hill is an average game, since it requires at least three players to enjoy it fully.
+
+
+Data: boardgames name Punaisten ja valkoisten taistelu Suomessa 1918. Punaisten ja valkoisten taistelu Suomessa 1918 average rating poor. Punaisten ja valkoisten taistelu Suomessa 1918 publication year 1918. Punaisten ja valkoisten taistelu Suomessa 1918 genre wargame.
+
+Data to Text for <give_opinion>: Punaisten ja valkoisten taistelu Suomessa 1918 is a poor board game, despite its publication year of 1918 and its wargame genre.
+
+
+Data: boardgames name Axis & Allies. Axis & Allies rating average. Axis & Allies genre board wargame. Machiavelli genre board wargame.
+
+Data to Text for <give_opinion>: Axis & Allies and Machiavelli are both board wargames, but I find that Machiavelli is much more enjoyable than Axis & Allies.
+
+
+Data: boardgames name A Game of Thrones. A Game of Thrones average rating good. A Game of Thrones minimum number of players 3. A Game of Thrones minimum playing time 180.
+
+Data to Text for <give_opinion>: A Game of Thrones is a great board game. The good rating, minimum number of players of 3, and minimum playing time of 180 make it perfect for a night of entertainment with friends.
+
+
+Data: boardgames name Sherlock Holmes Consulting Detective. Sherlock Holmes Consulting Detective rating excellent. Sherlock Holmes Consulting Detective publisher Jeux Descartes. Sherlock Holmes Consulting Detective game mechanics gamebook.
+
+Data to Text for <give_opinion>: Sherlock Holmes Consulting Detective is an excellent game, thanks to the great gamebook mechanics used by Jeux Descartes.
+
+
+Data: boardgames name HeroQuest. HeroQuest rating good. HeroQuest genre fantasy.
+
+Data to Text for <give_opinion>: I like HeroQuest because it's a fun fantasy game with good replay value.
+

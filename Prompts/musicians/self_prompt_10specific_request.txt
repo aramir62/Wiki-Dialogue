@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a musician. In the response, prompt your friend to name a musician which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single musician, or a yes/no answer (followed by the name of a musician in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: musicians specifier uplifting. musicians record label Capitol Records.
+
+Data to Text for <request>: Can you think of any uplifting musicians from Capitol Records?
+
+
+Data: musicians specifier captivating. musicians record label YBNL Nation.
+
+Data to Text for <request>: Who is the most captivating musician on YBNL Nation?
+
+
+Data: musicians specifier catchy. musicians num awards 0.
+
+Data to Text for <request>: Are there any musicians with 0 awards that you still think are catchy?
+
+
+Data: musicians specifier thought-provoking. musicians awards Pulitzer Prize for Music.
+
+Data to Text for <request>: Who do you consider to be a thought-provoking musician that won the Pulitzer Prize for Music?
+
+
+Data: musicians specifier nostalgic. musicians genres electropop.
+
+Data to Text for <request>: What electropop musician do you feel nostalgic about?
+
+
+Data: musicians specifier melancholic. musicians record label Respect Production.
+
+Data to Text for <request>: Are there any melancholic musicians signed to Respect Production?
+
+
+Data: musicians specifier nostalgic. musicians awards Grammy Award for Best Song Written for Visual Media.
+
+Data to Text for <request>: Who's the most nostalgic musician that won a Grammy Award for Best Song Written for Visual Media?
+
+
+Data: musicians specifier thought-provoking. musicians num awards 0.
+
+Data to Text for <request>: Can you think of any musician that didn't get any awards but is very thought-provoking?
+
+
+Data: musicians specifier nostalgic. musicians awards Grammy Lifetime Achievement Award.
+
+Data to Text for <request>: Who do you remember getting the Grammy Lifetime Achievement Award that has a really nostalgic sound?
+
+
+Data: musicians specifier captivating. musicians from United Kingdom.
+
+Data to Text for <request>: What's the most captivating musician from the United Kingdom?
+

@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain actor's characteristic.
+
+
+Data: actor awards received .
+
+Data to Text for <request_attribute>: Which awards do you value the most when it comes to recognizing an actor's talent?
+
+
+Data: actor place of birth .
+
+Data to Text for <request_attribute>: Which place of birth do you find most interesting or relevant when it comes to actors?
+
+
+Data: actor occupation .
+
+Data to Text for <request_attribute>: Which occupation do you find most interesting or admirable in an actor?
+
+
+Data: actor gender .
+
+Data to Text for <request_attribute>: Which gender do you tend to prefer when it comes to actors?
+
+
+Data: actor occupation .
+
+Data to Text for <request_attribute>: Which occupation do you prefer an actor to have, whether related to performing arts or beyond?
+
+
+Data: actor awards received .
+
+Data to Text for <request_attribute>: Which awards do you personally value the most when it comes to actors?
+
+
+Data: actor gender .
+
+Data to Text for <request_attribute>: Which gender do you personally prefer when it comes to choosing your favorite actors?
+
+
+Data: actor occupation .
+
+Data to Text for <request_attribute>: Which occupation do you personally prefer an actor to have?
+
+
+Data: actor gender .
+
+Data to Text for <request_attribute>: Which gender do you prefer in the actors you follow or admire?
+
+
+Data: actor place of birth .
+
+Data to Text for <request_attribute>: Which nationality do you prefer or find most appealing when it comes to actors?
+

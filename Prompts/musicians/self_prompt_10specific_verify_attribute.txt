@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of musicians in general. In the response, state an observation about your friend's attitude to the given musician and then ask him or her whether it generalizes to all musicians of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given musician's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all musicians of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: musicians name Kate Bush. Kate Bush rating good. Kate Bush record label EMI. Kate Bush award received Order of the British Empire.
+
+Data to Text for <verify_attribute>: I know you said you like Kate Bush's music. Does this also apply to other artist who signed to EMI and received Order of the British Empire?
+
+
+Data: musicians name Allie X. Allie X rating okay. CollXtion I performer Allie X.
+
+Data to Text for <verify_attribute>: You told me that Allie X was just okay. Does that hold true for all tracks on CollXtion I?
+
+
+Data: musicians name David Bowie. David Bowie rating excellent. David Bowie genre psychedelic rock. Lana Del Rey genre psychedelic rock.
+
+Data to Text for <verify_attribute>: Since you think David Bowie's psychedelic rock is excellent, do you feel the same about Lana Del Rey's psychedelic rock?
+
+
+Data: musicians name Paul McCartney. Paul McCartney rating excellent. Paul McCartney performer of The Paul McCartney Collection. Paul McCartney num awards 23.
+
+Data to Text for <verify_attribute>: You enjoyed listening to The Paul McCartney Collection by Paul McCartney. Do you admire other musicians who have won 23 awards?
+
+
+Data: musicians name Elton John. Elton John rating excellent. Elton John performer of No Shoestrings on Louise. Elton John awards Rock and Roll Hall of Fame.
+
+Data to Text for <verify_attribute>: Since you like No Shoestrings on Louise and Elton John is in the Rock and Roll Hall of Fame, would you say you appreciate all of Elton John's music?
+
+
+Data: musicians name Jennifer Connelly. Jennifer Connelly rating good. Jennifer Connelly award received Academy Award for Best Supporting Actress. Patty Duke award received Academy Award for Best Supporting Actress.
+
+Data to Text for <verify_attribute>: You said you liked Jennifer Connelly's performance and that she got Academy Award for Best Supporting Actress. Do you think Patty Duke, who also got Academy Award for Best Supporting Actress, is good?
+
+
+Data: musicians name Noize MC. Noize MC rating okay. Noize MC genre rapcore. Jared Gomes genre rapcore.
+
+Data to Text for <verify_attribute>: You seem to be okay with Noize MC's rapcore. Does it extend to other rapcore artists like Jared Gomes?
+
+
+Data: musicians name Billie Eilish. Billie Eilish rating excellent. Billie Eilish gender female. Billie Eilish from United States of America.
+
+Data to Text for <verify_attribute>: You said that you love American singer Billie Eilish. Do you like female musician from United States of America in general?
+
+
+Data: musicians name Zella Day. Zella Day rating okay. Sunday in Heaven performer Zella Day. Sunday in Heaven record label Concord Records.
+
+Data to Text for <verify_attribute>: You told me Sunday in Heaven wasn't your favorite. Does that opinion extend to all of Zella Day's music from Concord Records?
+
+
+Data: musicians name Eddie Holland. Eddie Holland rating okay. Eddie Holland genres rhythm and blues.
+
+Data to Text for <verify_attribute>: I remember you saying Eddie Holland was alright. Do you feel the same way about other rhythm and blues artist?
+

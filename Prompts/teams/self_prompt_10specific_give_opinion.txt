@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given sports team and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: teams name FC Metalist Kharkiv. FC Metalist Kharkiv sport association football. FC Metalist Kharkiv rating okay.
+
+Data to Text for <give_opinion>: FC Metalist Kharkiv is an okay association football team that has potential to do better.
+
+
+Data: teams name Buffalo Braves. Buffalo Braves sport basketball. Buffalo Braves rating bad. Buffalo Braves inception 1970.
+
+Data to Text for <give_opinion>: The Buffalo Braves have had a bad run since their inception in 1970.
+
+
+Data: teams name Leeds United F.C.. Leeds United F.C. rating good. Bobby Davison member of sports team Leeds United F.C. Bobby Davison member of sports team Derby County F.C.
+
+Data to Text for <give_opinion>: Bobby Davison has been a good member of both Leeds United F.C. and Derby County F.C. teams.
+
+
+Data: teams name Arizona State Sun Devils football. Arizona State Sun Devils football sport American football. Arizona State Sun Devils football rating okay. Arizona State Sun Devils football players Eva van Deursen, Brice Schwab.
+
+Data to Text for <give_opinion>: Arizona State Sun Devils football team is okay, with players like Eva van Deursen and Brice Schwab.
+
+
+Data: teams name Alanyaspor. Alanyaspor rating bad. Özgür Öçal member of sports team Alanyaspor. Özgür Öçal member of sports team MKE Ankaragücü.
+
+Data to Text for <give_opinion>: I'm not a fan of Alanyaspor's performance, as Özgür Öçal has performed better for MKE Ankaragücü.
+
+
+Data: teams name Paris Saint-Germain FC. Paris Saint-Germain FC rating excellent. Paris Saint-Germain FC sport handball. Racing Club Luxembourg sport handball.
+
+Data to Text for <give_opinion>: Paris Saint-Germain FC is an excellent handball team compared to Racing Club Luxembourg.
+
+
+Data: teams name Baylor Bears football. Baylor Bears football rating bad. Baylor Bears football sport American football. Frankford Yellow Jackets sport American football.
+
+Data to Text for <give_opinion>: Baylor Bears football have been having an overall bad season, while the Frankford Yellow Jackets have been doing slightly better in American football.
+
+
+Data: teams name Los Angeles Lakers. Los Angeles Lakers rating good. Kendall Marshall member of sports team Los Angeles Lakers.
+
+Data to Text for <give_opinion>: The Los Angeles Lakers, with Kendall Marshall as a member, are a good sports team.
+
+
+Data: teams name S.S.C. Napoli. S.S.C. Napoli rating good. S.S.C. Napoli head coach Rudi Garcia. Rudi Garcia member of sports team Lille OSC.
+
+Data to Text for <give_opinion>: S.S.C. Napoli is a good team with a great head coach, Rudi Garcia, who has experience from his time at Lille OSC.
+
+
+Data: teams name Servette FC. Servette FC rating okay. Alain Gaspoz member of sports team Servette FC. Alain Gaspoz member of sports team FC Fribourg.
+
+Data to Text for <give_opinion>: Alain Gaspoz is an okay player, having played for both Servette FC and FC Fribourg.
+

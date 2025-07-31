@@ -1,0 +1,51 @@
+description of <inform>: A summary of the {domain} based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: video games name Dirt: Showdown. Dirt: Showdown release year 2012. Dirt: Showdown esrb E 10+ (for Everyone 10 and Older). Dirt: Showdown genres driving/racing, sport. Dirt: Showdown platforms PlayStation, Xbox, PC. Dirt: Showdown available on steam no. Dirt: Showdown has linux release no. Dirt: Showdown has mac release no.
+
+Data to Text for <inform>: Dirt: Showdown from 2012 is a sport racing game for the PlayStation, Xbox, PC rated E 10+ (for Everyone 10 and Older). It's not available on Steam, Linux, or Mac.
+
+
+Data: video games name The Vanishing of Ethan Carter. The Vanishing of Ethan Carter release year 2014. The Vanishing of Ethan Carter developer The Astronauts. The Vanishing of Ethan Carter rating average. The Vanishing of Ethan Carter genres adventure, indie. The Vanishing of Ethan Carter player perspective first person. The Vanishing of Ethan Carter has multiplayer no.
+
+Data to Text for <inform>: The Vanishing of Ethan Carter is an average indie adventure game from 2014. Its single-player campaign, developed by the Astronauts, is presented entirely in first person.
+
+
+Data: video games name Metroid Prime Pinball. Metroid Prime Pinball developer Fuse Games. Metroid Prime Pinball esrb E (for Everyone). Metroid Prime Pinball rating average. Metroid Prime Pinball genres pinball, puzzle. Metroid Prime Pinball platforms Nintendo.
+
+Data to Text for <inform>: Metroid Prime Pinball by Fuse Games is an E (for Everyone) pinball-puzzle game. It runs on Nintendo, and it has average ratings.
+
+
+Data: video games name Age of Empires II: The Age of Kings. Age of Empires II: The Age of Kings developer Ensemble Studios. Age of Empires II: The Age of Kings esrb T (for Teen). Age of Empires II: The Age of Kings rating good. Age of Empires II: The Age of Kings genres real-time strategy. Age of Empires II: The Age of Kings player perspective bird view.
+
+Data to Text for <inform>: Age of Empires II: The Age of Kings is a good real-time strategy game that has a bird view. Ensemble Studios developed it, and it is rated T (for Teen).
+
+
+Data: video games name Alan Wake's American Nightmare. Alan Wake's American Nightmare release year 2012. Alan Wake's American Nightmare genres action-adventure, shooter. Alan Wake's American Nightmare player perspective third person. Alan Wake's American Nightmare platforms Xbox, PC. Alan Wake's American Nightmare available on steam yes.
+
+Data to Text for <inform>: Alan Wake's American Nightmare is a 2012 action-adventure game developed for the Xbox and PC. The third person shooter is currently available on Steam.
+
+
+Data: video games name Football Manager 2015. Football Manager 2015 genres simulation, sport, strategy. Football Manager 2015 has multiplayer yes.
+
+Data to Text for <inform>: Football Manager 2015 is sport simulation game as well as a strategy game, and it does have multiplayer.
+
+
+Data: video games name Hellblade: Senua's Sacrifice. Hellblade: Senua's Sacrifice rating excellent. Hellblade: Senua's Sacrifice genres adventure, hack-and-slash, indie. Hellblade: Senua's Sacrifice player perspective third person. Hellblade: Senua's Sacrifice platforms PlayStation, Xbox, PC. Hellblade: Senua's Sacrifice available on steam yes.
+
+Data to Text for <inform>: One of my favorite indie, hack-and-slash adventures with a third person perspective is Hellblade: Senua's Sacrifice. It is an excellent game. You can get it on PlayStation, Xbox, or PC, and is available on Steam.
+
+
+Data: video games name Little Big Adventure. Little Big Adventure release year 1994. Little Big Adventure genres action-adventure. Little Big Adventure player perspective third person.
+
+Data to Text for <inform>: Little Big Adventure is an action-adventure game that is in the third person. The game came out in 1994.
+
+
+Data: video games name Need for Speed: Shift. Need for Speed: Shift release year 2009. Need for Speed: Shift developer Slightly Mad Studios. Need for Speed: Shift rating average. Need for Speed: Shift genres driving/racing, simulation. Need for Speed: Shift player perspective first person, third person.
+
+Data to Text for <inform>: The 2009 game, Need for Speed: Shift, is a rather average game for a racing simulator. It allows you to drive with a first or third person perspective, according to your preference. It's a game by Slightly Mad Studios.
+
+
+Data: video games name StarCraft. StarCraft rating good. StarCraft genres real-time strategy. StarCraft player perspective bird view.
+
+Data to Text for <inform>: StarCraft is a good real-time strategy played with a bird view.

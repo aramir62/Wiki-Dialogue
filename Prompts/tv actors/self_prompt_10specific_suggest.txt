@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of actors. In the response, ask your friend if he or she has experience with a certain type of actors, suggesting the given actor as an example of such an actor. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the actor name at the end as an example. Make sure you ask about the general category of actors corresponding to the given attributes, not the example actor directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such actors, and not that your friend does not like the given actor.
+
+
+Data: tv actors name Sophie Turner. Sophie Turner date of birth 1996.
+
+Data to Text for <suggest>: Have you seen any tv actors born in 1996, like Sophie Turner?
+
+
+Data: tv actors name Chris Pratt. Chris Pratt cast member of Guardians of the Galaxy.
+
+Data to Text for <suggest>: Are you familiar with any tv actor who was a cast member of Guardians of the Galaxy, such as Chris Pratt?
+
+
+Data: tv actors name Millie Bobby Brown. Millie Bobby Brown awards received Teen Choice Award for Choice TV Actress Fantasy/Sci-Fi. Millie Bobby Brown place of birth Marbella.
+
+Data to Text for <suggest>: Have you ever seen a tv actor that has been awarded the Teen Choice Award for Choice TV Actress Fantasy/Sci-Fi, like Millie Bobby Brown from Marbella?
+
+
+Data: tv actors name Emmy Rossum. Emmy Rossum place of birth New York City. Jeffrey David Ullman place of birth New York City.
+
+Data to Text for <suggest>: Do you know any actors from New York City, such as Emmy Rossum or Jeffrey David Ullman?
+
+
+Data: tv actors name Ted Danson. Ted Danson spouse Mary Steenburgen. Ted Danson awards received honorary doctor of Carnegie-Mellon University.
+
+Data to Text for <suggest>: Are you aware of any tv actor married to Mary Steenburgen, like Ted Danson, who has received an honorary doctor of Carnegie-Mellon University?
+
+
+Data: tv actors name Jesse Williams. Jesse Williams gender male.
+
+Data to Text for <suggest>: Is there any male tv actor that you know of, like Jesse Williams?
+
+
+Data: tv actors name Kit Harington. Kit Harington place of birth Acton. Charlotte Goldsmith place of birth Acton.
+
+Data to Text for <suggest>: Do you watch tv actors from Acton, such as Kit Harington and Charlotte Goldsmith?
+
+
+Data: tv actors name Jim Parsons. Jim Parsons place of birth St. Joseph Medical Center (Houston, Texas). Jim Parsons awards received Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture.
+
+Data to Text for <suggest>: Have you ever seen a tv actor from St. Joseph Medical Center (Houston, Texas), like Jim Parsons, who has won a Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture?
+
+
+Data: tv actors name Sandra Oh.
+
+Data to Text for <suggest>: Are you familiar with tv actor Sandra Oh?
+
+
+Data: tv actors name Aziz Ansari. Aziz Ansari awards received Primetime Emmy Award for Outstanding Writing for a Comedy Series.
+
+Data to Text for <suggest>: Have you ever watched a tv actor with a Primetime Emmy Award for Outstanding Writing for a Comedy Series, like Aziz Ansari?
+

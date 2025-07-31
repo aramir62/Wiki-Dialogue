@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of TV shows. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of TV shows. Assume your friend has indicated his or her sentiment about the kind of TV shows earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of TV shows determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: tv shows name Vince Gilligan. Vince Gilligan rating excellent. Better Call Saul creator Vince Gilligan.
+
+Data to Text for <request_explanation>: What do you love about Vince Gilligan's TV show, Better Call Saul?
+
+
+Data: tv shows name Tom Wilkinson. Tom Wilkinson rating poor. Tom Wilkinson award received Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture.
+
+Data to Text for <request_explanation>: Why would you give Tom Wilkinson, who won a Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture, a poor rating?
+
+
+Data: tv shows name J. K. Rowling. J. K. Rowling rating good. Cormoran Strike creator J. K. Rowling.
+
+Data to Text for <request_explanation>: What makes the Cormoran Strike series by J. K. Rowling so highly rated?
+
+
+Data: tv shows review score average. tv shows genre docudrama.
+
+Data to Text for <request_explanation>: Why do you think this docudrama has an average review score?
+
+
+Data: tv shows name Hugo Award for Best Dramatic Presentation, Short Form. Hugo Award for Best Dramatic Presentation, Short Form rating good. Game of Thrones award received Hugo Award for Best Dramatic Presentation, Short Form.
+
+Data to Text for <request_explanation>: What makes Game of Thrones worthy of the Hugo Award for Best Dramatic Presentation, Short Form?
+
+
+Data: tv shows name Steven Molaro. Steven Molaro rating excellent. Young Sheldon creator Steven Molaro.
+
+Data to Text for <request_explanation>: What is it about Young Sheldon, created by Steven Molaro, that you would rate it as excellent?
+
+
+Data: tv shows name Michael McMillian. Michael McMillian rating poor. NCIS cast member Michael McMillian.
+
+Data to Text for <request_explanation>: Why do you have such a poor opinion of Michael McMillian's performance on NCIS?
+
+
+Data: tv shows name Nic Pizzolatto. Nic Pizzolatto rating good. Nic Pizzolatto genre novel.
+
+Data to Text for <request_explanation>: What is it about Nic Pizzolatto's novels that make them so good?
+
+
+Data: tv shows review score average. tv shows creator Enrico Maria Artale, Michele Alhaique.
+
+Data to Text for <request_explanation>: Can you tell me why the series created by Enrico Maria Artale and Michele Alhaique has an average rating?
+
+
+Data: tv shows name drama television series. drama television series rating poor. Will It Snow For Christmas? genre drama television series.
+
+Data to Text for <request_explanation>: What makes Will It Snow For Christmas? a poor rated drama television series?
+

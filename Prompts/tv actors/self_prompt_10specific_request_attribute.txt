@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain actor's characteristic.
+
+
+Data: tv actor place of birth .
+
+Data to Text for <request_attribute>:  Which nationality or place of birth do you find most interesting in TV actors?
+
+
+Data: tv actor gender .
+
+Data to Text for <request_attribute>:  Which gender do you tend to prefer when it comes to TV actors?
+
+
+Data: tv actor awards received .
+
+Data to Text for <request_attribute>:  Which awards do you value most when considering TV actors' achievements?
+
+
+Data: tv actor place of birth .
+
+Data to Text for <request_attribute>:  Is there a particular nationality or birthplace that makes you more interested in a TV actor’s work?
+
+
+Data: tv actor gender .
+
+Data to Text for <request_attribute>: Which gender of TV actors do you find yourself most drawn to?
+
+
+Data: tv actor awards received .
+
+Data to Text for <request_attribute>: Which awards do you consider most significant when recognizing a TV actor’s talent?
+
+
+Data: tv actor place of birth .
+
+Data to Text for <request_attribute>: Which nationality or place of birth do you find most intriguing or relatable in TV actors?
+
+
+Data: tv actor awards received .
+
+Data to Text for <request_attribute>: Which awards or recognitions do you think best highlight a TV actor’s talent and career?
+
+
+Data: tv actor gender .
+
+Data to Text for <request_attribute>: When it comes to TV actors, which gender do you feel more connected with or prefer watching?
+
+
+Data: tv actor awards received .
+
+Data to Text for <request_attribute>: Are there any awards that make you appreciate a TV actor’s work more?
+

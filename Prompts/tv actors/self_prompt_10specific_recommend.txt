@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with an actor you would recommend. In the response, bring up the given actor (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the actor, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the actor, and not that the attribute is not true about the given actor or that your friend does not like the actor.
+
+
+Data: tv actors name Matt Bomer. Matt Bomer place of birth Webster Groves. Louis Metcalf place of birth Webster Groves.
+
+Data to Text for <recommend>: Are you familiar with Matt Bomer? He's an actor from Webster Groves, just like Louis Metcalf.
+
+
+Data: tv actors name Eva Green. Eva Green rating highly_rated. Eva Green cast member of The Golden Compass.
+
+Data to Text for <recommend>: Have you heard of Eva Green? She was highly rated for her role in The Golden Compass.
+
+
+Data: tv actors name Aziz Ansari. Aziz Ansari rating highly_rated. Aziz Ansari awards received Primetime Emmy Award for Outstanding Writing for a Comedy Series.
+
+Data to Text for <recommend>: Do you know Aziz Ansari? He's highly rated and won a Primetime Emmy Award for Outstanding Writing for a Comedy Series.
+
+
+Data: tv actors name Mandy Moore. Mandy Moore rating top rated. Mandy Moore spouse Taylor Goldsmith.
+
+Data to Text for <recommend>: Are you familiar with Mandy Moore, the top rated actress who is married to Taylor Goldsmith?
+
+
+Data: tv actors name Finn Wolfhard. Finn Wolfhard place of birth Vancouver. Teryl Rothery place of birth Vancouver.
+
+Data to Text for <recommend>: Have you seen Finn Wolfhard on tv? He's from Vancouver, just like Teryl Rothery.
+
+
+Data: tv actors name Nikolaj Coster-Waldau. Nikolaj Coster-Waldau spouse Nukâka Coster-Waldau. Wildside cast member Nukâka Coster-Waldau.
+
+Data to Text for <recommend>: Are you familiar with Nikolaj Coster-Waldau? His wife Nukâka Coster-Waldau was in Wildside.
+
+
+Data: tv actors name Rashida Jones. Rashida Jones rating lower rated. Rashida Jones height average.
+
+Data to Text for <recommend>: Have you heard of Rashida Jones, a lower rated actor with an average height?
+
+
+Data: tv actors name The Big Bang Theory. The Big Bang Theory cast member Jim Parsons. The Big Bang Theory cast member Eliza Dushku.
+
+Data to Text for <recommend>: Do you know Jim Parsons? He's in The Big Bang Theory with Eliza Dushku.
+
+
+Data: tv actors name Casino Royale. Casino Royale cast member Tobias Menzies. Casino Royale cast member Mads Mikkelsen.
+
+Data to Text for <recommend>: Are you familiar with Tobias Menzies and Mads Mikkelsen? They both starred in Casino Royale.
+
+
+Data: tv actors name Justin Hartley. Justin Hartley spouse Chrishell Stause. Dancing with the Stars (American season 29) cast member Chrishell Stause.
+
+Data to Text for <recommend>: Are you aware of Justin Hartley? He's married to Chrishell Stause who was on Dancing with the Stars (American season 29).
+

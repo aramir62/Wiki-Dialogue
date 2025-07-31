@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of movies in general. In the response, state an observation about your friend's attitude to the given movie and then ask him or her whether it generalizes to all movies of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given movie's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all movies of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: movies name The Batman. The Batman rating good. The Batman cast member Colin Farrell. In Bruges cast member Colin Farrell.
+
+Data to Text for <verify_attribute>: You seemed to enjoy The Batman with Colin Farrell. Does that mean you like his performances in general?
+
+
+Data: movies name Ant-Man and the Wasp. Ant-Man and the Wasp rating good. Ant-Man and the Wasp cast member Paul Rudd.
+
+Data to Text for <verify_attribute>: Is Paul Rudd usually a sign of a good movie, or was Ant-Man and the Wasp an exception?
+
+
+Data: movies name Medieval. Medieval rating poor. Medieval cast member Michael Caine.
+
+Data to Text for <verify_attribute>: I know you didn't like Medieval. Would you have liked it more if it starred someone else than Michael Caine?
+
+
+Data: movies name Captain Phillips. Captain Phillips rating excellent. Captain Phillips cast member John Magaro. My Soul to Take cast member John Magaro.
+
+Data to Text for <verify_attribute>: John Magaro was great in Captain Phillips, right? Is he always great in your opinion?
+
+
+Data: movies name Blade Runner. Blade Runner rating good. Blade Runner cast member Harrison Ford. Zabriskie Point cast member Harrison Ford.
+
+Data to Text for <verify_attribute>: You said you enjoyed Blade Runner. How did you feel about Zabriskie Point, which also stars Harrison Ford?
+
+
+Data: movies name All Quiet on the Western Front. All Quiet on the Western Front rating excellent. All Quiet on the Western Front cast member Devid Striesow. Henri 4 cast member Devid Striesow.
+
+Data to Text for <verify_attribute>: You praised All Quiet on the Western Front because of Devid Striesow's performance. Does the same sentiment hold for other Henri 4's cast members?
+
+
+Data: movies name Armageddon. Armageddon rating poor. Armageddon cast member Udo Kier. Chuck cast member Udo Kier.
+
+Data to Text for <verify_attribute>: You mentioned not liking Armageddon, and it had Udo Kier as a cast member. Do you think Udo Kier's presence makes all movies worse?
+
+
+Data: movies name Forrest Gump. Forrest Gump review score good. Forrest Gump screenwriter Eric Roth, Winston Groom. Forrest Gump genre drama film, American football film.
+
+Data to Text for <verify_attribute>: You liked Forrest Gump. Do you usually find drama films and American football films written by Eric Roth and Winston Groom to be good?
+
+
+Data: movies name Halloween Ends. Halloween Ends rating average. Halloween Ends cast member Jamie Lee Curtis. True Lies cast member Jamie Lee Curtis.
+
+Data to Text for <verify_attribute>: You said that Halloween Ends was just okay. Was True Lies with Jamie Lee Curtis also just an average movie?
+
+
+Data: movies name Iron Man 2. Iron Man 2 rating excellent. Iron Man 2 cast member Kate Mara. CSI: Miami cast member Kate Mara.
+
+Data to Text for <verify_attribute>: You seem to love Iron Man 2. Does this extend to other projects featuring Kate Mara?
+

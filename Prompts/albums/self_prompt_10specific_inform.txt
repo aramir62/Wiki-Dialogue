@@ -1,0 +1,52 @@
+description of <inform>: A summary of the album based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: albums name 12 Bar Blues. 12 Bar Blues genres alternative rock. 12 Bar Blues record label Atlantic Records. 12 Bar Blues contains Barbarella. 12 Bar Blues rating mediocre.
+
+Data to Text for <inform>: 12 Bar Blues is a mediocre alternative rock album released by Atlantic Records, with the track Barbarella.
+
+
+Data: albums name The Beatles. The Beatles genres psychedelic rock. The Beatles rating excellent.
+
+Data to Text for <inform>: The Beatles released the excellent psychedelic rock album in 1968.
+
+
+Data: albums name To Pimp a Butterfly. To Pimp a Butterfly genres hip hop music. To Pimp a Butterfly rating excellent. To Pimp a Butterfly contains The Blacker the Berry. To Pimp a Butterfly producer Dr. Dre. To Pimp a Butterfly performer Kendrick Lamar. To Pimp a Butterfly record label Top Dawg Entertainment.
+
+Data to Text for <inform>: To Pimp a Butterfly is an excellent hip hop album by Kendrick Lamar, produced by Dr. Dre and released on Top Dawg Entertainment, featuring the song The Blacker the Berry.
+
+
+Data: albums name Top Gun – Original Motion Picture Soundtrack. Top Gun – Original Motion Picture Soundtrack genres stage and screen. Top Gun – Original Motion Picture Soundtrack publication year 1986.
+
+Data to Text for <inform>: Top Gun – Original Motion Picture Soundtrack is a 1986 stage and screen album.
+
+
+Data: albums name Just like You. Just like You genres contemporary R&B. Just like You publication year 2007.
+
+Data to Text for <inform>: Just like You is a 2007 contemporary R&B album.
+
+
+Data: albums name The Rise and Fall of Ziggy Stardust and the Spiders from Mars. The Rise and Fall of Ziggy Stardust and the Spiders from Mars genres rock opera. The Rise and Fall of Ziggy Stardust and the Spiders from Mars record label RCA Victor. The Rise and Fall of Ziggy Stardust and the Spiders from Mars rating excellent. The Rise and Fall of Ziggy Stardust and the Spiders from Mars contains Five Years.
+
+Data to Text for <inform>: The Rise and Fall of Ziggy Stardust and the Spiders from Mars is an excellent rock opera published by RCA Victor and containing the track Five Years.
+
+
+Data: albums name My Beautiful Dark Twisted Fantasy. My Beautiful Dark Twisted Fantasy genres hip hop music. My Beautiful Dark Twisted Fantasy publication year 2010. My Beautiful Dark Twisted Fantasy contains See Me Now.
+
+Data to Text for <inform>: My Beautiful Dark Twisted Fantasy is a hip hop album from 2010 which contains the song See Me Now.
+
+
+Data: albums name I Never Learn. I Never Learn genres indie pop. I Never Learn producer Greg Kurstin.
+
+Data to Text for <inform>: I Never Learn is an indie pop album produced by Greg Kurstin.
+
+
+Data: albums name Let Me in Your Life. Let Me in Your Life genres rhythm and blues. Let Me in Your Life publication year 1974.
+
+Data to Text for <inform>: Let Me in Your Life is a 1974 rhythm and blues album.
+
+
+Data: albums name Midnights. Midnights genres electropop. Midnights publication year 2022.
+
+Data to Text for <inform>: Midnights is an electropop album set to be released in 2022.
+

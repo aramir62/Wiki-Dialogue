@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given athlete and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: athletes name John Fleck. John Fleck sport association football. John Fleck rating okay.
+
+Data to Text for <give_opinion>: John Fleck is an okay association football player in my opinion. He has some talent, but he could use some improvement.
+
+
+Data: athletes name Wilt Chamberlain. Wilt Chamberlain rating good. Wilt Chamberlain member of sports team Harlem Globetrotters. Jamario Moon member of sports team Harlem Globetrotters.
+
+Data to Text for <give_opinion>: Wilt Chamberlain and Jamario Moon are both good players with the Harlem Globetrotters. They bring a high level of skill and entertainment to the team.
+
+
+Data: athletes name Robert Lewandowski. Robert Lewandowski rating good. Robert Lewandowski member of sports team FC Barcelona.
+
+Data to Text for <give_opinion>: I believe Robert Lewandowski is a good footballer, as evidenced by his successful stint with FC Barcelona.
+
+
+Data: athletes name Besart Berisha. Besart Berisha rating okay. Besart Berisha member of sports team Burnley F.C. Gary Cahill member of sports team Burnley F.C.
+
+Data to Text for <give_opinion>: Besart Berisha and Gary Cahill are both okay members of Burnley F.C. They are competent but not stand-out players.
+
+
+Data: athletes name Magic Johnson. Magic Johnson rating good. Magic Johnson member of sports team Los Angeles Lakers. Steve Nash member of sports team Los Angeles Lakers.
+
+Data to Text for <give_opinion>: Magic Johnson was a good member of the Los Angeles Lakers while Steve Nash was an excellent one.
+
+
+Data: athletes name Venus Williams. Venus Williams sport tennis. Venus Williams rating okay. Venus Williams height 185.0.
+
+Data to Text for <give_opinion>: Venus Williams is an okay tennis player in my opinion. Despite her height of 185.0, she has put up decent results in her career.
+
+
+Data: athletes name Larry Bird. Larry Bird rating good. Larry Bird member of sports team Indiana State Sycamores men's basketball. Larry Bird sport basketball.
+
+Data to Text for <give_opinion>: Larry Bird is a good basketball player. He made a big impact on the court while playing for the Indiana State Sycamores men's basketball team.
+
+
+Data: athletes name Maryna Zanevska. Maryna Zanevska rating okay. Maryna Zanevska member of sports team Belgium Billie Jean King Cup team. Ysaline Bonaventure member of sports team Belgium Billie Jean King Cup team.
+
+Data to Text for <give_opinion>: Maryna Zanevska and Ysaline Bonaventure are okay members of the Belgium Billie Jean King Cup team. They have proven to be solid contributors to the team's success.
+
+
+Data: athletes name Dwayne Johnson. Dwayne Johnson sport professional wrestling. Dwayne Johnson rating okay. Dwayne Johnson num awards 3.
+
+Data to Text for <give_opinion>: I think Dwayne Johnson is an okay professional wrestler. He has won 3 awards, but his overall performance has been just average.
+
+
+Data: athletes name Kobe Bryant. Kobe Bryant rating good. Kobe Bryant member of sports team Los Angeles Lakers. Kareem Abdul-Jabbar member of sports team Los Angeles Lakers.
+
+Data to Text for <give_opinion>: Kobe Bryant and Kareem Abdul-Jabbar were both good players on the Los Angeles Lakers. Kobe was an all-star caliber player and Kareem was an all-time great.
+

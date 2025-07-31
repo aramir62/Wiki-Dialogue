@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of albums. In the response, ask your friend if he or she has experience with a certain type of albums, suggesting the given album as an example of such an album. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the album name at the end as an example. Make sure you ask about the general category of albums corresponding to the given attributes, not the example album directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such albums, and not that your friend does not like the given album.
+
+
+Data: albums name Metallica. Metallica contains The God That Failed. Metallica record label Universal Music Group.
+
+Data to Text for <suggest>: Are you familiar with Universal Music Group's albums, like Metallica with The God That Failed?
+
+
+Data: albums name Age to Age. Age to Age publication year 1982. Age to Age genres contemporary Christian music.
+
+Data to Text for <suggest>: Are there any albums of contemporary Christian music that you like from 1982, like Age to Age?
+
+
+Data: albums name Top Gun – Original Motion Picture Soundtrack. Top Gun – Original Motion Picture Soundtrack contains Take My Breath Away. Top Gun – Original Motion Picture Soundtrack genres stage and screen.
+
+Data to Text for <suggest>: Do you like stage and screen albums, like Top Gun – Original Motion Picture Soundtrack with Take My Breath Away?
+
+
+Data: albums name Life in 1472. Life in 1472 record label So So Def Recordings. Life in 1472 publication year 1998.
+
+Data to Text for <suggest>: Are you familiar with So So Def Recordings' 1998 album, like Life in 1472?
+
+
+Data: albums name Where I Wanna Be. Where I Wanna Be contains U Know Whats Up. Where I Wanna Be publication year 1999.
+
+Data to Text for <suggest>: Are there any albums released in 1999, like Where I Wanna Be with U Know Whats Up?
+
+
+Data: albums name Now or Never. Now or Never producer Matthew Gerrard. Now or Never performer Nick Carter.
+
+Data to Text for <suggest>: Do you like Nick Carter's albums, like Now or Never produced by Matthew Gerrard?
+
+
+Data: albums name Wish You Were Here. Wish You Were Here performer Pink Floyd. Wish You Were Here contains Shine On You Crazy Diamond.
+
+Data to Text for <suggest>: Do you like albums by Pink Floyd, like Wish You Were Here with Shine On You Crazy Diamond?
+
+
+Data: albums name The Rise and Fall of Ziggy Stardust and the Spiders from Mars. The Rise and Fall of Ziggy Stardust and the Spiders from Mars record label RCA Victor. The Rise and Fall of Ziggy Stardust and the Spiders from Mars genres glam rock.
+
+Data to Text for <suggest>: Are you familiar with RCA Victor's albums, like The Rise and Fall of Ziggy Stardust and the Spiders from Mars that belongs to glam rock?
+
+
+Data: albums name Unleashed. Unleashed producer Swizz Beatz.
+
+Data to Text for <suggest>: Are you familiar with Swizz Beatz's albums, such as Unleashed?
+
+
+Data: albums name Missing...Presumed Having a Good Time. Missing...Presumed Having a Good Time contains Your Own Sweet Way.
+
+Data to Text for <suggest>: Do you like any albums, like Missing...Presumed Having a Good Time with Your Own Sweet Way?
+

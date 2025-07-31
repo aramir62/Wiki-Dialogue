@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of athletes. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of athletes. Assume your friend has indicated his or her sentiment about the kind of athletes earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of athletes determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: athletes name Novak Djokovic. Novak Djokovic rating okay.
+
+Data to Text for <request_explanation>: What is it that makes you think okay of Novak Djokovic as an athlete?
+
+
+Data: athletes name Larry Bird. Larry Bird rating good. Larry Bird sports teams Indiana Hoosiers mens basketball, Indiana State Sycamores mens basketball.
+
+Data to Text for <request_explanation>: What do you like about Larry Bird that makes you rate him so good, having played for both the Indiana Hoosiers men's basketball and the Indiana State Sycamores men's basketball?
+
+
+Data: athletes name Yari Verschaeren. Yari Verschaeren rating okay. Yari Verschaeren height 1.72.
+
+Data to Text for <request_explanation>: What makes Yari Verschaeren okay to you, even though his height is only 1.72?
+
+
+Data: athletes name Magic Johnson. Magic Johnson rating good. Magic Johnson stats leader 1992 NBA All-Star Game.
+
+Data to Text for <request_explanation>: What makes Magic Johnson, the leader of the 1992 NBA All-Star Game, so good in your opinion?
+
+
+Data: athletes name midfielder. midfielder rating okay. Paul Pogba position played on team / speciality midfielder.
+
+Data to Text for <request_explanation>: Why do you think Paul Pogba is just okay as a midfielder?
+
+
+Data: athletes name Djamel Belmadi. Djamel Belmadi rating okay. Djamel Belmadi sports teams Al Ittihad FC, Al-Gharafa Sports Club.
+
+Data to Text for <request_explanation>: What do you find okay about Djamel Belmadi, who has played for Al Ittihad FC and Al-Gharafa Sports Club?
+
+
+Data: athletes name Lionel Messi. Lionel Messi rating excellent. Lionel Messi sport association football.
+
+Data to Text for <request_explanation>: What is it about Lionel Messi's association football career that you find so excellent?
+
+
+Data: athletes name LeBron James. LeBron James rating good. LeBron James stats leader 2008 NBA All-Star Game.
+
+Data to Text for <request_explanation>: What makes LeBron James so good in your opinion, having been the leader of the 2008 NBA All-Star Game?
+
+
+Data: athletes name rugby union. rugby union rating okay. Shinjirō Honryō sport rugby union.
+
+Data to Text for <request_explanation>: Why do you think okay of Shinjirō Honryō's rugby union skills?
+
+
+Data: athletes name Novak Djokovic. Novak Djokovic rating okay. Novak Djokovic sports teams N/A.
+
+Data to Text for <request_explanation>: What makes Novak Djokovic okay to you, even though he doesn't play for any teams?
+

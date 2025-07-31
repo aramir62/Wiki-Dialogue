@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain cat's characteristic.
+
+
+Data: cats playfulness . 
+
+Data to Text for <request_attribute>: What level of playfulness do you prefer in cat breeds?
+
+
+Data: cats origin . 
+
+Data to Text for <request_attribute>:  From which country does your favorite cat breed originate from?
+
+
+Data: cats other pets friendly . 
+
+Data to Text for <request_attribute>:  What other types of pets would you prefer cats to be particularly friendly with?
+
+
+Data: cats intelligence . 
+
+Data to Text for <request_attribute>:  Which level of intelligence do you prefer for cats?
+
+
+Data: cats children friendly . 
+
+Data to Text for <request_attribute>:  What level of child-friendliness do you prefer in a cat?
+
+
+Data: cats descriptor . 
+
+Data to Text for <request_attribute>:  What characteristics do you look for when choosing a breed of cat?
+
+
+Data: cats max weight . 
+
+Data to Text for <request_attribute>:  What is the maximum weight you would prefer for a cat?
+
+
+Data: cats length . 
+
+Data to Text for <request_attribute>:  Is there an ideal length you imagine for your perfect cat?
+
+
+Data: cats stranger friendly . 
+
+Data to Text for <request_attribute>:  Which level of friendliness towards strangers do you prefer in a cat?
+
+
+Data: cats intelligence . 
+
+Data to Text for <request_attribute>:  Which level of intelligence do you prefer in a cat?
+

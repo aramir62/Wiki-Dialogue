@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm an athlete. In the response, ask for a confirmation of the given athlete by referring to its attributes. Imagine that the athlete's name has just been mentioned in the conversation, but you know of multiple athletes with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the athlete, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the athlete your friend had in mind, and not that the attribute is not true about the given athlete.
+
+
+Data: athletes name Robert Lewandowski. Robert Lewandowski sport association football. Robert Lewandowski stats leader 2009–10 Ekstraklasa. Robert Lewandowski team positions forward.
+
+Data to Text for <confirm>: Are you talking about Robert Lewandowski, the association football forward who was the 2009–10 Ekstraklasa stats leader?
+
+
+Data: athletes name Floyd Mayweather. Floyd Mayweather sport boxing. Floyd Mayweather num awards 2. Floyd Mayweather place of birth Grand Rapids.
+
+Data to Text for <confirm>: Are we discussing Floyd Mayweather, the two-time award-winning boxer from Grand Rapids?
+
+
+Data: athletes name Kendall Gill. Kendall Gill sport basketball. Kendall Gill date of birth May 25, 1968. Kendall Gill stats leader N/A.
+
+Data to Text for <confirm>: Are you speaking of Kendall Gill, the basketball player born on May 25, 1968?
+
+
+Data: athletes name Magic Johnson. Magic Johnson sport basketball. Magic Johnson stats leader 1992 NBA All-Star Game. Magic Johnson sports teams Los Angeles Lakers, Michigan State Spartans mens basketball.
+
+Data to Text for <confirm>: Are we discussing Magic Johnson, the basketball athlete who was the leader in the 1992 NBA All-Star Game and played in the Los Angeles Lakers and the Michigan State Spartans men's team?
+
+
+Data: athletes name Liam Neeson. Liam Neeson sport association football. Liam Neeson team positions N/A. Liam Neeson sports teams Bohemian F.C.
+
+Data to Text for <confirm>: Are you bringing up Liam Neeson, the sportsman who plays association football for Bohemian F.C.?
+
+
+Data: athletes name Leon Osman. Leon Osman sport association football. Leon Osman sports teams England national association football team, England national under-16 association football team. Leon Osman date of birth May 17, 1981.
+
+Data to Text for <confirm>: Are you talking about Leon Osman, the association football player born on May 17, 1981 who has been part of teams like England national association football team and England national under-16 association football team?
+
+
+Data: athletes name O. J. Simpson. O. J. Simpson sport athletics. O. J. Simpson team positions running back. O. J. Simpson stats leader N/A.
+
+Data to Text for <confirm>: Are you talking about O. J. Simpson, the running back in athletics?
+
+
+Data: athletes name Larry Bird. Larry Bird sport basketball. Larry Bird team positions power forward.
+
+Data to Text for <confirm>: Are you bringing up Larry Bird, the basketball athlete known for his power forward position?
+
+
+Data: athletes name Maryna Zanevska. Maryna Zanevska sport tennis. Maryna Zanevska sports teams Belgium Billie Jean King Cup team. Maryna Zanevska place of birth Odesa.
+
+Data to Text for <confirm>: Are we talking about Maryna Zanevska, the tennis player from Odesa who is part of the Belgium Billie Jean King Cup team?
+
+
+Data: athletes name Ime Udoka. Ime Udoka sport basketball. Ime Udoka sports teams UCAM Murcia, Portland State Vikings mens basketball. Ime Udoka team positions small forward.
+
+Data to Text for <confirm>: Are you bringing up Ime Udoka, the small forward who has played for teams like UCAM Murcia and Portland State Vikings men's basketball?
+

@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm an actor. In the response, ask for a confirmation of the given actor by referring to its attributes. Imagine that the actor's name has just been mentioned in the conversation, but you know of multiple actors with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the actor, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the actor your friend had in mind, and not that the attribute is not true about the given actor.
+
+
+Data: tv actors name Justin Hartley. Justin Hartley spouse Chrishell Stause. Justin Hartley gender male.
+
+Data to Text for <confirm>: Is Justin Hartley the male TV actor married to Chrishell Stause?
+
+
+Data: tv actors name Aubrey Plaza. Aubrey Plaza date of birth 1984.
+
+Data to Text for <confirm>: Are you talking about Aubrey Plaza, born in 1984?
+
+
+Data: tv actors name Aziz Ansari. Aziz Ansari awards received Primetime Emmy Award for Outstanding Writing for a Comedy Series.
+
+Data to Text for <confirm>: Are you referring to Aziz Ansari, who won the Primetime Emmy Award for Outstanding Writing for a Comedy Series?
+
+
+Data: tv actors name Melissa McBride. Melissa McBride gender female. Melissa McBride place of birth Lexington.
+
+Data to Text for <confirm>: Is Melissa McBride the female TV actor from Lexington?
+
+
+Data: tv actors name Lesley-Ann Brandt. Lesley-Ann Brandt cast member of Lucifer.
+
+Data to Text for <confirm>: Are you talking about Lesley-Ann Brandt, a cast member of Lucifer?
+
+
+Data: tv actors name Nikolaj Coster-Waldau. Nikolaj Coster-Waldau spouse Nukâka Coster-Waldau.
+
+Data to Text for <confirm>: Are you referring to Nikolaj Coster-Waldau, whose spouse is Nukâka Coster-Waldau?
+
+
+Data: tv actors name Billy Bob Thornton. Billy Bob Thornton place of birth Hot Springs. Billy Bob Thornton awards received star on Hollywood Walk of Fame.
+
+Data to Text for <confirm>: Are we talking about Billy Bob Thornton, who was born in Hot Springs and has a star on the Hollywood Walk of Fame?
+
+
+Data: tv actors name Timothy Olyphant. Timothy Olyphant gender male. Timothy Olyphant awards received Theatre World Award.
+
+Data to Text for <confirm>: Is Timothy Olyphant the male actor who won the Theatre World Award?
+
+
+Data: tv actors name Sandra Oh. Sandra Oh awards received Miniseries or Television Film. Sandra Oh date of birth 1971.
+
+Data to Text for <confirm>: Are you talking about Sandra Oh, born in 1971, who was awarded for Miniseries or Television Film?
+
+
+Data: tv actors name Nick Offerman. Nick Offerman spouse Megan Mullally. Nick Offerman place of birth Joliet.
+
+Data to Text for <confirm>: Is Nick Offerman, the TV actor from Joliet married to Megan Mullally?
+

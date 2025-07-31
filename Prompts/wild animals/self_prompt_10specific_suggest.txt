@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of animals. In the response, ask your friend if he or she has experience with a certain type of animals, suggesting the given animal as an example of such an animal. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the animal name at the end as an example. Make sure you ask about the general category of animals corresponding to the given attributes, not the example animal directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such animals, and not that your friend does not like the given animal.
+
+
+Data: wild animals name European Polecat. European Polecat common class Mustelid. European Polecat name of young kit.
+
+Data to Text for <suggest>: I've been wondering, do you also like animals like the Mustelid known as the European Polecat and its young known as kits?
+
+
+Data: wild animals name Sumatran Orang-utan. Sumatran Orang-utan height 1.25m - 1.5m 4ft - 5ft.
+
+Data to Text for <suggest>: Have you ever seen a Sumatran Orang-utan, which can reach up to 1.25m - 1.5m (4ft - 5ft) tall?
+
+
+Data: wild animals name Mink. Mink biggest threat Competition from other minks.
+
+Data to Text for <suggest>: Are you interested in the Mink, whose biggest threat is competition from other minks?
+
+
+Data: wild animals name Pygora Goat. Pygora Goat weight 75-95 lbs. for males, 64-75 lbs. for females. Pygora Goat lifespan 12-15 years.
+
+Data to Text for <suggest>: Have you heard about the Pygora Goat? It typically weighs 75-95 lbs. for males and 64-75 lbs. for females, and has a lifespan of 12-15 years.
+
+
+Data: wild animals name Marble Fox. Marble Fox predators None in captivity.
+
+Data to Text for <suggest>: Would you like to learn more about the Marble Fox that doesn't have any predators in captivity?
+
+
+Data: wild animals name African Bullfrog. African Bullfrog litter size As many as 4000 eggs laid at a time. African Bullfrog predators Humans.
+
+Data to Text for <suggest>: Have you ever seen an African Bullfrog? They can lay as many as 4000 eggs at a time and are preyed on by humans.
+
+
+Data: wild animals name Steller’s Sea Cow. Steller’s Sea Cow slogan Hunted to extinction in 17 years!. Steller’s Sea Cow locations Ocean.
+
+Data to Text for <suggest>: Did you know about the Steller’s Sea Cow, which was hunted to extinction in just 17 years? It originally lived in the ocean.
+
+
+Data: wild animals name Darwin’s Frog. Darwin’s Frog top speed 5 mph. Darwin’s Frog weight 2g - 5g 0.07oz - 0.17oz.
+
+Data to Text for <suggest>: Would you also be interested in seeing a Darwin’s Frog? They can reach a top speed of 5 mph and weigh between 2g - 5g (0.07oz - 0.17oz).
+
+
+Data: wild animals name Sand Tiger Shark. Sand Tiger Shark other names dogfish shark. Sand Tiger Shark estimated population size Unknown, but its population decreased by 20 percent in just the last decade due to overfishing.
+
+Data to Text for <suggest>: Are you interested in the Sand Tiger Shark, which is also known as the dogfish shark? Its estimated population size is unknown, but its population has decreased by 20 percent in the last decade due to overfishing.
+
+
+Data: wild animals name Leopard Gecko. Leopard Gecko skin type Scales. Leopard Gecko weight 50 to 80 grams adults.
+
+Data to Text for <suggest>: Have you ever been curious to see a Leopard Gecko with its scales and weighing between 50 to 80 grams for adults?
+

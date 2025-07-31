@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given cat and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: cats name Australian Mist. Australian Mist rating excellent. Australian Mist other pets friendly friendly to other pets. Australian Mist max life expectancy 18.
+
+Data to Text for <give_opinion>: I think the Australian Mist is an excellent cat breed because it has a long life expectancy of 18 and is friendly towards other pets.
+
+
+Data: cats name Exotic. Exotic rating okay.
+
+Data to Text for <give_opinion>: Exotic cats are an okay choice as pet breeds.
+
+
+Data: cats name Egyptian Mau. Egyptian Mau rating okay. Egyptian Mau origin Egypt.
+
+Data to Text for <give_opinion>: I'm really fond of the Egyptian Mau which originated in Egypt.
+
+
+Data: cats name Maine Coon. Maine Coon rating good. Maine Coon shedding more than average shedding.
+
+Data to Text for <give_opinion>: The Maine Coon is a great breed even though it has more than average shedding.
+
+
+Data: cats name Bambino. Bambino rating good. Bambino descriptor Fans of these felines love them for their playful, energetic, and affectionate personalities. Bambino stranger friendly friendly to strangers.
+
+Data to Text for <give_opinion>: I really like Bambino cats because they're very friendly to strangers and they have playful, energetic, and affectionate personalities.
+
+
+Data: cats name Oriental. Oriental rating alright. Oriental max weight 10.
+
+Data to Text for <give_opinion>: The Oriental cat breed is quite alright, with a max weight of 10.
+
+
+Data: cats name Asian. Asian rating excellent. Asian intelligence very intelligent.
+
+Data to Text for <give_opinion>: I believe that Asian cats are excellent and very intelligent.
+
+
+Data: cats name Chinese Li Hua. Chinese Li Hua rating good. Chinese Li Hua children friendly very kid-friendly.
+
+Data to Text for <give_opinion>: The Chinese Li Hua is one of the best cat breeds for kids, with its good rating and very kid-friendly nature.
+
+
+Data: cats name American Shorthair. American Shorthair rating okay. American Shorthair max weight 12. American Shorthair length 12 to 15 inches.
+
+Data to Text for <give_opinion>: I really like the American Shorthair, which can weigh up to 12 pounds and reach 12 to 15 inches in length.
+
+
+Data: cats name Devon Rex. Devon Rex rating good. Devon Rex general health not as healthy. Devon Rex min life expectancy 9.
+
+Data to Text for <give_opinion>: Despite having a good rating, the Devon Rex is not as healthy as other cats and has a min life expectancy of only 9 years.
+

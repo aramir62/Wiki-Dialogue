@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a board game. In the response, prompt your friend to name a board game which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single board game, or a yes/no answer (followed by the name of a board game in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: boardgames specifier educational. boardgames genre board wargame.
+
+Data to Text for <request>: What's an educational board wargame in the board game domain?
+
+
+Data: boardgames specifier straightforward. boardgames minimum number of players 1.
+
+Data to Text for <request>: Is there a straightforward board game you can play with at least one player?
+
+
+Data: boardgames specifier tedious. boardgames genre roll-and-move.
+
+Data to Text for <request>: Have you ever played a tedious roll-and-move board game?
+
+
+Data: boardgames specifier frustrating. boardgames game mechanics resource management.
+
+Data to Text for <request>: What board game with a resource management game mechanic is the most frustrating?
+
+
+Data: boardgames specifier tedious. boardgames minimum number of players 2.
+
+Data to Text for <request>: What board game with two players do you find particularly tedious?
+
+
+Data: boardgames specifier educational. boardgames genre historical boardgames.
+
+Data to Text for <request>: Are there any educational historical board games in the board game domain?
+
+
+Data: boardgames specifier uninspiring. boardgames genre German-style boardgames.
+
+Data to Text for <request>: Have you ever played an uninspiring German-style board game?
+
+
+Data: boardgames specifier uninspiring. boardgames maximum number of players 6.
+
+Data to Text for <request>: What board game do you think is the most uninspiring for a game of up to 6 players?
+
+
+Data: boardgames specifier stimulating. boardgames genre mystery fiction.
+
+Data to Text for <request>: Is there a stimulating mystery fiction board game?
+
+
+Data: boardgames specifier confusing. boardgames game mechanics deductive reasoning.
+
+Data to Text for <request>: What's the most confusing board game with deductive reasoning game mechanics you know of?
+

@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given song and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: songs name Apple Shampoo. Apple Shampoo rating good. Apple Shampoo publication year 1997.
+
+Data to Text for <give_opinion>: Apple Shampoo is a good song from 1997 that I still enjoy listening to.
+
+
+Data: songs name Matador. Matador rating excellent. Matador producer K. C. Porter. Pasiones producer K. C. Porter.
+
+Data to Text for <give_opinion>: K. C. Porter's productions of Matador and Pasiones are excellent.
+
+
+Data: songs name Bitter Sweet Symphony. Bitter Sweet Symphony rating mediocre. Bitter Sweet Symphony record label Hut Records. Covers record label Hut Records.
+
+Data to Text for <give_opinion>: Covers by Hut Records has only mediocre songs, such as Bitter Sweet Symphony.
+
+
+Data: songs name Blurred Lines. Blurred Lines rating good. Blurred Lines performer Pharrell Williams. Mamacita performer Pharrell Williams.
+
+Data to Text for <give_opinion>: I think Pharrell Williams did a great job on both Blurred Lines and Mamacita.
+
+
+Data: songs name Every Breath You Take. Every Breath You Take rating excellent. Synchronicity tracklist Every Breath You Take.
+
+Data to Text for <give_opinion>: Every Breath You Take is an excellent song which is part of the amazing Synchronicity tracklist.
+
+
+Data: songs name Break My Soul. Break My Soul rating good. Break My Soul genre house music. Taylor Dayne genre house music.
+
+Data to Text for <give_opinion>: Break My Soul and Taylor Dayne's house music songs are both really good.
+
+
+Data: songs name Bitter Sweet Symphony. Bitter Sweet Symphony rating mediocre. Bitter Sweet Symphony producer Youth. Bitter Sweet Symphony publication date 1997.
+
+Data to Text for <give_opinion>: Bitter Sweet Symphony produced by Youth in 1997 is only mediocre.
+
+
+Data: songs name Somebody That I Used to Know. Somebody That I Used to Know rating excellent. Somebody That I Used to Know from album Making Mirrors.
+
+Data to Text for <give_opinion>: Somebody That I Used to Know from the album Making Mirrors is an excellent song. I'm glad I got to listen to it.
+
+
+Data: songs name Que Calor. Que Calor rating good. Que Calor record label Mad Decent. Riff Raff record label Mad Decent.
+
+Data to Text for <give_opinion>: Que Calor by Riff Raff, released on Mad Decent, is a good track.
+
+
+Data: songs name King of Sorrow. King of Sorrow rating excellent. King of Sorrow producer Sade Adu. Soldier of Love producer Sade Adu.
+
+Data to Text for <give_opinion>: Sade Adu has done an excellent job producing both King of Sorrow and Soldier of Love.
+

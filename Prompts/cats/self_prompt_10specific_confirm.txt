@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a cat. In the response, ask for a confirmation of the given cat by referring to its attributes. Imagine that the cat's name has just been mentioned in the conversation, but you know of multiple cats with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the cat, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the cat your friend had in mind, and not that the attribute is not true about the given cat.
+
+
+Data: cats name Peterbald. Peterbald origin Russia. Peterbald shedding no shedding.
+
+Data to Text for <confirm>: Are you referring to the cat breed from Russia known as the Peterbald that has no shedding?
+
+
+Data: cats name American Bobtail. American Bobtail descriptor With his short tail, tufted ears and toes, and powerful body, the American Bobtail has a distinctively wild look. American Bobtail general health mainly healthy.
+
+Data to Text for <confirm>: Do you mean the American Bobtail cat with its short tail, tufted ears and toes, and powerful body, and which is usually of mainly healthy health?
+
+
+Data: cats name Javanese. Javanese playfulness very playful.
+
+Data to Text for <confirm>: Is the breed you are talking about the very playful Javanese?
+
+
+Data: cats name Ragdoll Cats. Ragdoll Cats min weight 10.0. Ragdoll Cats rating okay.
+
+Data to Text for <confirm>: Do you mean the Ragdoll Cats that have a minimum weight of 10.0 and are rated as okay?
+
+
+Data: cats name British Shorthair. British Shorthair intelligence intelligent. British Shorthair length 22 to 25 inches, not including tail.
+
+Data to Text for <confirm>: Do you mean the intelligent British Shorthair, which is 22 to 25 inches in length, not including the tail?
+
+
+Data: cats name Asian.
+
+Data to Text for <confirm>: Are you talking about Asian cat breeds?
+
+
+Data: cats name Turkish Angora. Turkish Angora family friendly most affectionate. Turkish Angora grooming little grooming.
+
+Data to Text for <confirm>: Are you referring to the Turkish Angora, the one that is known to be family friendly and most affectionate with little grooming required?
+
+
+Data: cats name Manx. Manx origin Isle of Man, UK.
+
+Data to Text for <confirm>: Is the Manx the cat breed that originated in the Isle of Man, UK?
+
+
+Data: cats name Bengal Cats. Bengal Cats other pets friendly most friendly to other pets.
+
+Data to Text for <confirm>: Are you referring to Bengal Cats, the ones that are known to be most friendly to other pets?
+
+
+Data: cats name Australian Mist. Australian Mist descriptor The Australian Mist is a mixed breed cat–a cross between over 30 cats that predominantly include the Burmese, Abyssinian, and Australian Shorthair breeds. Friendly, loving, and energetic, these cats inherited some of the best traits from all of their parents.
+
+Data to Text for <confirm>: Are you talking about the mixed breed cat known as the Australian Mist—the one that is a cross between over 30 cat breeds that predominantly include the Burmese, Abyssinian, and Australian Shorthair breeds?
+

@@ -1,0 +1,52 @@
+description of <inform>: A summary of the dog based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: dogs name Portuguese Sheepdog. Portuguese Sheepdog max height female 21.5. Portuguese Sheepdog max height male 21.5.
+
+Data to Text for <inform>: The Portuguese Sheepdog usually ranges between 20.5 and 21.5 inches in height for both males and females.
+
+
+Data: dogs name Hokkaido.
+
+Data to Text for <inform>: Hokkaido is an animal species.
+
+
+Data: dogs name Greyhound. Greyhound trainability trainable.
+
+Data to Text for <inform>: Greyhounds are trainable animals.
+
+
+Data: dogs name Central Asian Shepherd Dog. Central Asian Shepherd Dog max life expectancy 15.
+
+Data to Text for <inform>: The Central Asian Shepherd Dog has a maximum life expectancy of 15 years.
+
+
+Data: dogs name Belgian Tervuren. Belgian Tervuren ratings good. Belgian Tervuren protectiveness mainly alert.
+
+Data to Text for <inform>: Belgian Tervurens are rated as good with mainly alert protectiveness.
+
+
+Data: dogs name American Foxhound. American Foxhound grooming most grooming.
+
+Data to Text for <inform>: The American Foxhound requires most grooming.
+
+
+Data: dogs name Borzoi. Borzoi barking bark occasionally. Borzoi good with other dogs friendly to other dogs. Borzoi shedding average shedding. Borzoi energy more energy. Borzoi drooling never drools.
+
+Data to Text for <inform>: Borzois are an energetic breed that barks occasionally, are friendly to other dogs, and have an average shedding rate. They are known to never drool.
+
+
+Data: dogs name Shikoku. Shikoku max height male 22.0.
+
+Data to Text for <inform>: The male Shikoku can be as tall as 22.0.
+
+
+Data: dogs name Poodle (Miniature). Poodle (Miniature) trainability very easy to train.
+
+Data to Text for <inform>: Miniature Poodles are very easy to train.
+
+
+Data: dogs name Collie. Collie max height female 26.0. Collie shedding average shedding. Collie drooling sometimes drool.
+
+Data to Text for <inform>: Collies have a max height of 26.0 inches for females. They have average shedding and sometimes drool.
+

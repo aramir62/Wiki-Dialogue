@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about an actor. In the response, prompt your friend to name an actor which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single actor, or a yes/no answer (followed by the name of an actor in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: tv actors specifier Monotonous. tv actors place of birth Charlottesville.
+
+Data to Text for <request>: Is there a monotonous TV actor from Charlottesville?
+
+
+Data: tv actors specifier Overacting. tv actors awards received Grammy Award for Best Audio Book.
+
+Data to Text for <request>: Who has been overacting in an audio book to have won the Grammy Award for Best Audio Book?
+
+
+Data: tv actors specifier Unconvincing. tv actors height taller.
+
+Data to Text for <request>: Can you think of any unconvincing taller TV actors?
+
+
+Data: tv actors specifier Stiff. tv actors cast member of Jurassic World.
+
+Data to Text for <request>: Who from Jurassic World had a stiff performance?
+
+
+Data: tv actors specifier Underwhelming. tv actors date of birth 1984.
+
+Data to Text for <request>: Was there an underwhelming actor born in 1984?
+
+
+Data: tv actors specifier Talented. tv actors cast member of The Normal Heart.
+
+Data to Text for <request>: Who is the most talented cast member of The Normal Heart?
+
+
+Data: tv actors specifier Charismatic. tv actors awards received Poppy Awards.
+
+Data to Text for <request>: Who has been charismatic enough to receive a Poppy Award?
+
+
+Data: tv actors specifier Expressive. tv actors height average.
+
+Data to Text for <request>: Are there any expressive TV actors of average height?
+
+
+Data: tv actors specifier Captivating. tv actors cast member of The Big Bang Theory.
+
+Data to Text for <request>: Who from The Big Bang Theory was the most captivating?
+
+
+Data: tv actors specifier Unconvincing. tv actors awards received Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series.
+
+Data to Text for <request>: Who won the Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series, but had an unconvincing performance?
+

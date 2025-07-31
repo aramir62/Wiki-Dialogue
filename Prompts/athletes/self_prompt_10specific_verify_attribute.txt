@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of athletes in general. In the response, state an observation about your friend's attitude to the given athlete and then ask him or her whether it generalizes to all athletes of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given athlete's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all athletes of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: athletes name John Fleck. John Fleck rating okay. John Fleck position played on team / speciality midfielder. Cédric Makiadi position played on team / speciality midfielder.
+
+Data to Text for <verify_attribute>: You said that John Fleck was okay as a midfielder. Do you think this is the case for other midfielders like Cédric Makiadi?
+
+
+Data: athletes name Wilt Chamberlain. Wilt Chamberlain rating good. Wilt Chamberlain awards NBA All-Star Game Kobe Bryant Most Valuable Player Award. Wilt Chamberlain stats leader 1959–60 NBA season.
+
+Data to Text for <verify_attribute>: You seemed to really admire Wilt Chamberlain for winning the NBA All-Star Game Kobe Bryant Most Valuable Player Award and being the stats leader of the 1959–60 NBA season. Do you think that all athletes of his caliber are just as good?
+
+
+Data: athletes name Billy Vunipola. Billy Vunipola rating okay. Billy Vunipola sport rugby union. Shinjirō Honryō sport rugby union.
+
+Data to Text for <verify_attribute>: You regarded Billy Vunipola as okay. Is your opinion on rugby union players in general the same?
+
+
+Data: athletes name Wayne Rooney. Wayne Rooney rating good. Wayne Rooney start time 2002.
+
+Data to Text for <verify_attribute>: You told me you like Wayne Rooney since he started playing in 2002. Do you have a positive opinion about other athletes from that era?
+
+
+Data: athletes name Luigi Di Biagio. Luigi Di Biagio rating okay. Luigi Di Biagio member of sports team AC Monza. Claudio Maselli member of sports team AC Monza.
+
+Data to Text for <verify_attribute>: You said Luigi Di Biagio was okay. Does that extend to other members of AC Monza like Claudio Maselli?
+
+
+Data: athletes name Neymar. Neymar rating good. Neymar sport association football.
+
+Data to Text for <verify_attribute>: You seem to really appreciate Neymar's performance in association football. Is your appreciation for football players in general?
+
+
+Data: athletes name Lionel Messi. Lionel Messi rating excellent. Lionel Messi awards UEFA Club Footballer of the Year.
+
+Data to Text for <verify_attribute>: You love Lionel Messi for winning the UEFA Club Footballer of the Year. Is that how you would feel about other footballers who have achieved the same award?
+
+
+Data: athletes name Oleksandr Usyk. Oleksandr Usyk rating good. Oleksandr Usyk work period (start) 2013-09-11T00:00:00Z. Oleksandr Usyk sport boxing.
+
+Data to Text for <verify_attribute>: I know that you like Oleksandr Usyk since he started boxing in 2013. Do you think he's a great boxer overall?
+
+
+Data: athletes name Tim Thomas. Tim Thomas rating okay. Tim Thomas team positions small forward. Tim Thomas height 208.
+
+Data to Text for <verify_attribute>: You told me that Tim Thomas is an okay player at small forward. Is that true for all 208cm tall small forwards?
+
+
+Data: athletes name Leon Osman. Leon Osman rating okay. Leon Osman num awards 0. Leon Osman sports teams Everton F.C., England national under-16 association football team.
+
+Data to Text for <verify_attribute>: You mentioned that Leon Osman was only okay despite having zero awards. Do you think that most athletes from Everton F.C. and England national under-16 association football team are just okay?
+

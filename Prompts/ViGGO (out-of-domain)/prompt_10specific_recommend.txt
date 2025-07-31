@@ -1,0 +1,51 @@
+description of <recommend>: A question asking if your friend is familiar with a {domain} you would recommend. In the response, bring up the given {domain} (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as ""..., I was wondering if...""). Make sure you ask about the {domain}, not the attribute(s), nor the friend's opinion. In other words, a ""no"" answer to your question should mean that your friend has not seen/heard about the {domain}, and not that the attribute is not true about the given {domain} or that your friend does not like the {domain}.
+
+
+Data: video games name Sid Meier's Civilization V. Sid Meier's Civilization V available on steam yes.
+
+Data to Text for <recommend>: I know you got some Steam credits for your birthday. Have you tried Sid Meier's Civilization V yet?
+
+
+Data: video games name Resident Evil 4. Resident Evil 4 release year 2005. Resident Evil 4 player perspective third person.
+
+Data to Text for <recommend>: A good third person game I played from back in 2005 was Resident Evil 4. Have you ever played it before?
+
+
+Data: video games name The Wolf Among Us. The Wolf Among Us has multiplayer no. The Wolf Among Us platforms PC.
+
+Data to Text for <recommend>: One of my favorite single-player PC games is The Wolf Among Us, do you know about it?
+
+
+Data: video games name Metroid Prime Pinball. Metroid Prime Pinball developer Fuse Games.
+
+Data to Text for <recommend>: Since you're into games developed by Fuse Games, I wonder if you've tried Metroid Prime Pinball yet.
+
+
+Data: video games name NBA 2K16. NBA 2K16 developer Visual Concepts.
+
+Data to Text for <recommend>: Ever tried NBA 2K16 developed by Visual Concepts?
+
+
+Data: video games name Need for Speed: Most Wanted. Need for Speed: Most Wanted genres driving/racing. Need for Speed: Most Wanted player perspective first person.
+
+Data to Text for <recommend>: I was playing Need for Speed: Most Wanted last night, you heard of it? It's a first person driving game.
+
+
+Data: video games name Never Alone. Never Alone player perspective side view.
+
+Data to Text for <recommend>: While we're on the subject of games played from a side view perspective, have you ever heard of Never Alone?
+
+
+Data: video games name The Witcher 3: Wild Hunt. The Witcher 3: Wild Hunt genres action-adventure, role-playing. The Witcher 3: Wild Hunt player perspective third person.
+
+Data to Text for <recommend>: Since you like action-adventure games from a third person perspective with role-playing elements, you should try this game I like, The Witcher 3: Wild Hunt?
+
+
+Data: video games name Uncharted 4: A Thief's End. Uncharted 4: A Thief's End developer Naughty Dog. Uncharted 4: A Thief's End platforms PlayStation.
+
+Data to Text for <recommend>: Have you heard of Uncharted 4: A Thief's End? It's this PlayStation game from Naughty Dog.
+
+
+Data: video games name Worms: Reloaded. Worms: Reloaded has linux release yes. Worms: Reloaded has mac release yes.
+
+Data to Text for <recommend>: If you're looking for a game with both a Mac release and a Linux release, Worms: Reloaded is one. Have you heard of it before?

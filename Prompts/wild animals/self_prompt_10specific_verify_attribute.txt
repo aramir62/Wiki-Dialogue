@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of animals in general. In the response, state an observation about your friend's attitude to the given animal and then ask him or her whether it generalizes to all animals of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given animal's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all animals of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: wild animals name Bonnethead Shark. Bonnethead Shark popularity very popular. Bonnethead Shark gestation period 4.5 to 5 months. Bonnethead Shark weight 6.6 to 8.8 pounds.
+
+Data to Text for <verify_attribute>: I remember that you said you really liked the Bonnethead Shark. Are you interested in other sharks with a gestation period of 4.5 to 5 months and a weight of 6.6 to 8.8 pounds?
+
+
+Data: wild animals name Orang-utan. Orang-utan popularity very popular. Orang-utan biggest threat Hunting and Habitat Loss.
+
+Data to Text for <verify_attribute>: You have always had a fondness for the Orang-utan. Do you also have a fondness for other animals that are threatened by hunting and habitat loss?
+
+
+Data: wild animals name Zebra. Zebra popularity very popular.
+
+Data to Text for <verify_attribute>: I remember you saying that you love zebras. Do you generally like animals?
+
+
+Data: wild animals name Spanish Goat. Spanish Goat popularity niche interest. Spanish Goat locations Central-America, Europe, North-America. Spanish Goat weight male: 200 to 250 lbs. females: 11 to 150 lbs.
+
+Data to Text for <verify_attribute>: You said that Spanish Goats were only mildly interesting to you. Is that the case for other animals that weigh 200 to 250 lbs for males and 11 to 150 lbs for females that live in Central America, Europe, and North America?
+
+
+Data: wild animals name Seal. Seal popularity very popular. Seal favorite food Fish. Seal common class Mammal.
+
+Data to Text for <verify_attribute>: I know that you like seals a lot. Are you interested in other mammals whose favorite food is fish?
+
+
+Data: wild animals name Rodents. Rodents popularity very popular. Rodents gestation period 16 days hamster to 205 to 217 days North American porcupine. Rodents litter size Two capybara, which only breeds once a year to 14 brown rat, which can breed seven times a year.
+
+Data to Text for <verify_attribute>: I remember that you said you were really interested in rodents. Are you generally interested in animals whose gestation period ranges from 16 days (hamster) to 205-217 days (North American porcupine) and have a litter size ranging from two (capybara, which only breeds once a year) to 14 (brown rat, which can breed seven times a year)?
+
+
+Data: wild animals name Spanish Goat. Spanish Goat popularity niche interest. Spanish Goat other names Brush goats and scrub goats. Spanish Goat most distinctive feature Long horizontal ears and thorns that are twisted at the points.
+
+Data to Text for <verify_attribute>: I remember that you didn't find the Spanish Goat very interesting. Do you feel the same way about other animals that are known as Brush goats and scrub goats, have long horizontal ears, and thorns that are twisted at the points?
+
+
+Data: wild animals name Brown-banded Cockroach. Brown-banded Cockroach popularity very popular. Brown-banded Cockroach biggest threat Extermination by humans. Brown-banded Cockroach locations Africa, Europe, North-America.
+
+Data to Text for <verify_attribute>: I know you think the Brown-banded Cockroach is fascinating. Do you find other animals from Africa, Europe, and North America whose biggest threat is extermination by humans equally interesting?
+
+
+Data: wild animals name Ivory-billed woodpecker. Ivory-billed woodpecker popularity very popular. Ivory-billed woodpecker predators Raccoons, snakes, owls, crows, and hawks. Ivory-billed woodpecker biggest threat Deforestation.
+
+Data to Text for <verify_attribute>: You said that the Ivory-billed woodpecker was one of your favorites. Are you generally interested in animals that are threatened by deforestation and have raccoons, snakes, owls, crows, and hawks as predators?
+
+
+Data: wild animals name Purple Finch. Purple Finch popularity very popular. Purple Finch estimated population size 6.4 million. Purple Finch predators Cats, dogs, hawks, squirrels, jays, grackles, barn owls, merlins, and American kestrels.
+
+Data to Text for <verify_attribute>: I know that you love purple finches. Are you also interested in other animals with an estimated population size of 6.4 million and predators such as cats, dogs, hawks, squirrels, jays, grackles, barn owls, merlins, and American kestrels?
+

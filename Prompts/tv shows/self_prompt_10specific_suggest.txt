@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of TV shows. In the response, ask your friend if he or she has experience with a certain type of TV shows, suggesting the given TV show as an example of such a TV show. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the TV show name at the end as an example. Make sure you ask about the general category of TV shows corresponding to the given attributes, not the example TV show directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such TV shows, and not that your friend does not like the given TV show.
+
+
+Data: tv shows name The Flash. The Flash characters Eddie Thawne. Eddie Thawne creator Greg Berlanti.
+
+Data to Text for <suggest>: Did you follow Greg Berlanti's The Flash with Eddie Thawne?
+
+
+Data: tv shows name Breaking Bad. Breaking Bad character Saul Goodman, Lydia Rodarte-Quayle. Breaking Bad awards received Primetime Emmy Award for Outstanding Writing for a Drama Series.
+
+Data to Text for <suggest>: Have you seen Breaking Bad, starring Saul Goodman and Lydia Rodarte-Quayle, which won a Primetime Emmy Award for Outstanding Writing for a Drama Series?
+
+
+Data: tv shows name Dae Jang Geum. Dae Jang Geum genre historical fiction. Story of Yanxi Palace genre historical fiction.
+
+Data to Text for <suggest>: Are you into historical fiction tv shows like Dae Jang Geum and Story of Yanxi Palace?
+
+
+Data: tv shows name Twin Peaks. Twin Peaks screenwriter Tricia Brock. Tricia Brock genre contemporary Christian music.
+
+Data to Text for <suggest>: Have you watched Twin Peaks, written by Tricia Brock who is noted for her contemporary Christian music?
+
+
+Data: tv shows name Stranger Things. Stranger Things cast member Winona Ryder. Show Me a Hero cast member Winona Ryder.
+
+Data to Text for <suggest>: Did you watch Winona Ryder in Stranger Things or Show Me a Hero?
+
+
+Data: tv shows name My Love from the Star. My Love from the Star screenwriter Park Ji-eun. Crash Landing on You screenwriter Park Ji-eun.
+
+Data to Text for <suggest>: Are you familiar with any of Park Ji-eun's works, such as My Love from the Star and Crash Landing on You?
+
+
+Data: tv shows name Drop Dead Diva. Drop Dead Diva genre American television sitcom.
+
+Data to Text for <suggest>: Do you follow any American television sitcoms, like Drop Dead Diva?
+
+
+Data: tv shows name The Crown. The Crown cast member Burghart Klaußner. Burghart Klaußner award received Officer's Cross of the Order of Merit of the Federal Republic of Germany.
+
+Data to Text for <suggest>: Did you watch The Crown, featuring Burghart Klaußner, who was awarded the Officer's Cross of the Order of Merit of the Federal Republic of Germany?
+
+
+Data: tv shows name The Big Bang Theory. The Big Bang Theory creator Bill Prady. Bill Prady award received Exceptional Public Achievement Medal.
+
+Data to Text for <suggest>: Are you familiar with The Big Bang Theory, created by Bill Prady who received the Exceptional Public Achievement Medal?
+
+
+Data: tv shows name Downton Abbey. Downton Abbey creator Julian Fellowes. Julian Fellowes award received Academy Award for Best Writing, Original Screenplay.
+
+Data to Text for <suggest>: Did you follow Julian Fellowes' Downton Abbey, for which he won an Academy Award for Best Writing, Original Screenplay?
+

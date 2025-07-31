@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of cats. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of cats. Assume your friend has indicated his or her sentiment about the kind of cats earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of cats determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: cats rating okay. cats max life expectancy 12. cats stranger friendly very friendly to strangers.
+
+Data to Text for <request_explanation>: Why do you find cats with a maximum life expectancy of 12 and that are very friendly to strangers okay?
+
+
+Data: cats rating excellent. cats children friendly most kid-friendly.
+
+Data to Text for <request_explanation>: What makes the most kid-friendly cat breeds so special that you would rate them as excellent?
+
+
+Data: cats rating good. cats playfulness playful. cats origin Tayside, Scotland.
+
+Data to Text for <request_explanation>: What do you like so much about the playful cat breed from Tayside, Scotland?
+
+
+Data: cats rating okay. cats origin USA.
+
+Data to Text for <request_explanation>: What decent qualities of cats that originated in the USA make them okay for you?
+
+
+Data: cats rating okay. cats length Small to medium. cats min weight 5.0.
+
+Data to Text for <request_explanation>: Why are you just okay with cat breeds that have a small to medium length and a minimum weight of 5.0?
+
+
+Data: cats rating alright. cats shedding more than average shedding. cats origin Isle of Man, UK.
+
+Data to Text for <request_explanation>: Why do you find cats from the Isle of Man, UK with more than average shedding just alright?
+
+
+Data: cats rating excellent. cats family friendly most affectionate.
+
+Data to Text for <request_explanation>: What is it about cats that are rated as excellent and are known for being family friendly and most affectionate that you really like?
+
+
+Data: cats rating alright. cats origin Thailand. cats length 15 to 18 inches.
+
+Data to Text for <request_explanation>: What makes cats from Thailand with a length of 15 to 18 inches an
+
+
+Data: cats rating good. cats max weight 8. cats playfulness very playful.
+
+Data to Text for <request_explanation>: Why do you think good-rated cat breeds that weigh up to 8 pounds and are very playful are so great?
+
+
+Data: cats rating alright. cats stranger friendly semi friendly to strangers.
+
+Data to Text for <request_explanation>: What makes semi friendly cats towards strangers an alright rating for you?
+

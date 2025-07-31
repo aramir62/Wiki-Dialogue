@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of board games. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of board games. Assume your friend has indicated his or her sentiment about the kind of board games earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of board games determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: boardgames name science fiction. science fiction rating average. Ogre genre science fiction.
+
+Data to Text for <request_explanation>: What do you think makes Ogre an average science fiction game?
+
+
+Data: boardgames name strategy game. strategy game rating poor. SD Gundam World: Gachapon Senshi 4 - New Type Story genre strategy game.
+
+Data to Text for <request_explanation>: Why don't you like SD Gundam World: Gachapon Senshi 4 - New Type Story strategy games?
+
+
+Data: boardgames name board wargame. board wargame rating excellent. Rise and Decline of the Third Reich genre board wargame.
+
+Data to Text for <request_explanation>: What makes Rise and Decline of the Third Reich board wargames so excellent to you?
+
+
+Data: boardgames name fantasy. fantasy rating good. HeroQuest genre fantasy.
+
+Data to Text for <request_explanation>: What is it about HeroQuest that you find to be good fantasy?
+
+
+Data: boardgames name strategy game. strategy game rating poor. SD Gundam Generation: Colony Kaku Senki genre strategy game.
+
+Data to Text for <request_explanation>: Why is SD Gundam Generation: Colony Kaku Senki a boring strategy game for you?
+
+
+Data: boardgames genre board wargame. boardgames average rating excellent. boardgames instance of boardgames.
+
+Data to Text for <request_explanation>: What makes board wargames one of your favorite types of board games?
+
+
+Data: boardgames name roll-and-move game. roll-and-move game rating poor. Afrikan tähti genre roll-and-move game.
+
+Data to Text for <request_explanation>: Why don't you like playing the roll-and-move game Afrikan tähti?
+
+
+Data: boardgames name horror fiction. horror fiction rating average. Cain Rose Up genre horror fiction.
+
+Data to Text for <request_explanation>: Why do you think Cain Rose Up horror fiction games are just average?
+
+
+Data: boardgames name cooperative boardgames. cooperative boardgames rating excellent. Betrayal at House on the Hill genre cooperative boardgames.
+
+Data to Text for <request_explanation>: What do you find so great about the cooperative board game Betrayal at House on the Hill?
+
+
+Data: boardgames name mystery fiction. mystery fiction rating average. H. P. Lovecraft genre mystery fiction.
+
+Data to Text for <request_explanation>: What makes H. P. Lovecraft's mystery fiction only average for you?
+

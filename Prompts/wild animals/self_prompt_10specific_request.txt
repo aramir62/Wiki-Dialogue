@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about an animal. In the response, prompt your friend to name an animal which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single animal, or a yes/no answer (followed by the name of an animal in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: wild animals specifier cheerful. wild animals most distinctive feature Red-colored plumage.
+
+Data to Text for <request>: Do you know of any cheerful animals that have a red-colored plumage?
+
+
+Data: wild animals specifier overrated. wild animals predators Sand and kelp bass, other fish, seabirds, and sea otters.
+
+Data to Text for <request>: Is there an overrated animal that gets preyed upon by sand and kelp bass, other fish, seabirds, and sea otters?
+
+
+Data: wild animals specifier scary. wild animals other names medium-sized halibut are called turkeys.
+
+Data to Text for <request>: Are there any scary animals whose medium-sized halibut are called turkeys?
+
+
+Data: wild animals specifier funniest. wild animals weight 109-544kg 240-1,200lbs.
+
+Data to Text for <request>: What is the funniest animal that you can think of that weighs between 109 to 544 kilograms (240 to 1,200 pounds)?
+
+
+Data: wild animals specifier realistic. wild animals locations North-America, Asia, Eurasia.
+
+Data to Text for <request>: Can you think of a realistic animal that is found in North-America, Asia and Eurasia?
+
+
+Data: wild animals specifier overrated. wild animals most distinctive feature Adults have shiny black scales on its back along with a gray or tan belly in a checkered pattern and white on their chin and neck.
+
+Data to Text for <request>: Are there any overrated animals that have adults with shiny black scales on its back along with a gray or tan belly in a checkered pattern and white on their chin and neck?
+
+
+Data: wild animals specifier cheerful. wild animals common class fish.
+
+Data to Text for <request>: Are you interested in any cheerful fish?
+
+
+Data: wild animals specifier disappointing. wild animals main prey Insects, Worms, Snails.
+
+Data to Text for <request>: Is there a disappointing animal that primarily preys on Insects, Worms, and Snails?
+
+
+Data: wild animals specifier dramatic. wild animals estimated population size Around 256,573 individuals in the wild, but its conservation status is near threatened.
+
+Data to Text for <request>: Do you know of any dramatic animals that have an estimated population of around 256,573 individuals in the wild, but its conservation status is near threatened?
+
+
+Data: wild animals specifier overrated. wild animals gestation period 145-154 days.
+
+Data to Text for <request>: Is there an overrated animal that has a gestation period of 145-154 days?
+

@@ -1,0 +1,52 @@
+description of <inform>: A summary of the actor based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: tv actors name 24. 24 cast member Rami Malek. 24 cast member Kiefer Sutherland. Rami Malek place of birth Los Angeles. 24 cast member Michael Shanks.
+
+Data to Text for <inform>: The cast of 24 includes Rami Malek, Kiefer Sutherland, and Michael Shanks, with Rami Malek hailing from Los Angeles.
+
+
+Data: tv actors name Milo Ventimiglia. Milo Ventimiglia place of birth Anaheim. Milo Ventimiglia height average. Milo Ventimiglia gender male. Milo Ventimiglia date of birth 1977.
+
+Data to Text for <inform>: Milo Ventimiglia is an average height male tv actor born in 1977 in Anaheim.
+
+
+Data: tv actors name Casino Royale. Casino Royale cast member Eva Green. Casino Royale cast member Gunther von Hagens. Eva Green sex or gender female. Casino Royale cast member Ludger Pistor.
+
+Data to Text for <inform>: Casino Royale features Eva Green, Gunther von Hagens, and Ludger Pistor, with Eva Green being female.
+
+
+Data: tv actors name Aziz Ansari. Aziz Ansari rating highly_rated. Aziz Ansari awards received Primetime Emmy Award for Outstanding Writing for a Comedy Series. Aziz Ansari height average.
+
+Data to Text for <inform>: Aziz Ansari is a highly rated tv actor of average height who won the Primetime Emmy Award for Outstanding Writing for a Comedy Series.
+
+
+Data: tv actors name Jeffrey Dean Morgan. Jeffrey Dean Morgan place of birth Seattle. Marcus Hahnemann place of birth Seattle. Jeffrey Dean Morgan spouse Hilarie Burton. Phillip D. Cagan place of birth Seattle.
+
+Data to Text for <inform>: Jeffrey Dean Morgan, Marcus Hahnemann, and Phillip D. Cagan are tv actors from Seattle. Jeffrey Dean Morgan is married to Hilarie Burton.
+
+
+Data: tv actors name Maisie Williams. Maisie Williams place of birth Bristol. Thomas Edward Bowdich place of birth Bristol. Maisie Williams date of birth 1997. Cary Grant place of birth Bristol.
+
+Data to Text for <inform>: Maisie Williams, Thomas Edward Bowdich and Cary Grant were all born in Bristol. Maisie Williams was born in 1997.
+
+
+Data: tv actors name Celeste and Jesse Forever. Celeste and Jesse Forever cast member Rashida Jones. Celeste and Jesse Forever cast member Jason Antoon. Rashida Jones place of birth Los Angeles. Celeste and Jesse Forever cast member Emma Roberts.
+
+Data to Text for <inform>: Celeste and Jesse Forever stars Rashida Jones (from Los Angeles), Jason Antoon and Emma Roberts as cast members.
+
+
+Data: tv actors name Made in Dagenham. Made in Dagenham cast member Andrew Lincoln. Made in Dagenham cast member Richard Schiff.
+
+Data to Text for <inform>: Made in Dagenham featured two tv actors, Andrew Lincoln and Richard Schiff.
+
+
+Data: tv actors name Nikolaj Coster-Waldau. Nikolaj Coster-Waldau place of birth Rudkøbing. Hans Christian Ørsted place of birth Rudkøbing. Nikolaj Coster-Waldau spouse Nukâka Coster-Waldau. Otto Fabricius place of birth Rudkøbing.
+
+Data to Text for <inform>: Rudkøbing is the place of birth of Nikolaj Coster-Waldau, Hans Christian Ørsted and Otto Fabricius. Nikolaj Coster-Waldau is married to Nukâka Coster-Waldau.
+
+
+Data: tv actors name Jim Parsons. Jim Parsons height taller. Jim Parsons date of birth 1973. Jim Parsons place of birth St. Joseph Medical Center (Houston, Texas). Jim Parsons awards received Golden Globe Award for Best Actor – Motion Picture Musical or Comedy.
+
+Data to Text for <inform>: Jim Parsons is a taller tv actor, born in 1973 at St. Joseph Medical Center (Houston, Texas). He has won a Golden Globe Award for Best Actor – Motion Picture Musical or Comedy.
+

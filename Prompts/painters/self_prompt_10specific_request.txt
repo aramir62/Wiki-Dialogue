@@ -1,0 +1,51 @@
+description of <request>:  A casual prompt to start talking about a painter. In the response, prompt your friend to name a painter which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single painter, or a yes/no answer (followed by the name of a painter in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: painters specifier underrated. painters  genres Abstract art, portrait.
+
+Data to Text for <request>: Who do you think is the most underrated painter in the genres of abstract art or portraiture?
+
+
+Data: painters specifier expressive. painters  life period century XX - XXI.
+
+Data to Text for <request>: Can you think of any expressive painters from the 20th to 21st century that you'd like to discuss?
+
+
+Data: painters specifier timeless. painters  nationality Norwegian.
+
+Data to Text for <request>: Who is a timeless Norwegian painter you admire?
+
+
+Data: painters specifier stunning. painters  life period century XVIII - XIX.
+
+Data to Text for <request>: Can you name a stunning painter from the 18th to 19th century?
+
+
+Data: painters specifier favourite. painters  movements pop art.
+
+Data to Text for <request>: Who is your favorite painter from the pop art movement?
+
+
+Data: painters specifier talented. painters  movements Expressionism, New Objectivity.  
+
+Data to Text for <request>: Who do you think is the most talented painter associated with Expressionism or New Objectivity?
+
+
+Data: painters specifier underrated. painters  genres portrait painting, digital art.  
+
+Data to Text for <request>: Are there any underrated painters you know of who specialize in portrait painting or digital art?
+
+
+Data: painters specifier unremarkable.
+
+Data to Text for <request>: Can you think of a painter who is often considered unremarkable?
+
+
+Data: painters specifier creative. painters  nationality Norwegian.
+
+Data to Text for <request>: Who's a creative Norwegian painter you admire?
+
+
+Data: painters specifier monotonous.
+
+Data to Text for <request>: Is there a painter whose work you find to be monotonous?

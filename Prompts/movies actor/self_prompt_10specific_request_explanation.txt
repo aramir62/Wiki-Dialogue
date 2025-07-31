@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of actors. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of actors. Assume your friend has indicated his or her sentiment about the kind of actors earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of actors determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: movie actors rating lower rated. movie actors date of birth 1918. movie actors awards received star on Hollywood Walk of Fame.
+
+Data to Text for <request_explanation>: Why do you think the actors born in 1918 with a star on the Hollywood Walk of Fame are lower rated?
+
+
+Data: movie actors rating top rated. movie actors place of birth McComb.
+
+Data to Text for <request_explanation>: What is it about top rated actors from McComb that you like so much?
+
+
+Data: movie actors rating moderately rated. movie actors gender female. movie actors awards received Satellite Award for Best Actress – Motion Picture Musical or Comedy.
+
+Data to Text for <request_explanation>: Why do you find the female actor who was awarded the Satellite Award for Best Actress – Motion Picture Musical or Comedy to be only moderately rated?
+
+
+Data: movie actors name screenwriter. screenwriter rating lower rated. John Krasinski occupation screenwriter.
+
+Data to Text for <request_explanation>: Why do you rate John Krasinski's screenwriting lower than other screenwriters?
+
+
+Data: movie actors name Los Angeles. Los Angeles rating top rated. Marilyn Monroe place of birth Los Angeles.
+
+Data to Text for <request_explanation>: What is it about Los Angeles that made Marilyn Monroe so top rated?
+
+
+Data: movie actors name Malibu's Most Wanted. Malibu's Most Wanted rating highly rated. Malibu's Most Wanted cast member Snoop Dogg.
+
+Data to Text for <request_explanation>: Why do you think highly of Snoop Dogg's performance in Malibu's Most Wanted?
+
+
+Data: movie actors rating lower rated. movie actors awards received Penthouse Pet. movie actors cast member of Traci Lords: Underneath It All.
+
+Data to Text for <request_explanation>: What is it about the lower rated actor who has received the Penthouse Pet award and was a cast member of Traci Lords: Underneath It All that you don't like?
+
+
+Data: movie actors rating lower rated. movie actors occupation television producer. movie actors gender female.
+
+Data to Text for <request_explanation>: Why don't you rate the female television producer turned actor lower?
+
+
+Data: movie actors rating top rated. movie actors place of birth Bay City. movie actors awards received Golden Raspberry Award for Worst Actress.
+
+Data to Text for <request_explanation>: How can you rate top rated the actors from Bay City who have received the Golden Raspberry Award for Worst Actress?
+
+
+Data: movie actors name playwright. playwright rating highly rated. Carrie Fisher occupation playwright.
+
+Data to Text for <request_explanation>: What is it about Carrie Fisher's work as a highly rated playwright that you enjoy?
+

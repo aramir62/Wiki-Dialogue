@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with an animal you would recommend. In the response, bring up the given animal (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the animal, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the animal, and not that the attribute is not true about the given animal or that your friend does not like the animal.
+
+
+Data: wild animals name Stick Insect. Stick Insect common class insect. Stick Insect skin type Shell.
+
+Data to Text for <recommend>: I think the Stick Insect is an amazing insect because of its Shell-like skin. Have you ever seen one?
+
+
+Data: wild animals name Spotted Lanternfly. Spotted Lanternfly common class Insect. Spotted Lanternfly locations Asia, North-America.
+
+Data to Text for <recommend>: Have you ever heard of the Spotted Lanternfly, an insect that lives in Asia and North America? It's something I'm always keeping an eye out for.
+
+
+Data: wild animals name Galapagos Penguin. Galapagos Penguin common class Bird. Galapagos Penguin popularity very popular.
+
+Data to Text for <recommend>: One bird that is very popular is the Galapagos Penguin. Would you like to see one?
+
+
+Data: wild animals name Steller’s Sea Cow. Steller’s Sea Cow common class Mammal. Steller’s Sea Cow main prey Sea Grasses, Algae, Flowers.
+
+Data to Text for <recommend>: I find the Steller's Sea Cow really interesting because it feeds on Sea Grasses, Algae, and Flowers. Do you know about this mammal?
+
+
+Data: wild animals name Elephant Shrew. Elephant Shrew common class Mammal. Elephant Shrew color BrownGreyBlackWhiteTan.
+
+Data to Text for <recommend>: Have you ever seen an Elephant Shrew? It is a mammal with a variety of colors such as brown, grey, black, white and tan.
+
+
+Data: wild animals name Common Raven. Common Raven common class Bird. Common Raven predators Owls, eagles, martens attack their eggs, larger birds of prey such as great horned owls and mammalian carnivores such as coyotes or cougars might prey on younger ravens.
+
+Data to Text for <recommend>: The bird called the Common Raven is one I always look out for, even though owls, eagles, martens, and larger birds of prey like great horned owls, and mammalian carnivores like coyotes and cougars may attack their eggs or prey on younger ravens. Have you ever seen one?
+
+
+Data: wild animals name Swai Fish. Swai Fish common class fish. Swai Fish other names Tra fish.
+
+Data to Text for <recommend>: Have you heard of a fish called the Swai Fish or the Tra Fish? It's one of my favorite fish to watch.
+
+
+Data: wild animals name Frilled Lizard. Frilled Lizard common class Reptile. Frilled Lizard locations Oceania.
+
+Data to Text for <recommend>: I think it'd be really cool to see the Frilled Lizard, a reptile that is native to Oceania. Do you know anything about it?
+
+
+Data: wild animals name Meerkat. Meerkat common class Mammal. Meerkat height 25cm - 35cm 10in - 14in.
+
+Data to Text for <recommend>: One of my favorite animals is the Meerkat, which can be as tall as 25cm - 35cm (10in - 14in). Have you seen one before?
+
+
+Data: wild animals name Eastern Indigo Snake. Eastern Indigo Snake common class Reptile. Eastern Indigo Snake litter size 4-12.
+
+Data to Text for <recommend>: One reptile that I find fascinating is the Eastern Indigo Snake, since it has a litter size of 4-12. Are you familiar with it?
+

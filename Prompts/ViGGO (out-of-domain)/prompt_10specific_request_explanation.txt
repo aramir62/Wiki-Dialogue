@@ -1,0 +1,51 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of {domain}s. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of {domain}s. Assume your friend has indicated his or her sentiment about the kind of {domain}s earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of {domain}s determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: video games release year 2005. video games rating excellent.
+
+Data to Text for <request_explanation>: So what is it about the games that were released in 2005 that you find so excellent?
+
+
+Data: video games developer MicroProse. video games rating good. video games player perspective bird view.
+
+Data to Text for <request_explanation>: What is it about the bird view perspective games made by MicroProse that makes you enjoy them?
+
+
+Data: video games developer Capcom Production Studio 4. video games rating excellent. video games platforms Xbox.
+
+Data to Text for <request_explanation>: What do you find so amazing about Capcom Production Studio 4's Xbox games?
+
+
+Data: video games developer Blizzard North. video games rating good. video games genres hack-and-slash, role-playing.
+
+Data to Text for <request_explanation>: I'm wondering, what is it about the hack-and-slash RPGs that Blizzard North makes that makes you enjoy them?
+
+
+Data: video games developer Evolution Studios. video games rating poor. video games has multiplayer yes.
+
+Data to Text for <request_explanation>: Why do you dislike Evolution Studios' multiplayer games?
+
+
+Data: video games developer Illusion Softworks. video games rating excellent. video games genres driving/racing, fighting, shooter.
+
+Data to Text for <request_explanation>: What makes you love Illusion Softworks' shooter games with driving and fighting elements?
+
+
+Data: video games developer Ninja Theory. video games rating excellent. video games player perspective third person.
+
+Data to Text for <request_explanation>: Why are the third person games made by Ninja Theory some of your favorite games ever?
+
+
+Data: video games developer Tarsier Studios. video games rating good.
+
+Data to Text for <request_explanation>: I'm wondering, why do you enjoy the games made by Tarsier Studios?
+
+
+Data: video games developer Ubisoft Montreal. video games rating good.
+
+Data to Text for <request_explanation>: You've mentioned games by Ubisoft Montreal to be pretty good. Why do you think that is?
+
+
+Data: video games developer Valve Corporation. video games rating excellent. video games platforms PC.
+
+Data to Text for <request_explanation>: Why do you find Valve Corporation's PC games to be top tier?

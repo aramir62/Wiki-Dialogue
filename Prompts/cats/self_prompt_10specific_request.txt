@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a cat. In the response, prompt your friend to name a cat which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single cat, or a yes/no answer (followed by the name of a cat in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: cats specifier boring. cats length Medium to large.
+
+Data to Text for <request>: Is there a boring cat breed that is medium to large in size?
+
+
+Data: cats specifier realistic. cats max life expectancy 15.
+
+Data to Text for <request>: Can you think of any realistic cat breeds with a life expectancy of 15 years or less?
+
+
+Data: cats specifier interesting. cats descriptor The Australian Mist is a mixed breed cat–a cross between over 30 cats that predominantly include the Burmese, Abyssinian, and Australian Shorthair breeds. Friendly, loving, and energetic, these cats inherited some of the best traits from all of their parents.
+
+Data to Text for <request>: What is the most interesting cat breed that is a cross between the Burmese, Abyssinian, and Australian Shorthair breeds and is known for being friendly, loving and energetic?
+
+
+Data: cats specifier engaging. cats min weight 5.0.
+
+Data to Text for <request>: Are you familiar with any engaging cat breeds that weigh at least 5.0 pounds?
+
+
+Data: cats specifier cheerful. cats descriptor Known for their intelligence and inquisitive nature, they make loving companions that will sit quietly with you, and often enjoy being petted.
+
+Data to Text for <request>: Do you know of any cheerful cat breeds that are known for their intelligence and inquisitive nature, and make loving companions that will sit quietly with you and often enjoy being petted?
+
+
+Data: cats specifier overrated.
+
+Data to Text for <request>: What is the most overrated cat breed?
+
+
+Data: cats specifier disappointing. cats origin Southeast Asia.
+
+Data to Text for <request>: Are there any disappointing cat breeds from Southeast Asia?
+
+
+Data: cats specifier cheerful. cats max weight 18.
+
+Data to Text for <request>: Are you looking for a cheerful cat breed that can weigh no more than 18 pounds?
+
+
+Data: cats specifier interesting. cats descriptor The British Longhair is a mixed breed cat–a cross between the British Shorthair and Persian cats. Friendly, independent, and affectionate, these cats inherited some of the best traits from both of their parent breeds.
+
+Data to Text for <request>: Do you know of any interesting cat breeds, like the British Longhair, that has the best traits from both the British Shorthair and Persian cat breeds?
+
+
+Data: cats specifier overrated. cats grooming average amount of grooming.
+
+Data to Text for <request>: Can you think of an overrated cat breed that requires an average amount of grooming?
+

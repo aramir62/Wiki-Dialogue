@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of painters. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of painters. Assume your friend has indicated his or her sentiment about the kind of painters earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of painters determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data:  painters rating excellent. painters  nationality Italian. painters  genres religious art, mythological painting.  
+
+Data to Text for <request_explanation>: I remember you mentioning how much you love Italian painters who specialize in religious art and mythological painting. What is it about their work that captivates you so much?
+
+
+Data: painters rating poor. painters  genres portrait. painters  movements contemporary art. 
+
+Data to Text for <request_explanation>: Why do you find contemporary portrait painters to be lacking in skill or appeal?
+
+
+
+Data: painters rating good. painters  nationality Russian. painters  genres art of painting, graphics. 
+
+Data to Text for <request_explanation>: You mentioned that you like Russian painters who specialize in painting and graphics. What is it about their work that appeals to you?
+
+
+Data: painters rating poor. painters  nationality American. painters  genres landscape art.
+
+Data to Text for <request_explanation>: Why do you dislike American landscape artists so much?
+
+
+Data: painters rating excellent. painters  genres portrait, religious art.
+
+Data to Text for <request_explanation>: I'm curious, what is it about portrait and religious art painters that you find to be excellent?
+
+
+Data: painters rating poor. painters  genres nude, Abstract art. painters  movements metaphysical painting.
+
+Data to Text for <request_explanation>: I recall you mentioning that you don't like painters who focus on nude and abstract art with metaphysical painting movements. Can you explain why you have such a negative sentiment towards this type of painters?
+
+
+Data: painters rating good. painters  nationality American. painters  movements Realism, American realism. 
+
+Data to Text for <request_explanation>: You've mentioned before that you appreciate American Realism painters. What is it about their work that resonates with you so much?
+
+
+Data: painters rating average. painters  nationality French. painters  movements post-impressionism, naïve art.
+
+Data to Text for <request_explanation>: I remember you mentioning that you find French painters with a focus on post-impressionism and naïve art to be just average. Can you explain why that is the case?
+
+
+Data: painters rating average. painters  movements Romanticism, realism. painters  genres religious art, landscape art.  
+
+Data to Text for <request_explanation>: What is it about the Romanticism and realism movements in religious and landscape art that you find to be just average?
+
+
+Data: Salvador Dalí  rating excellent. Salvador Dalí  genres allegory, landscape art.
+
+Data to Text for <request_explanation>: I know you admire Salvador Dalí's work. Are you generally a fan of artists who specialize in allegorical and landscape art?

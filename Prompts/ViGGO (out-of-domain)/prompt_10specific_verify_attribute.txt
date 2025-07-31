@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of {domain}s in general. In the response, state an observation about your friend's attitude to the given {domain} and then ask him or her whether it generalizes to all painitngs of that type. The response should consist of 2 sentences:
+The first one will be the observation based on the Liking attribute and including the given {domain}'s name. The second will be a yes/no question verifying that your friend has the observed attitude towards all {domain}s of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: video games name Uncharted 4: A Thief's End. Uncharted 4: A Thief's End rating excellent. Uncharted 4: A Thief's End has multiplayer yes.
+
+Data to Text for <verify_attribute>: Is playing multiplayer games something you're always up to, or was Uncharted 4: A Thief's End an unusually good one?
+
+
+Data: video games name Euro Truck Simulator. Euro Truck Simulator developer SCS Software. Euro Truck Simulator rating poor. Euro Truck Simulator genres driving/racing, simulation.
+
+Data to Text for <verify_attribute>: I know you didn't like Euro Truck Simulator. Do you also dislike other SCS Software driving games?
+
+
+Data: video games name Assassin's Creed II. Assassin's Creed II developer Ubisoft Montreal. Assassin's Creed II rating good. Assassin's Creed II platforms PlayStation.
+
+Data to Text for <verify_attribute>: Since you enjoyed playing Assassin's Creed II, are you into other PlayStation games by Ubisoft Montreal?
+
+
+Data: video games name Crysis. Crysis esrb M (for Mature). Crysis rating good. Crysis platforms Xbox.
+
+Data to Text for <verify_attribute>: I remember you said you enjoyed Crysis. Are you a fan of Xbox games rated M (for Mature)?
+
+
+Data: video games name Driver. Driver rating average. Driver genres driving/racing, simulation. Driver has multiplayer no.
+
+Data to Text for <verify_attribute>: I recall you mentioned that Driver was just an average game. Does this sentiment hold for all driving/racing simulations which are single-player?
+
+
+Data: video games name Far Cry 3. Far Cry 3 rating good. Far Cry 3 genres action-adventure, shooter. Far Cry 3 player perspective first person.
+
+Data to Text for <verify_attribute>: Previously you told me that you like to play Far Cry 3. Does it mean you are fond of first person shooter games with lots of action and adventure in general?
+
+
+Data: video games name Guitar Hero: Smash Hits. Guitar Hero: Smash Hits rating poor. Guitar Hero: Smash Hits genres music. Guitar Hero: Smash Hits has multiplayer yes.
+
+Data to Text for <verify_attribute>: I remember you don't like Guitar Hero: Smash Hits. Do you think making it a single-player only game would have been a better idea for this type of a music game?
+
+
+Data: video games name Life is Strange. Life is Strange rating good. Life is Strange player perspective third person. Life is Strange has multiplayer no.
+
+Data to Text for <verify_attribute>: You told me you liked playing Life is Strange. Are you a into other third person, single-player games?
+
+
+Data: video games name Need for Speed: The Run. Need for Speed: The Run developer Firebrand Games. Need for Speed: The Run rating average. Need for Speed: The Run platforms Xbox.
+
+Data to Text for <verify_attribute>: You said that you Need for Speed: The Run was mediocre. Does the same sentiment apply to other Firebrand Games on the Xbox?
+
+
+Data: video games name Small World 2. Small World 2 developer Days of Wonder. Small World 2 rating poor.
+
+Data to Text for <verify_attribute>: You mentioned how much you dislike Small World 2. Does Days of Wonder often mess up games in your experience?

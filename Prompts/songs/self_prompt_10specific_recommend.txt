@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a song you would recommend. In the response, bring up the given song (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the song, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the song, and not that the attribute is not true about the given song or that your friend does not like the song.
+
+
+Data: songs name Feel Again. Feel Again publication year 2012. Feel Again genres pop music.
+
+Data to Text for <recommend>: Have you heard the song Feel Again from 2012? It's a pop music piece.
+
+
+Data: songs name Space Oddity. Space Oddity from album David Bowie. Space Oddity producer Gus Dudgeon.
+
+Data to Text for <recommend>: Are you familiar with Space Oddity by David Bowie, produced by Gus Dudgeon?
+
+
+Data: songs name Bitter Sweet Symphony. Bitter Sweet Symphony genre alternative rock. Frank Zappa genre alternative rock.
+
+Data to Text for <recommend>: Have you ever listened to Bitter Sweet Symphony, an alternative rock? Another notable alternative rock singer worth mentioning is Frank Zappa.
+
+
+Data: songs name Hold My Hand. Hold My Hand publication year 2022.
+
+Data to Text for <recommend>: Have you heard of Hold My Hand that was released in 2022?
+
+
+Data: songs name About Damn Time. About Damn Time genre disco. Discovery genre disco.
+
+Data to Text for <recommend>: Have you listened to About Damn Time, a disco song? You should also check out Discovery, another disco track.
+
+
+Data: songs name Waka Waka. Waka Waka from album Listen Up! The Official 2010 FIFA World Cup Album.
+
+Data to Text for <recommend>: Have you heard Waka Waka from the Listen Up! The Official 2010 FIFA World Cup Album?
+
+
+Data: songs name Money for Nothing. Money for Nothing genre rock music. Jack White genre rock music.
+
+Data to Text for <recommend>: Have you ever checked out Money for Nothing, a rock music? Jack White also has some great rock music.
+
+
+Data: songs name Cold Heart (Pnau remix). Cold Heart (Pnau remix) performer Elton John. Elton John record label Mercury Records.
+
+Data to Text for <recommend>: Have you heard Elton John's Cold Heart (Pnau remix)? It's on Mercury Records.
+
+
+Data: songs name Money, Cash, Hoes. Money, Cash, Hoes producer Swizz Beatz. Money, Cash, Hoes performer DMX, Jay-Z.
+
+Data to Text for <recommend>: Have you heard Money, Cash, Hoes by Swizz Beatz featuring DMX and Jay-Z?
+
+
+Data: songs name Take My Breath Away. Take My Breath Away publication year 1986. Take My Breath Away from album Top Gun – Original Motion Picture Soundtrack.
+
+Data to Text for <recommend>: Have you heard Take My Breath Away from the Top Gun – Original Motion Picture Soundtrack from 1986?
+

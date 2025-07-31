@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a TV show. In the response, prompt your friend to name a TV show which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single TV show, or a yes/no answer (followed by the name of a TV show in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: tv shows specifier disappointing. tv shows creator Miikko Oikkonen, Juuso Syrja’.
+
+Data to Text for <request>: Did anything from Miikko Oikkonen and Juuso Syrja’ turn out to be disappointing for you?
+
+
+Data: tv shows specifier dramatic. tv shows cast member Todd Terry, Bob Odenkirk.
+
+Data to Text for <request>: Is there a Todd Terry or Bob Odenkirk show that is particularly dramatic?
+
+
+Data: tv shows specifier dramatic. tv shows awards received British Academy Television Award for Best Drama Series.
+
+Data to Text for <request>: What drama series has won the British Academy Television Award for Best Drama Series?
+
+
+Data: tv shows specifier overrated. tv shows screenwriter Andrew Davies.
+
+Data to Text for <request>: Do you think any of Andrew Davies' shows are overrated?
+
+
+Data: tv shows specifier interesting. tv shows screenwriter Nicholas Meyer.
+
+Data to Text for <request>: What interesting shows have you seen from Nicholas Meyer?
+
+
+Data: tv shows specifier dramatic. tv shows cast member Terry Chen, Nick E. Tarabay.
+
+Data to Text for <request>: Was there a dramatic TV show with Terry Chen and Nick E. Tarabay?
+
+
+Data: tv shows specifier cheerful. tv shows screenwriter Gennifer Hutchison.
+
+Data to Text for <request>: Has Gennifer Hutchison written anything cheerful for TV?
+
+
+Data: tv shows specifier interesting. tv shows creator James Gunn.
+
+Data to Text for <request>: What interesting show did James Gunn create?
+
+
+Data: tv shows specifier realistic. tv shows genre television series based on a novel.
+
+Data to Text for <request>: Can you think of a realistic television series based on a novel?
+
+
+Data: tv shows specifier scary. tv shows screenwriter Dominic Minghella.
+
+Data to Text for <request>: Did Dominic Minghella write any scary TV shows?
+

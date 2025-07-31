@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of albums in general. In the response, state an observation about your friend's attitude to the given album and then ask him or her whether it generalizes to all albums of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given album's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all albums of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: albums name Life in 1472. Life in 1472 rating mediocre. Life in 1472 contains Sweetheart. Life in 1472 record label So So Def Recordings.
+
+Data to Text for <verify_attribute>: You said that Life in 1472 is not that great. Do you usually find albums released by So So Def Recordings with Sweetheart on it to be mediocre?
+
+
+Data: albums name The Rise and Fall of Ziggy Stardust and the Spiders from Mars. The Rise and Fall of Ziggy Stardust and the Spiders from Mars rating excellent. The Rise and Fall of Ziggy Stardust and the Spiders from Mars producer David Bowie. The Rise and Fall of Ziggy Stardust and the Spiders from Mars genres rock opera.
+
+Data to Text for <verify_attribute>: You love The Rise and Fall of Ziggy Stardust and the Spiders from Mars produced by David Bowie. Do you think rock operas are usually excellent?
+
+
+Data: albums name My Beautiful Dark Twisted Fantasy. My Beautiful Dark Twisted Fantasy rating excellent. My Beautiful Dark Twisted Fantasy publication year 2010. My Beautiful Dark Twisted Fantasy performer Kanye West.
+
+Data to Text for <verify_attribute>: You love My Beautiful Dark Twisted Fantasy. Do you think other albums by Kanye West from 2010 are just as great?
+
+
+Data: albums name Top Gun – Original Motion Picture Soundtrack. Top Gun – Original Motion Picture Soundtrack rating excellent. Top Gun – Original Motion Picture Soundtrack producer Giorgio Moroder. Top Gun – Original Motion Picture Soundtrack genres stage and screen.
+
+Data to Text for <verify_attribute>: You said Top Gun – Original Motion Picture Soundtrack is great. Do you think Giorgio Moroder always produces excellent albums of stage and screen?
+
+
+Data: albums name Just like You. Just like You rating mediocre. Just like You performer Keyshia Cole. Just like You genres contemporary R&B.
+
+Data to Text for <verify_attribute>: You said Just Like You by Keyshia Cole was just okay. Do you find contemporary R&B albums to be mediocre?
+
+
+Data: albums name Led Zeppelin IV. Led Zeppelin IV rating excellent. Led Zeppelin IV contains When the Levee Breaks. Led Zeppelin IV producer Jimmy Page.
+
+Data to Text for <verify_attribute>: You love Led Zeppelin IV from the song When the Levee Breaks. Do you think Jimmy Page always produces great albums?
+
+
+Data: albums name Zeit. Zeit rating excellent. Zeit contains Adieu.
+
+Data to Text for <verify_attribute>: You said Zeit is excellent. Do you enjoy all albums with Adieu on it that much?
+
+
+Data: albums name Nevermind. Nevermind rating excellent. Nevermind producer Butch Vig. Nevermind performer Nirvana.
+
+Data to Text for <verify_attribute>: You love Nevermind produced by Butch Vig and performed by Nirvana. Do you think all albums produced by Butch Vig and performed by Nirvana are great?
+
+
+Data: albums name Missing...Presumed Having a Good Time. Missing...Presumed Having a Good Time rating mediocre. Missing...Presumed Having a Good Time contains feel like going home. Missing...Presumed Having a Good Time record label Warner Bros. Records.
+
+Data to Text for <verify_attribute>: You said Missing...Presumed Having a Good Time is decent. Do you usually find albums from Warner Bros. Records with "Feel Like Going Home" to be mediocre?
+
+
+Data: albums name Led Zeppelin IV. Led Zeppelin IV rating excellent. Led Zeppelin IV contains Four Sticks. Led Zeppelin IV genres blues rock.
+
+Data to Text for <verify_attribute>: You love Led Zeppelin IV with its song Four Sticks. Do you think other blues rock albums are usually as great as Led Zeppelin IV?
+

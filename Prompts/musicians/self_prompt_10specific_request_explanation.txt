@@ -1,0 +1,52 @@
+description of <request_explanation>: A question about why your friend (dis)likes a certain type of musicians. In the response, ask your friend for an explanation why he or she has the given sentiment about a certain type of musicians. Assume your friend has indicated his or her sentiment about the kind of musicians earlier in the conversation. The sentiment expressed in your response will thus be determined by the given value of the Liking attribute, not your own opinion. The response should consist of a single open-ended question about the type of musicians determined by the remaining given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: musicians name Eminem. Eminem rating good.
+
+Data to Text for <request_explanation>: What makes you think Eminem is good?
+
+
+Data: musicians name Eddie Holland. Eddie Holland rating okay.
+
+Data to Text for <request_explanation>: Why do you find Eddie Holland's music just okay?
+
+
+Data: musicians name Olivia Newton-John. Olivia Newton-John rating excellent. Olivia Newton-John awards Australian National Living Treasure.
+
+Data to Text for <request_explanation>: What is it about Olivia Newton-John that earned her the title of Australian National Living Treasure?
+
+
+Data: musicians name MTV Europe Music Award for Best Song. MTV Europe Music Award for Best Song rating excellent. Halo award received MTV Europe Music Award for Best Song.
+
+Data to Text for <request_explanation>: What makes the song Halo that won MTV Europe Music Award for Best Song so excellent?
+
+
+Data: musicians name Satellite. Satellite Awards rating good. Jeffrey Tambor award received Satellite Awards.
+
+Data to Text for <request_explanation>: What made Jeffrey Tambor's performance receive a good rating from the Satellite Awards?
+
+
+Data: musicians name Kate Bush. Kate Bush rating good.
+
+Data to Text for <request_explanation>: Why do you rate Kate Bush as good?
+
+
+Data: musicians name Canada. Canada rating good. Canada award received Nansen Refugee Award.
+
+Data to Text for <request_explanation>: What makes Canada deserving of the Nansen Refugee Award?
+
+
+Data: musicians name Billie Eilish. Billie Eilish rating excellent. Billie Eilish genres electropop.
+
+Data to Text for <request_explanation>: What about Billie Eilish's electropop is so excellent?
+
+
+Data: musicians name Sultanate of Zanzibar. Sultanate of Zanzibar rating okay. Barghash bin Said of Zanzibar country of citizenship Sultanate of Zanzibar.
+
+Data to Text for <request_explanation>: What is it about the Sultanate of Zanzibar that made Barghash bin Said of Zanzibar rate it as only okay?
+
+
+Data: musicians name Rock and Roll Hall of Fame. Rock and Roll Hall of Fame rating excellent. Elvis Presley award received Rock and Roll Hall of Fame.
+
+Data to Text for <request_explanation>: Why do you think Elvis Presley receiving the Rock and Roll Hall of Fame is so excellent?
+

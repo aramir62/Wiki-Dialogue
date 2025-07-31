@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain movie's characteristic.
+
+
+Data: movies MPA film rating .
+
+Data to Text for <request_attribute>: Which MPA film rating do you usually prefer when watching movies?
+
+
+Data: movies cast member .
+
+Data to Text for <request_attribute>: Which actors or cast members do you enjoy seeing most in movies?
+
+
+Data: movies genre .
+
+Data to Text for <request_attribute>: What type of movies do you find most enjoyable?
+
+
+Data: movies publication date .
+
+Data to Text for <request_attribute>: Which movie release period do you prefer?
+
+
+Data: movies producer .
+
+Data to Text for <request_attribute>: Which film producer's work do you appreciate or enjoy the most?
+
+
+Data: movies director .
+
+Data to Text for <request_attribute>: Which movie director do you admire or prefer the most?
+
+
+Data: movies MPA film rating .
+
+Data to Text for <request_attribute>: Which MPA film rating do you feel most comfortable with when choosing a movie?
+
+
+Data: movies genre .
+
+Data to Text for <request_attribute>: Which movie genre do you enjoy watching the most?
+
+
+Data: movies director .
+
+Data to Text for <request_attribute>: Which movie director do you prefer when it comes to choosing a film?
+
+
+Data: movies producer .
+
+Data to Text for <request_attribute>: Is there a particular movie producer whose work you tend to favor?
+

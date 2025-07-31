@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with an album you would recommend. In the response, bring up the given album (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the album, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the album, and not that the attribute is not true about the given album or that your friend does not like the album.
+
+
+Data: albums name Shine. Shine genres pop rock. Shine producer Cyndi Lauper.
+
+Data to Text for <recommend>: Have you heard the pop rock album Shine by Cyndi Lauper?
+
+
+Data: albums name My Beautiful Dark Twisted Fantasy. My Beautiful Dark Twisted Fantasy genres hip hop music. My Beautiful Dark Twisted Fantasy producer Kanye West.
+
+Data to Text for <recommend>: Are you familiar with My Beautiful Dark Twisted Fantasy, Kanye West's hip hop music album?
+
+
+Data: albums name The Rise and Fall of Ziggy Stardust and the Spiders from Mars. The Rise and Fall of Ziggy Stardust and the Spiders from Mars contains Ziggy Stardust. The Rise and Fall of Ziggy Stardust and the Spiders from Mars publication year 1972.
+
+Data to Text for <recommend>: Have you heard of The Rise and Fall of Ziggy Stardust and the Spiders from Mars, released in 1972? It has the song Ziggy Stardust.
+
+
+Data: albums name Dethalbum III. Dethalbum III producer Ulrich Wild.
+
+Data to Text for <recommend>: Are you familiar with Dethalbum III by producer Ulrich Wild?
+
+
+Data: albums name Led Zeppelin IV. Led Zeppelin IV contains Misty Mountain Hop. Led Zeppelin IV record label Atlantic Records.
+
+Data to Text for <recommend>: Have you heard of Led Zeppelin IV on Atlantic Records, which includes Misty Mountain Hop?
+
+
+Data: albums name OK Computer. OK Computer genres alternative rock.
+
+Data to Text for <recommend>: Do you know about the alternative rock album OK Computer?
+
+
+Data: albums name Missing...Presumed Having a Good Time. Missing...Presumed Having a Good Time producer Mark Knopfler.
+
+Data to Text for <recommend>: Have you heard Missing...Presumed Having a Good Time, produced by Mark Knopfler?
+
+
+Data: albums name Age to Age. Age to Age record label Myrrh Records. Age to Age contains El Shaddai.
+
+Data to Text for <recommend>: Have you heard of Age to Age on Myrrh Records? It has El Shaddai on it.
+
+
+Data: albums name Just like You. Just like You producer Rodney Jerkins.
+
+Data to Text for <recommend>: Are you familiar with Rodney Jerkins' album Just like You?
+
+
+Data: albums name Life in 1472. Life in 1472 performer Jermaine Dupri. Life in 1472 publication year 1998.
+
+Data to Text for <recommend>: Have you heard of Jermaine Dupri's Life in 1472, released in 1998?
+

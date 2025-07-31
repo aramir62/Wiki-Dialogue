@@ -1,0 +1,52 @@
+description of <verify_attribute>:  A response in which you verify whether your friend (dis)likes a certain type of painters in general. In the response, state an observation about your friend's attitude to the given painter and then ask him or her whether it generalizes to all painitngs of that type. The response should consist of 2 sentences:
+The first one will be the observation based on the Liking attribute and including the given painter's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all painters of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., ""excellent"" ~ ""love"", ""average"" ~ ""decent""/""mediocre"", or ""poor"" ~ ""boring"" (see examples below).
+
+
+Data: painters name Giorgio de Chirico. Giorgio de Chirico  rating poor. Giorgio de Chirico  genres animal painting, cityscape. Giorgio de Chirico  movements metaphysical painting.
+
+Data to Text for <verify_attribute>: I noticed you didn't like Giorgio de Chirico's paintings. Do you generally have a poor opinion of metaphysical animal and cityscape paintings?
+
+
+Data: painters name Salvador Dalí. Salvador Dalí  rating excellent. Salvador Dalí  genres allegory, landscape art.
+
+Data to Text for <verify_attribute>: I know you admire Salvador Dalí's work. Are you generally a fan of artists who specialize in allegorical and landscape art?
+
+
+Data: painters name Vincent van Gogh. Vincent van Gogh  rating excellent. Vincent van Gogh  genres Christian art, interior view. Vincent van Gogh  movements Expressionism, post-impressionism.
+
+Data to Text for <verify_attribute>: I remember you absolutely loved Vincent van Gogh's work. Does your admiration for Expressionism and post-impressionism extend to other Christian art and interior view painters as well?
+
+
+Data: painters name Francisco Goya. Francisco Goya  rating good. Francisco Goya  nationality Spanish. Francisco Goya  genres still life, battle painting.
+
+Data to Text for <verify_attribute>: I know you appreciate Francisco Goya's work. Are you generally a fan of Spanish painters who specialize in still life and battle paintings?
+
+
+Data: painters name Fernando Botero. Fernando Botero  rating good. Fernando Botero  nationality Colombian. Fernando Botero  genres portrait, figurative art. 
+
+Data to Text for <verify_attribute>: I see you have a good opinion of Fernando Botero's work. Is Colombian portrait and figurative art something you generally appreciate?
+
+
+Data: painters name Georgia O'Keeffe. Georgia O'Keeffe  rating good. Georgia O'Keeffe  nationality American. Georgia O'Keeffe  genres landscape art, feminist art. 
+
+Data to Text for <verify_attribute>: You seem to really like Georgia O'Keeffe's landscape and feminist art. Does your admiration for her work extend to other American artists who focus on similar themes?
+
+
+Data: painters name Ivan Aivazovsky. Ivan Aivazovsky  rating average. Ivan Aivazovsky  genres figure, portrait. Ivan Aivazovsky  nationality Russian.
+
+Data to Text for <verify_attribute>: You mentioned that you found Ivan Aivazovsky's paintings to be average. Do you generally have a lukewarm attitude towards Russian figure and portrait painters?
+
+
+Data: painters name Albert Bierstadt. Albert Bierstadt  rating poor. Albert Bierstadt  movements Hudson River school. Albert Bierstadt  nationality American.
+
+Data to Text for <verify_attribute>: Given that you found Albert Bierstadt's paintings to be poor, do you generally not enjoy artwork from the Hudson River school movement by American painters?
+
+
+Data: painters name Gerhard Richter. Gerhard Richter  rating poor. Gerhard Richter  genres Abstract art, landscape art. 
+
+Data to Text for <verify_attribute>: I know you're not a fan of Gerhard Richter's paintings. Do you generally dislike abstract and landscape art in the same way?
+
+
+Data: painters name John William Waterhouse. John William Waterhouse  rating average. John William Waterhouse  movements Symbolism, Pre-Raphaelite Brotherhood.
+
+Data to Text for <verify_attribute>: Based on your average rating of John William Waterhouse, do you generally have mixed feelings towards Symbolism and Pre-Raphaelite Brotherhood artists as well?

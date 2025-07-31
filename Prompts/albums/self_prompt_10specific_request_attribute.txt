@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain album's characteristic.
+
+
+Data: albums performer .
+
+Data to Text for <request_attribute>: Which performer do you prefer when it comes to music albums?
+
+
+Data: albums record label .
+
+Data to Text for <request_attribute>: What record label do you prefer for albums?
+
+
+Data: albums producer .
+
+Data to Text for <request_attribute>: Who is your favorite album producer?
+
+
+Data: albums genres .
+
+Data to Text for <request_attribute>: What genres of albums do you prefer?
+
+
+Data: albums publication year .
+
+Data to Text for <request_attribute>: Which publication year do you prefer when it comes to music albums?
+
+
+Data: albums performer .
+
+Data to Text for <request_attribute>: Which performer do you prefer as the main artist on a music album?
+
+
+Data: albums record label .
+
+Data to Text for <request_attribute>: Is there a record label whose albums you tend to enjoy or trust the most?
+
+
+Data: albums producer .
+
+Data to Text for <request_attribute>: Which producer do you look for when choosing an album?
+
+
+Data: albums genres .
+
+Data to Text for <request_attribute>: When picking an album, which genres do you usually go for?
+
+
+Data: albums performer .
+
+Data to Text for <request_attribute>: Is there a specific performer whose albums you tend to prefer or seek out?
+

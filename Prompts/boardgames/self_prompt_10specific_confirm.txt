@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a board game. In the response, ask for a confirmation of the given board game by referring to its attributes. Imagine that the board game's name has just been mentioned in the conversation, but you know of multiple board games with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the board game, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the board game your friend had in mind, and not that the attribute is not true about the given board game.
+
+
+Data: boardgames name Thurn and Taxis. Thurn and Taxis publisher Hans im Glück. Thurn and Taxis publication year 2006.
+
+Data to Text for <confirm>: Are you talking about the 2006 board game Thurn and Taxis from publisher Hans im Glück?
+
+
+Data: boardgames name Enchanted Forest. Enchanted Forest alternate names Rayas Journey: An Enchanted Forest Game, Sagaland, The Wizard of Oz. Enchanted Forest publisher Ravensburger.
+
+Data to Text for <confirm>: Are you referring to Enchanted Forest (or Rayas Journey: An Enchanted Forest Game, Sagaland, The Wizard of Oz), published by Ravensburger?
+
+
+Data: boardgames name Sherlock Holmes Consulting Detective. Sherlock Holmes Consulting Detective genre deduction game. Sherlock Holmes Consulting Detective alternate names Sherlock Holmes: Detective Asesor.
+
+Data to Text for <confirm>: Are you referring to the deduction game Sherlock Holmes Consulting Detective (or Sherlock Holmes: Detective Asesor)?
+
+
+Data: boardgames name Stratego. Stratego publisher Jumbo Games. Stratego genre board wargame.
+
+Data to Text for <confirm>: Are you talking about Jumbo Games' board wargame, Stratego?
+
+
+Data: boardgames name Mystery Motive for Murder. Mystery Motive for Murder developer Bruce Glassco. Mystery Motive for Murder genre mystery fiction.
+
+Data to Text for <confirm>: Are you talking about Bruce Glassco's Mystery Motive for Murder board game in the mystery fiction genre?
+
+
+Data: boardgames name Axis and Allies. Axis and Allies alternate names Axis and Allies. Axis and Allies country of origin United States of America.
+
+Data to Text for <confirm>: Are you referring to the United States of America board game Axis and Allies, also known as Axis and Allies?
+
+
+Data: boardgames name Afrikan tähti. Afrikan tähti genre roll-and-move. Afrikan tähti alternate names African Star, Diamond Hunt.
+
+Data to Text for <confirm>: Are you referring to the roll-and-move board game Afrikan tähti (or African Star, Diamond Hunt)?
+
+
+Data: boardgames name Lord of the Rings. Lord of the Rings publication year 2000. Lord of the Rings based on The Lord of the Rings.
+
+Data to Text for <confirm>: Are you referring to the Lord of the Rings board game, based on The Lord of the Rings, published in 2000?
+
+
+Data: boardgames name Scotland Yard. Scotland Yard game mechanics cooperative gameplay. Scotland Yard publisher Ravensburger.
+
+Data to Text for <confirm>: Are you talking about Ravensburger's Scotland Yard board game with cooperative gameplay?
+
+
+Data: boardgames name Axis and Allies. Axis and Allies developer Larry Harris. Axis and Allies genre board wargame.
+
+Data to Text for <confirm>: Are you talking about Larry Harris' board wargame, Axis and Allies?
+

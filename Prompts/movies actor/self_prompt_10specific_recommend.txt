@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with an actor you would recommend. In the response, bring up the given actor (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the actor, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the actor, and not that the attribute is not true about the given actor or that your friend does not like the actor.
+
+
+Data: movie actors name Bryan Cranston. Bryan Cranston rating highly rated. Bryan Cranston date of birth 1956.
+
+Data to Text for <recommend>: Have you seen Bryan Cranston's work? He's highly rated and was born in 1956.
+
+
+Data: movie actors name Johnny Depp. Johnny Depp spouse Amber Heard. Amber Heard occupation television movie actors.
+
+Data to Text for <recommend>: Are you familiar with Johnny Depp? His wife is Amber Heard, who is a television actor.
+
+
+Data: movie actors name Teri Hatcher. Teri Hatcher spouse Jon Tenney. Leslie Urdang spouse Jon Tenney.
+
+Data to Text for <recommend>: Do you know about the actors Teri Hatcher and Leslie Urdang? They're both married to Jon Tenney.
+
+
+Data: movie actors name Farrah Fawcett. Farrah Fawcett spouse Lee Majors. Karen Velez spouse Lee Majors.
+
+Data to Text for <recommend>: Have you checked out Farrah Fawcett? She was an actor whose spouse was Lee Majors, just like Karen Velez.
+
+
+Data: movie actors name Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation. Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation cast member Liam Neeson. Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation cast member Jason Donovan.
+
+Data to Text for <recommend>: Have you seen the work of Liam Neeson and Jason Donovan in Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation? They're both great actors.
+
+
+Data: movie actors name Brad Garrett. Brad Garrett rating lower rated.
+
+Data to Text for <recommend>: Have you ever checked out Brad Garrett? He might be lower rated, but his performances are worth watching.
+
+
+Data: movie actors name Desperate Housewives. Desperate Housewives cast member Teri Hatcher. Desperate Housewives cast member Roselyn Sánchez.
+
+Data to Text for <recommend>: Are you familiar with Teri Hatcher? She was a cast member on Desperate Housewives, along with Roselyn Sánchez.
+
+
+Data: movie actors name White Collar. White Collar cast member Tiffani Thiessen. White Collar cast member Alexandra Daddario.
+
+Data to Text for <recommend>: Have you ever watched White Collar? If so, you may know the actors Tiffani Thiessen and Alexandra Daddario.
+
+
+Data: movie actors name Michael Jackson. Michael Jackson spouse Lisa Marie Presley. Lisa Marie Presley sex or gender female.
+
+Data to Text for <recommend>: Did you know about Michael Jackson? His wife is Lisa Marie Presley, a female actor.
+
+
+Data: movie actors name Miguel Angel Hurtado Delgado. Miguel Angel Hurtado Delgado occupation Yukio Mishima. Miguel Angel Hurtado Delgado place of birth http://www.wikidata.org/entity/Q13189157.
+
+Data to Text for <recommend>: Have you heard of Yukio Mishima? He's an actor from Miguel Angel Hurtado Delgado who was born in http://www.wikidata.org/entity/Q13189157.
+

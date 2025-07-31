@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of cats in general. In the response, state an observation about your friend's attitude to the given cat and then ask him or her whether it generalizes to all cats of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given cat's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all cats of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: cats name Turkish Angora. Turkish Angora rating excellent. Turkish Angora grooming little grooming. Turkish Angora other pets friendly friendly to other pets.
+
+Data to Text for <verify_attribute>: I remember you saying that you love the Turkish Angora. Do you love all cats that require little grooming and are friendly to other pets?
+
+
+Data: cats name Colorpoint Shorthair. Colorpoint Shorthair rating okay. Colorpoint Shorthair min life expectancy 12.
+
+Data to Text for <verify_attribute>: You said you felt okay about the Colorpoint Shorthair. Are you okay with other cat breeds that have a minimum life expectancy of 12 years?
+
+
+Data: cats name Toyger. Toyger rating okay. Toyger playfulness very playful.
+
+Data to Text for <verify_attribute>: I recall that you thought the Toyger was just okay. Is that how you feel about other very playful cats?
+
+
+Data: cats name Devon Rex. Devon Rex rating good. Devon Rex origin Devon, England.
+
+Data to Text for <verify_attribute>: You said you had a good opinion of the Devon Rex. Do you generally like cats from Devon, England?
+
+
+Data: cats name Chinese Li Hua. Chinese Li Hua rating good. Chinese Li Hua shedding average shedding. Chinese Li Hua length Medium to large.
+
+Data to Text for <verify_attribute>: I know you find the Chinese Li Hua to be good. Do you generally like cats that are medium to large in size and have an average shedding rate?
+
+
+Data: cats name Chantilly-Tiffany. Chantilly-Tiffany rating okay. Chantilly-Tiffany origin United States.
+
+Data to Text for <verify_attribute>: I remember that you said the Chantilly-Tiffany was okay. Is that the case for all cat breeds from the United States?
+
+
+Data: cats name Ragdoll Cats. Ragdoll Cats rating okay. Ragdoll Cats children friendly most kid-friendly. Ragdoll Cats length 17 to 21 inches, not including tail.
+
+Data to Text for <verify_attribute>: I remember you saying that you thought Ragdoll cats were okay. Do you think that most kid-friendly cats that are 17 to 21 inches long, not including the tail, are okay too?
+
+
+Data: cats name Asian. Asian rating excellent. Asian meowing often meows. Asian grooming average amount of grooming.
+
+Data to Text for <verify_attribute>: I know that you love Asian cats. Do you feel the same way about other cat breeds that meow often and require an average amount of grooming?
+
+
+Data: cats name European Shorthair. European Shorthair rating okay. European Shorthair children friendly most kid-friendly. European Shorthair intelligence very intelligent.
+
+Data to Text for <verify_attribute>: You said that the European Shorthair was okay. Are you generally okay with most kid-friendly and very intelligent cats?
+
+
+Data: cats name Khao Manee. Khao Manee rating okay. Khao Manee min weight 8.0.
+
+Data to Text for <verify_attribute>: You told me that you had an okay opinion of the Khao Manee. Do you generally find cats that weigh 8.0 pounds or less to be okay?
+

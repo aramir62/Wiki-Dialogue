@@ -1,0 +1,52 @@
+description of <verify_attribute>: A response in which you verify whether your friend (dis)likes a certain type of dogs in general. In the response, state an observation about your friend's attitude to the given dog and then ask him or her whether it generalizes to all dogs of that type. The response should consist of 2 sentences: The first one will be the observation based on the Liking attribute and including the given dog's name. The second will be a yes/no question verifying that your friend has the observed attitude towards all dogs of the same type (determined by the remaining given attributes). The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: dogs name English Setter. English Setter trainability easy trainable. English Setter max life expectancy 12.
+
+Data to Text for <verify_attribute>: I know you said the English Setter is easily trainable. Do you think the same of other animals with a maximum life expectancy of 12 years?
+
+
+Data: dogs name German Pinscher.
+
+Data to Text for <verify_attribute>: You didn't mention anything about German Pinschers. Are you interested in learning more about them?
+
+
+Data: dogs name Havanese. Havanese good with other dogs most friendly to other dogs. Havanese trainability easy trainable.
+
+Data to Text for <verify_attribute>: You said that Havanese are really friendly to other dogs. Are other dogs that are easy to train also usually friendly?
+
+
+Data: dogs name Drentsche Patrijshond.
+
+Data to Text for <verify_attribute>: I'm not sure what your opinion is on the Drentsche Patrijshond. Do you generally like animals of this type?
+
+
+Data: dogs name Anatolian Shepherd Dog. Anatolian Shepherd Dog ratings alright.
+
+Data to Text for <verify_attribute>: I remember you saying that the Anatolian Shepherd Dog is
+
+
+Data: dogs name Labrador Retriever. Labrador Retriever ratings excellent. Labrador Retriever max height female 24.5.
+
+Data to Text for <verify_attribute>: You told me that you absolutely love Labrador Retrievers. Do you love all dogs with a maximum female height of 24.5 inches as well?
+
+
+Data: dogs name Peruvian Inca Orchid.
+
+Data to Text for <verify_attribute>: I don't think we've talked about the Peruvian Inca Orchid before. Are you interested in animals from this breed?
+
+
+Data: dogs name Bluetick Coonhound. Bluetick Coonhound good with children kid-friendly. Bluetick Coonhound protectiveness semi alert.
+
+Data to Text for <verify_attribute>: You said you found the Bluetick Coonhound a  kid-friendly breed. Is that same opinion true for other semi alert dogs?
+
+
+Data: dogs name Nova Scotia Duck Tolling Retriever. Nova Scotia Duck Tolling Retriever max life expectancy 14. Nova Scotia Duck Tolling Retriever max weight male 50.0.
+
+Data to Text for <verify_attribute>: You seemed to be a bit ambivalent about the Nova Scotia Duck Tolling Retriever. Are you also ambivalent about other animals that have a life expectancy of 14 years and a male weight of 50.0 pounds?
+
+
+Data: dogs name Field Spaniel. Field Spaniel drooling sometimes drool.
+
+Data to Text for <verify_attribute>: I know that the Field Spaniel sometimes drools. Do other animals have this same trait?
+

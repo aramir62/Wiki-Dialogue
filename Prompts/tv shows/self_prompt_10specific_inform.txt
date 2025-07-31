@@ -1,0 +1,52 @@
+description of <inform>: A summary of the TV show based on the information provided in the description table. The summary would typically consist of 1-3 sentences, depending on the amount of information presented in the table. The information does not have to be presented in the same order as you see it in the description table. In fact, we want you to shuffle the information around, while combining related pieces of information in the same sentence.
+
+
+Data: tv shows name Wolf Hall. Wolf Hall characters Anne Boleyn. The Tudors characters Anne Boleyn. The Tudors genre drama television series. Wolf Hall characters Thomas Wolsey. Wolf Hall characters Edward Seymour, 1st Duke of Somerset. Wolf Hall characters Jane Boleyn, Viscountess Rochford.
+
+Data to Text for <inform>: Wolf Hall is a drama television series starring Anne Boleyn, Thomas Wolsey, Edward Seymour, 1st Duke of Somerset, and Jane Boleyn, Viscountess Rochford.
+
+
+Data: tv shows name Peacemaker. Peacemaker cast member John Cena. WWE Monday Night RAW cast member John Cena. WWE Monday Night RAW genre professional wrestling.
+
+Data to Text for <inform>: Peacemaker stars John Cena, who also appears in professional wrestling show WWE Monday Night RAW.
+
+
+Data: tv shows name The Musketeers. The Musketeers genre swashbuckler film. The Three Musketeers genre swashbuckler film. The Three Musketeers screenwriter Monkey Punch. The Musketeers characters Bonacieux. The Musketeers characters Louis XIII of France.
+
+Data to Text for <inform>: The Musketeers and The Three Musketeers are swashbuckler films featuring characters Bonacieux and Louis XIII of France. The Three Musketeers was written by Monkey Punch.
+
+
+Data: tv shows name Atlanta. Atlanta creator Donald Glover. Donald Glover genre hip hop music. Donald Glover award received Grammy Awards.
+
+Data to Text for <inform>: Donald Glover created Atlanta, a hip hop music which received Grammy Awards.
+
+
+Data: tv shows name Gunpowder. Gunpowder characters Guy Fawkes. Gunpowder, Treason & Plot characters Guy Fawkes. Gunpowder, Treason & Plot genre docudrama. Gunpowder rating average.
+
+Data to Text for <inform>: Gunpowder, Treason & Plot is an average-rated docudrama about Guy Fawkes.
+
+
+Data: tv shows name Devils. Devils genre financial thriller. Bonus Time genre financial thriller. http://www.wikidata.org/entity/Q21004416 genre financial thriller.
+
+Data to Text for <inform>: Devils, Bonus Time, and http://www.wikidata.org/entity/Q21004416 are all financial thrillers for television.
+
+
+Data: tv shows name Cougar Town. Cougar Town cast member Alanis Morissette. Under Rug Swept producer Alanis Morissette. Under Rug Swept genre pop rock.
+
+Data to Text for <inform>: Cougar Town stars Alanis Morissette, who also produced the pop rock album Under Rug Swept.
+
+
+Data: tv shows name Bordertown. Bordertown genre Nordic noir. The Bridge genre Nordic noir. Bordertown cast member Olivia Ainali.
+
+Data to Text for <inform>: Bordertown is a Nordic noir with Olivia Ainali as a cast member.
+
+
+Data: tv shows name Downton Abbey. Downton Abbey genre LGBTI+ related TV series. Heroes genre LGBTI+ related TV series. Holly's World genre LGBTI+ related TV series.
+
+Data to Text for <inform>: Downton Abbey, Heroes, and Holly's World are LGBTI+ related TV series.
+
+
+Data: tv shows name Ms. Marvel. Ms. Marvel genre action-adventure film.
+
+Data to Text for <inform>: Ms. Marvel is an action-adventure film.
+

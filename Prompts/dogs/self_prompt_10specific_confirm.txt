@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a dog. In the response, ask for a confirmation of the given dog by referring to its attributes. Imagine that the dog's name has just been mentioned in the conversation, but you know of multiple dogs with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the dog, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the dog your friend had in mind, and not that the attribute is not true about the given dog.
+
+
+Data: dogs name Basenji.
+
+Data to Text for <confirm>: Are you referring to the Basenji?
+
+
+Data: dogs name Great Pyrenees. Great Pyrenees good with other dogs friendly to other dogs. Great Pyrenees max height male 32.0.
+
+Data to Text for <confirm>: Do you mean the Great Pyrenees, a dog that is good with other dogs and friendly to other dogs, which has a maximum height of 32.0 for males?
+
+
+Data: dogs name Dogue de Bordeaux. Dogue de Bordeaux energy energetic. Dogue de Bordeaux grooming most grooming.
+
+Data to Text for <confirm>: Do you mean the Dogue de Bordeaux, the one known for being energetic and requiring the most grooming?
+
+
+Data: dogs name Parson Russell Terrier. Parson Russell Terrier playfulness very playful.
+
+Data to Text for <confirm>: Are you talking about the very playful Parson Russell Terrier?
+
+
+Data: dogs name Brittany. Brittany max weight male 40.0. Brittany protectiveness alert.
+
+Data to Text for <confirm>: Are you discussing the alert and protective breed of dog called the Brittany whose males can weigh up to 40.0?
+
+
+Data: dogs name Petit Basset Griffon Vendéen. Petit Basset Griffon Vendéen ratings okay.
+
+Data to Text for <confirm>: Do you mean the Petit Basset Griffon Vendéen, which is rated as okay?
+
+
+Data: dogs name Central Asian Shepherd Dog. Central Asian Shepherd Dog playfulness playful. Central Asian Shepherd Dog shedding average shedding.
+
+Data to Text for <confirm>: Is the animal you are referring to the playful Central Asian Shepherd Dog that has an average amount of shedding?
+
+
+Data: dogs name Norwegian Lundehund. Norwegian Lundehund max life expectancy 15. Norwegian Lundehund max weight female 30.0.
+
+Data to Text for <confirm>: Do you mean the Norwegian Lundehund with a maximum life expectancy of 15 years and a maximum weight for females of 30.0 pounds?
+
+
+Data: dogs name Nova Scotia Duck Tolling Retriever. Nova Scotia Duck Tolling Retriever energy high energy.
+
+Data to Text for <confirm>: Do you mean the high energy Nova Scotia Duck Tolling Retriever?
+
+
+Data: dogs name Irish Water Spaniel. Irish Water Spaniel max life expectancy 13. Irish Water Spaniel good with strangers friendly to strangers.
+
+Data to Text for <confirm>: Are you talking about the Irish Water Spaniel that typically lives up to 13 years and is friendly to strangers?
+

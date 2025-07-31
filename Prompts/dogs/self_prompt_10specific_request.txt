@@ -1,0 +1,52 @@
+description of <request>: A casual prompt to start talking about a dog. In the response, prompt your friend to name a dog which he or she might want to discuss with you. The response should consist of a single question that uses the given specifier and the given attribute to focus the question. The question must be formulated in such a way that the expected answer would be the name of a single dog, or a yes/no answer (followed by the name of a dog in the yes-case). The specifier used in the question serves to narrow down your friend's options (e.g., favorite, most boring, recent, future, etc.).
+
+
+Data: dogs specifier anxious. dogs drooling average drool. dogs trainability easy trainable.
+
+Data to Text for <request>: Do you know of any anxious animals that drool on average and are easy to train?
+
+
+Data: dogs specifier needy. dogs coat length short coat.
+
+Data to Text for <request>: Is there a needy animal with a short coat?
+
+
+Data: dogs specifier intelligent. dogs max height male 28.0.
+
+Data to Text for <request>: Can you name an intelligent male animal animal who is 28.0 inches tall or shorter?
+
+
+Data: dogs specifier energetic. dogs ratings alright.
+
+Data to Text for <request>: Are there any energetic animals that have alright ratings?
+
+
+Data: dogs specifier playful. dogs shedding average shedding. dogs good with children most kid-friendly.
+
+Data to Text for <request>: What playful animal has an average shedding rate and is known to be most kid-friendly?
+
+
+Data: dogs specifier playful. dogs max life expectancy 15. dogs max weight male 53.0.
+
+Data to Text for <request>: Can you think of any playful animals with a maximum life expectancy of 15 and a maximum weight of 53.0 lbs (male) for their species?
+
+
+Data: dogs specifier affectionate. dogs good with other dogs not friendly to other dogs. dogs max weight female 65.0.
+
+Data to Text for <request>: Do you know of any affectionate dogs that weigh up to 65 pounds and are good with other dogs but not friendly towards them?
+
+
+Data: dogs specifier stubborn. dogs max life expectancy 18. dogs drooling never drools.
+
+Data to Text for <request>: Is there a stubborn animal that can live up to 18 years and never drools?
+
+
+Data: dogs specifier loyal. dogs max height female 23.5.
+
+Data to Text for <request>: Do you know of any loyal female animals no taller than 23.5 inches?
+
+
+Data: dogs specifier needy. dogs max weight male 130.0. dogs max weight female 120.0.
+
+Data to Text for <request>: Are you familiar with any needy animals who weigh up to 130.0 pounds for males, or 120.0 pounds for females?
+

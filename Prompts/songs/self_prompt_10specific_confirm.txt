@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm a song. In the response, ask for a confirmation of the given song by referring to its attributes. Imagine that the song's name has just been mentioned in the conversation, but you know of multiple songs with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the song, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the song your friend had in mind, and not that the attribute is not true about the given song.
+
+
+Data: songs name For a Friend. For a Friend publication year 1988. For a Friend performer The Communards.
+
+Data to Text for <confirm>: Are you referring to The Communards' 1988 track For a Friend?
+
+
+Data: songs name Dog Eat Dog. Dog Eat Dog record label Sony Music.
+
+Data to Text for <confirm>: Is Dog Eat Dog from Sony Music?
+
+
+Data: songs name I Still.... I Still... record label Jive Records. I Still... publication year 2005.
+
+Data to Text for <confirm>: Do you mean I Still..., released in 2005 on Jive Records?
+
+
+Data: songs name Over It. Over It performer Katharine McPhee.
+
+Data to Text for <confirm>: Is Over It performed by Katharine McPhee?
+
+
+Data: songs name Money, Cash, Hoes. Money, Cash, Hoes genres East Coast hip hop.
+
+Data to Text for <confirm>: Are you referring to Money, Cash, Hoes, an East Coast hip hop song?
+
+
+Data: songs name Pumped Up Kicks. Pumped Up Kicks performer Foster the People. Pumped Up Kicks from album Torches.
+
+Data to Text for <confirm>: Is Pumped Up Kicks from the Foster the People album Torches?
+
+
+Data: songs name King of Sorrow. King of Sorrow producer Sade Adu. King of Sorrow genres contemporary R&B.
+
+Data to Text for <confirm>: Are you referring to Sade Adu's King of Sorrow, a contemporary R&B track?
+
+
+Data: songs name Dragostea Din Tei. Dragostea Din Tei record label Ultra Records.
+
+Data to Text for <confirm>: Is Dragostea Din Tei from Ultra Records?
+
+
+Data: songs name The Way I Are. The Way I Are performer Bebe Rexha.
+
+Data to Text for <confirm>: Are you talking about Bebe Rexha's song The Way I Are?
+
+
+Data: songs name Wanna Get to Know You. Wanna Get to Know You performer Joe, G-Unit.
+
+Data to Text for <confirm>: Are you referring to Wanna Get to Know You by Joe and G-Unit?
+

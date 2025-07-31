@@ -1,0 +1,52 @@
+description of <request_attribute>: A question about a preference in a certain dog's characteristic.
+
+
+Data: dogs good with strangers.
+
+Data to Text for <request_attribute>: Do you prefer an animal that is good with strangers?
+
+
+Data: dogs max weight male.
+
+Data to Text for <request_attribute>: What is the maximum weight of a male animal?
+
+
+Data: dogs good with children.
+
+Data to Text for <request_attribute>: Are animals that are good with children preferable to you?
+
+
+Data: dogs trainability.
+
+Data to Text for <request_attribute>: How trainable is your favorite animal?
+
+
+Data: dogs barking.
+
+Data to Text for <request_attribute>: Do you prefer animals that bark or animals that don't bark?
+
+
+Data: dogs drooling. dogs max weight male 90.0.
+
+Data to Text for <request_attribute>: Do you prefer animals that drool and have a maximum weight of 90.0 pounds for males?
+
+
+Data: dogs protectiveness.
+
+Data to Text for <request_attribute>: How protective is your favorite animal?
+
+
+Data: dogs coat length.
+
+Data to Text for <request_attribute>: What length of coat do you prefer for animals?
+
+
+Data: dogs ratings.
+
+Data to Text for <request_attribute>: What rating do you give the animals in the animal domain?
+
+
+Data: dogs good with other dogs.
+
+Data to Text for <request_attribute>: Is your favorite animal good with other dogs?
+

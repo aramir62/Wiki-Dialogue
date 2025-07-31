@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given musician and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: musicians name Haricharan. Haricharan rating okay. Haricharan genres folk-pop.
+
+Data to Text for <give_opinion>: I think that Haricharan is a decent folk-pop musician.
+
+
+Data: musicians name Clint Eastwood. Clint Eastwood rating excellent. Clint Eastwood award received Screen Actors Guild Life Achievement Award. Rita Moreno award received Screen Actors Guild Life Achievement Award.
+
+Data to Text for <give_opinion>: Clint Eastwood and Rita Moreno are excellent actors, both of them having received the Screen Actors Guild Life Achievement Award.
+
+
+Data: musicians name Rufus Thomas. Rufus Thomas rating okay. Rufus Thomas awards N/A. Rufus Thomas record label Chess Records.
+
+Data to Text for <give_opinion>: Rufus Thomas is an okay artist in my opinion, although he didn't get any awards. He was signed with Chess Records.
+
+
+Data: musicians name Kip Moore. Kip Moore rating okay. Slowheart performer Kip Moore.
+
+Data to Text for <give_opinion>: I find Kip Moore's album, Slowheart, to be okay - not great, but not bad either.
+
+
+Data: musicians name Ariana Grande. Ariana Grande rating good. Ariana Grande genre samba. Diogo Nogueira genre samba.
+
+Data to Text for <give_opinion>: Ariana Grande and Diogo Nogueira both produce good samba music.
+
+
+Data: musicians name Ricki-Lee. Ricki-Lee rating okay. Can't Sing a Different Song performer Ricki-Lee.
+
+Data to Text for <give_opinion>: Ricki-Lee did an okay job with her song "Can't Sing a Different Song".
+
+
+Data: musicians name Austin Butler. Austin Butler rating okay. Austin Butler performer of Wil Ohmsford.
+
+Data to Text for <give_opinion>: Austin Butler's performance as Wil Ohmsford was decent, in my opinion.
+
+
+Data: musicians name Zendaya. Zendaya rating excellent. Zendaya award received Satellite Award for Best Actress – Television Series Drama. Zendaya award received Saturn Award for Best Supporting Actress.
+
+Data to Text for <give_opinion>: Zendaya is an excellent actress, she has won the Satellite Award for Best Actress – Television Series Drama and the Saturn Award for Best Supporting Actress.
+
+
+Data: musicians name Michael Jackson. Michael Jackson rating excellent. Michael Jackson genre hard rock. Iggy Pop genre hard rock.
+
+Data to Text for <give_opinion>: Both Michael Jackson and Iggy Pop are excellent hard rock musicians.
+
+
+Data: musicians name Selena Gomez. Selena Gomez rating excellent. Selena Gomez from United States of America.
+
+Data to Text for <give_opinion>: Selena Gomez is a great musician from the United States of America. I love her work!
+

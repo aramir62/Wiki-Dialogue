@@ -1,0 +1,52 @@
+description of <give_opinion>: An expression of opinion along with its justification. In the response, express an opinion (not your own though!) of the given TV show and provide a justification of the opinion, both based on the attributes.The response may consist of 1 or 2 sentences, but it must contain both an opinion and its justification. The justification will also be based on the given attributes. The value of the Liking attribute may be adapted to fit the justification better, but it must still express the same level of liking, e.g., "excellent" ~ "love", "average" ~ "decent"/"mediocre", or "poor" ~ "boring" (see examples below).
+
+
+Data: tv shows name Obi-Wan Kenobi. Obi-Wan Kenobi review score average. Obi-Wan Kenobi genre science fiction.
+
+Data to Text for <give_opinion>: I think Obi-Wan Kenobi is an average science fiction show.
+
+
+Data: tv shows name Freud. Freud rating poor. Freud characters Arthur Schnitzler. Freud characters Amalia Freud.
+
+Data to Text for <give_opinion>: Freud had a poor rating due to its complex characters such as Arthur Schnitzler and Amalia Freud.
+
+
+Data: tv shows name Dae Jang Geum. Dae Jang Geum rating poor. Dae Jang Geum cast member Lee Young-ae. Lee Young-ae award received Blue Dragon Film Award for Best Actress.
+
+Data to Text for <give_opinion>: Despite the impressive acting of Lee Young-ae, who won the Blue Dragon Film Award for Best Actress, the rating for Dae Jang Geum was still poor.
+
+
+Data: tv shows name Downton Abbey. Downton Abbey rating good. Downton Abbey genre LGBTI+ related TV series. Ellen genre LGBTI+ related TV series.
+
+Data to Text for <give_opinion>: Downton Abbey is a good LGBTI+ related TV series that is worth watching.
+
+
+Data: tv shows name Ekaterina. Ekaterina rating poor. Ekaterina producer Len Blavatnik. Len Blavatnik award received Knight Bachelor.
+
+Data to Text for <give_opinion>: Ekaterina was not a great show, even though Len Blavatnik was awarded the Knight Bachelor.
+
+
+Data: tv shows name Devils. Devils rating average. Devils genre financial thriller. Bonus Time genre financial thriller.
+
+Data to Text for <give_opinion>: Devils is an average financial thriller, but I think it could have been done better than Bonus Time.
+
+
+Data: tv shows name Drop Dead Diva. Drop Dead Diva rating poor. Drop Dead Diva producer Neil Meron. 85th Academy Awards producer Neil Meron.
+
+Data to Text for <give_opinion>: I didn't enjoy Drop Dead Diva and its poor rating reflects this. Despite Neil Meron's success as a producer at the 85th Academy Awards, his work on Drop Dead Diva was not up to standard.
+
+
+Data: tv shows name Knightfall. Knightfall rating poor. Knightfall producer Jeremy Renner. Jeremy Renner award received Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture.
+
+Data to Text for <give_opinion>: Despite the fact that producer Jeremy Renner won a Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture, Knightfall still has a poor rating.
+
+
+Data: tv shows name Breaking Bad. Breaking Bad rating excellent. Breaking Bad creator Vince Gilligan. Better Call Saul creator Vince Gilligan.
+
+Data to Text for <give_opinion>: Breaking Bad is an excellent show with great writing from Vince Gilligan, who also created Better Call Saul.
+
+
+Data: tv shows name Lucifer. Lucifer rating good. Lucifer genre fantasy television series. Ben 10: Ultimate Alien genre fantasy television series.
+
+Data to Text for <give_opinion>: Lucifer is a good fantasy television series and stands out compared to other fantasy TV series like Ben 10: Ultimate Alien.
+

@@ -1,0 +1,52 @@
+description of <recommend>: A question asking if your friend is familiar with a board game you would recommend. In the response, bring up the given board game (in a recommending way) because it has certain attributes that were discussed earlier in the conversation. Imagine that the information in the given attributes was recently mentioned in the conversation, or that you inferred them as your friend's preferences. The response may consist of 1 or 2 sentences, but it must end in a yes/no question (possibly an indirect one, such as "..., I was wondering if..."). Make sure you ask about the board game, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that your friend has not seen/heard about the board game, and not that the attribute is not true about the given board game or that your friend does not like the board game.
+
+
+Data: boardgames name Sherlock Holmes Consulting Detective. Sherlock Holmes Consulting Detective game mechanics gamebook. Dmitry Braslavsky genre gamebook.
+
+Data to Text for <recommend>: Have you ever tried gamebooks? I think you'd like Sherlock Holmes Consulting Detective and Dmitry Braslavsky.
+
+
+Data: boardgames name Star Realms. Star Realms instance of boardgames.
+
+Data to Text for <recommend>: How about Star Realms? It's a board game.
+
+
+Data: boardgames name Lord of the Rings. Lord of the Rings based on The Lord of the Rings. The Lord of the Rings genre adventure fiction.
+
+Data to Text for <recommend>: Are you familiar with Lord of the Rings or The Lord of the Rings genre adventure fiction? They're based on The Lord of the Rings.
+
+
+Data: boardgames name Crossings. Crossings genre abstract strategy game. Really Bad Chess genre abstract strategy game.
+
+Data to Text for <recommend>: If you're into abstract strategy games, why not try Crossings or Really Bad Chess?
+
+
+Data: boardgames name Carcassonne. Carcassonne publisher Hans im Glück. Hawaii publisher Hans im Glück.
+
+Data to Text for <recommend>: How about Carcassonne and Hawaii from Hans im Glück?
+
+
+Data: boardgames name Mystery! Motive for Murder. Mystery! Motive for Murder publisher Mayfair Games. Anno 1503 publisher Mayfair Games.
+
+Data to Text for <recommend>: Mayfair Games has some great board games. Have you checked out Mystery! Motive for Murder or Anno 1503?
+
+
+Data: boardgames name Scotland Yard. Scotland Yard alternate names Fanton. Scotland Yard game mechanics cooperative gameplay.
+
+Data to Text for <recommend>: Have you played Scotland Yard, with its alternate name Fanton, and cooperative gameplay mechanics?
+
+
+Data: boardgames name Punaisten ja valkoisten taistelu Suomessa 1918. Punaisten ja valkoisten taistelu Suomessa 1918 genre wargame. Space Empires 4X genre wargame.
+
+Data to Text for <recommend>: For wargames, how about Punaisten ja valkoisten taistelu Suomessa 1918 or Space Empires 4X?
+
+
+Data: boardgames name Cosmic Encounter. Cosmic Encounter genre science fiction. Twilight Imperium genre science fiction.
+
+Data to Text for <recommend>: Do you like science fiction? If so, you should try Cosmic Encounter and Twilight Imperium.
+
+
+Data: boardgames name Yomi. Yomi genre card game.
+
+Data to Text for <recommend>: Have you heard of the board game Yomi, which is also a card game?
+

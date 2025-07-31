@@ -1,0 +1,52 @@
+description of <confirm>: A question trying to confirm an animal. In the response, ask for a confirmation of the given animal by referring to its attributes. Imagine that the animal's name has just been mentioned in the conversation, but you know of multiple animals with that name and want to verify if your friend meant the same one as you. The response should consist of a single yes/no question. Make sure you ask about the animal, not the attribute(s), nor the friend's opinion. In other words, a "no" answer to your question should mean that that is not the animal your friend had in mind, and not that the attribute is not true about the given animal.
+
+
+Data: wild animals name Squirrelfish. Squirrelfish common class fish. Squirrelfish other names striped squirrelfish.
+
+Data to Text for <confirm>: Do you mean the fish known as the Squirrelfish or the striped Squirrelfish?
+
+
+Data: wild animals name Moon Jellyfish. Moon Jellyfish common class fish. Moon Jellyfish lifespan adults: 12 to 16 months in aquarium tank captivity; polyps: 25 years.
+
+Data to Text for <confirm>: Are you referring to the fish called the Moon Jellyfish that has a lifespan of adults: 12 to 16 months in aquarium tank captivity; polyps: 25 years?
+
+
+Data: wild animals name Zebu. Zebu common class Mammal. Zebu slogan There are around 75 different species!.
+
+Data to Text for <confirm>: Do you mean the Mammal called Zebu, of which there are around 75 different species?
+
+
+Data: wild animals name Blue Jay. Blue Jay common class bird. Blue Jay habitat Low forest areas, oak and beech trees, city parks, residential areas.
+
+Data to Text for <confirm>: Do you mean the bird known as the Blue Jay that inhabits  Low forest areas, oak and beech trees, city parks, and residential areas?
+
+
+Data: wild animals name Death’s Head Cockroach. Death’s Head Cockroach common class Insect. Death’s Head Cockroach estimated population size Millions.
+
+Data to Text for <confirm>: Do you mean the Insect whose estimated population size is in the Millions, the Death's Head Cockroach?
+
+
+Data: wild animals name Douc. Douc common class Mammal. Douc most distinctive feature Its colors, especially the colors of the red-shanked douc.
+
+Data to Text for <confirm>: Do you mean the mammal called the Douc, with its most distinctive feature being its colors, especially the colors of the red-shanked douc?
+
+
+Data: wild animals name Asian Cockroach. Asian Cockroach common class Insect. Asian Cockroach diet Omnivore.
+
+Data to Text for <confirm>: Are you referring to the Insect known as the Asian Cockroach, which is an Omnivore?
+
+
+Data: wild animals name Walrus. Walrus common class Mammal. Walrus weight 400kg - 1,700kg 880lbs - 3,740lbs.
+
+Data to Text for <confirm>: Do you mean the Mammal called Walrus that has a weight range of 400kg - 1,700kg (880lbs - 3,740lbs)?
+
+
+Data: wild animals name Giant Armadillo. Giant Armadillo common class Mammal. Giant Armadillo habitat Rainforests, savannas, dry and semiarid woods, floodplains in Brazil, other places where there’s a steady supply of termites.
+
+Data to Text for <confirm>: Do you mean the Mammal known as the Giant Armadillo that inhabits Rainforests, savannas, dry and semiarid woods, floodplains in Brazil, and other places where there’s a steady supply of termites?
+
+
+Data: wild animals name Red Tail Boa common boa. Red Tail Boa common boa common class reptile. Red Tail Boa common boa lifespan 20-30 years.
+
+Data to Text for <confirm>: Do you mean the reptile, the Red Tail Boa, which typically lives for 20-30 years?
+

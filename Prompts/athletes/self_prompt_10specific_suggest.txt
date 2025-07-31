@@ -1,0 +1,52 @@
+description of <suggest>: A question asking if your friend has any experience with a certain type of athletes. In the response, ask your friend if he or she has experience with a certain type of athletes, suggesting the given athlete as an example of such an athlete. The response should consist of a single yes/no question (possibly an indirect one, such as "I was wondering if..."), with the athlete name at the end as an example. Make sure you ask about the general category of athletes corresponding to the given attributes, not the example athlete directly, nor the friend's general opinion. In other words, a "no" answer to your question should mean that your friend has no experience or is not fond of such athletes, and not that your friend does not like the given athlete.
+
+
+Data: athletes name O. J. Simpson. O. J. Simpson awards Pro Football Hall of Fame. O. J. Simpson place of birth San Francisco.
+
+Data to Text for <suggest>: Have you ever heard of any Pro Football Hall of Famer born in San Francisco, like O. J. Simpson?
+
+
+Data: athletes name Lionel Messi. Lionel Messi place of birth Rosario.
+
+Data to Text for <suggest>: Are you familiar with athletes from Rosario, such as Lionel Messi?
+
+
+Data: athletes name Magic Johnson. Magic Johnson stats leader 1990 NBA All-Star Game.
+
+Data to Text for <suggest>: Have you been following Magic Johnson's stats since the 1990 NBA All-Star Game?
+
+
+Data: athletes name Zizinho. Zizinho member of sports team Clube de Regatas do Flamengo. Clube de Regatas do Flamengo sport beach volleyball.
+
+Data to Text for <suggest>: Did you ever follow any beach volleyball players who were members of Clube de Regatas do Flamengo, like Zizinho?
+
+
+Data: athletes name Robert Lewandowski. Robert Lewandowski stats leader 2018 FIFA World Cup qualification (UEFA). Robert Lewandowski sports teams FC Barcelona.
+
+Data to Text for <suggest>: Have you ever followed Robert Lewandowski's stats while he was playing for FC Barcelona during the 2018 FIFA World Cup qualification (UEFA)?
+
+
+Data: athletes name Billy Vunipola. Billy Vunipola height 188.
+
+Data to Text for <suggest>: Do you know any athletes that are over 188 cm tall, like Billy Vunipola?
+
+
+Data: athletes name David Beckham. David Beckham sports teams Preston North End F.C., A.C. Milan. David Beckham place of birth London.
+
+Data to Text for <suggest>: Have you been following the career of the London born athlete David Beckham, who played for Preston North End F.C. and A.C. Milan?
+
+
+Data: athletes name Wayne Rooney. Wayne Rooney sports teams England national association football team, England national under-19 association football team.
+
+Data to Text for <suggest>: Did you ever follow the career of Wayne Rooney with the England national association football team or the England national under-19 association football team?
+
+
+Data: athletes name Ahmad Nourollahi. Ahmad Nourollahi position played on team / speciality midfielder. Gabriel Özkan position played on team / speciality midfielder.
+
+Data to Text for <suggest>: Do you know any midfielders, such as Ahmad Nourollahi and Gabriel Özkan?
+
+
+Data: athletes name Arike Ogunbowale. Arike Ogunbowale stats leader 2021 WNBA All-Star Game. Arike Ogunbowale awards NCAA Basketball Tournament Most Outstanding Player.
+
+Data to Text for <suggest>: Are you familiar with the NCAA Basketball Tournament Most Outstanding Player, Arike Ogunbowale, who led in stats at the 2021 WNBA All-Star Game?
+
