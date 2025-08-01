@@ -76,10 +76,7 @@ Paper Link for Methodology: https://aclanthology.org/2023.sigdial-1.32.pdf
 
 ## Characteristics of Wiki-Dialogue
 
-### Hops and Shapes of the Data
-Hops are..
-Shapes are .. WebNLG 
-#### Movies
+### Movies
 
 |              |                 |       Movies        |                     |                     |     Movie Actor     |                     |
 |--------------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|
@@ -93,9 +90,49 @@ Shapes are .. WebNLG
 | request explanation | 2-3      | review score        | 1-2                 | 2-3                 | name, rating        | 1-2                 |
 | suggest      | 2-3             | name                | 1-2                 | 2-3                 | name                | 1-2                 |
 | verify attribute | 3-4         | name, review score  | 1-2                 | 3-4                 | name, rating        | 1-2                 |
+
+<details>
+<summary>🎬 Movies Optional Slots</summary>
+
+- name  
+- genre  
+- genres  
+- cast member  
+- publication date  
+- producer  
+- screenwriter  
+- director  
+- character  
+- character role  
+- review score  
+- distribution format  
+- MPA rating  
+- specifier  
+- film rating  
+- rating
+
+</details>
+
+<details>
+<summary>🌟 Movie Actors Optional Slots</summary>
+
+- name  
+- sex or gender  
+- date of birth  
+- cast member  
+- spouse  
+- place of birth  
+- height  
+- rating  
+- awards received  
+- specifier  
+- occupation  
+- gender
+
+</details>
  
 
-#### Music  
+### Music  
 |              |                 |       Albums        |                     |                     |     Musician       |                     |                     |     Songs          |                     | 
 |--------------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
 | DA           | Slots           | Mandatory Slots     | Hops                | Slots               | Mandatory Slots     | Hops                | Slots               | Mandatory Slots     | Hops                |
@@ -109,8 +146,64 @@ Shapes are .. WebNLG
 | suggest      | 2-3             | name                | 1                   | 2-3                 | name                | 1-2                 | 2-3                 | name                | 1-2                 |
 | verify attribute | 3-4         | name, rating        | 1                   | 3-4                 | name, rating        | 1-2                 | 3-4                 | name, rating        | 1-2                 |
 
+<details>
+<summary>🎵 Albums Optional Slots</summary>
 
-#### Sports
+- name  
+- genres  
+- contains  
+- record label  
+- performer  
+- publication year  
+- rating  
+- specifier  
+- producer
+
+</details>
+
+<details>
+<summary>🎤 Musicians Optional Slots</summary>
+
+- name  
+- sex or gender  
+- gender  
+- num awards  
+- awards  
+- record label  
+- from album  
+- from  
+- performer of  
+- specifier  
+- rating  
+- date of birth  
+- genres  
+- genre  
+- country of citizenship  
+- award received  
+- performer
+
+</details>
+
+<details>
+<summary>🎶 Songs Optional Slots</summary>
+
+- name  
+- genres  
+- producer  
+- record label  
+- performer  
+- publication year  
+- rating  
+- specifier  
+- from album  
+- genre  
+- part of  
+- publication date  
+- tracklist
+
+</details>
+
+### Sports
 
 |              |                 |        Athlete       |                     |                     |      Sports Team     |                     |
 |--------------|-----------------|----------------------|---------------------|---------------------|----------------------|---------------------|
@@ -125,8 +218,52 @@ Shapes are .. WebNLG
 | suggest      | 2-3             | name                 | 1-2                 | 2-3                 | name                 | 1-2                 |
 | verify attribute | 3-4         | name, rating         | 1-2                 | 3-4                 | name, rating         | 1-2                 |
 
+<details>
+<summary>🏃 Athletes Optional Slots</summary>
 
-#### TV
+- name  
+- team positions  
+- num awards  
+- awards  
+- height  
+- profession start time  
+- sports teams  
+- member of sports  
+- sport  
+- stats leader  
+- date of birth  
+- place of birth  
+- rating  
+- specifier  
+- start time  
+- position played on team / speciality  
+- work period start  
+- statistical leader
+
+</details>
+
+<details>
+<summary>🛡️ Sports Teams Optional Slots</summary>
+
+- name  
+- inception  
+- sport  
+- country  
+- head coach  
+- league  
+- home venue  
+- owned by  
+- headquarters location  
+- players  
+- winners  
+- rating  
+- specifier  
+- member of sports team  
+- winner
+
+</details>
+
+### TV
 
 |              |                 |       TV Actor       |                     |                     |        TV Show       |                     |
 |--------------|-----------------|----------------------|---------------------|---------------------|----------------------|---------------------|
@@ -141,8 +278,47 @@ Shapes are .. WebNLG
 | suggest      | 2-3             | name                 | 1-2                 | 2-3                 | name                 | 1-2                 |
 | verify attribute | 3-4         | name, rating         | 1-2                 | 3-4                 | name, rating         | 1-2                 |
 
+<details>
+<summary>🎭 TV Actors Optional Slots</summary>
 
-#### Board Games
+- name  
+- sex or gender  
+- date of birth  
+- cast member  
+- spouse  
+- place of birth  
+- height  
+- rating  
+- awards received  
+- specifier  
+- occupation  
+- gender
+
+</details>
+
+<details>
+<summary>📺 TV Shows Optional Slots</summary>
+
+- name  
+- genre  
+- genres  
+- cast member  
+- character role  
+- character  
+- screenwriter  
+- awards received  
+- rating  
+- creator  
+- specifier  
+- review score  
+- characters  
+- award received  
+- producer
+
+</details>
+
+
+### Board Games
 
 |              |                 |     Board Games      |                     |
 |--------------|-----------------|----------------------|---------------------|
@@ -157,8 +333,35 @@ Shapes are .. WebNLG
 | suggest      | 2-3             | name                 | 1-2                 |
 | verify attribute | 3-4         | name, average rating | 1-2                 |
 
+<details>
+<summary>🎲 Board Games Optional Slots</summary>
 
-#### Animals
+- name  
+- instance of  
+- genre  
+- genres  
+- publisher  
+- minimum number of players  
+- maximum number of players  
+- publication year  
+- based on  
+- game mechanics  
+- developer  
+- country of origin  
+- average rating  
+- min playing time  
+- max playing time  
+- complexity rating  
+- alternate names  
+- specifier  
+- publication date  
+- rating  
+- minimum playing time  
+- maximum playing time
+
+</details>
+
+### Animals
 
 |              |                 |       Cats        |                     |                     |       Dogs        |                     |                     |    Wild Animals   |                     |
 |--------------|-----------------|-------------------|---------------------|---------------------|------------------|---------------------|---------------------|------------------|-----------------------|
@@ -172,6 +375,91 @@ Shapes are .. WebNLG
 | request explanation | 2-3      | rating            | 1                   | 2-3                 | rating            | 1                   | 2-3                 | popularity        | 1                   |
 | suggest      | 2-3             | name              | 1                   | 2-3                 | name              | 1                   | 2-3                 | name              | 1                   |
 | verify attribute | 3-4         | name, rating      | 1                   | 3-4                 | name, rating      | 1                   | 3-4                 | name, popularity  | 1                   |
+
+<details>
+<summary>🐱 Cats Optional Slots</summary>
+
+- name  
+- rating  
+- min weight  
+- max weight  
+- other pets friendly  
+- family friendly  
+- grooming  
+- intelligence  
+- general health  
+- max life expectancy  
+- stranger friendly  
+- playfulness  
+- specifier  
+- length  
+- origin  
+- min life expectancy  
+- shedding  
+- children friendly  
+- descriptor  
+- meowing
+
+</details>
+
+<details>
+<summary>🐶 Dogs Optional Slots</summary>
+
+- name  
+- ratings  
+- barking  
+- grooming  
+- playfulness  
+- good with children  
+- good with strangers  
+- good with other dogs  
+- energy  
+- max weight male  
+- max life  
+- trainability  
+- max weight female  
+- coat length  
+- protectiveness  
+- drooling  
+- max height male  
+- max height female  
+- shedding  
+- specifier
+
+</details>
+
+<details>
+<summary>🦁 Wild Animals Optional Slots</summary>
+
+- name  
+- diet  
+- weight  
+- gestation period  
+- top speed  
+- estimated population size  
+- locations  
+- group behavior  
+- skin type  
+- habitat  
+- common class  
+- popularity  
+- name of young  
+- most distinctive feature  
+- predators  
+- main prey  
+- height  
+- litter size  
+- other names  
+- color  
+- slogan  
+- lifespan  
+- biggest threat  
+- favorite food  
+- distinctive feature  
+- specifier
+
+</details>
+
 
 #### Art
 
@@ -187,3 +475,34 @@ Shapes are .. WebNLG
 | request explanation | 2-3      | rating              | 1                   | 2-3                 | rating              | 1                   |
 | suggest      | 2-3             | name                | 1                   | 2-3                 | name                | 1                   |
 | verify attribute | 3-4         | name, rating        | 1                   | 3-4                 | name, rating        | 1                   |
+
+<details>
+<summary>🎨 Painters Optional Slots</summary>
+
+- name  
+- genres  
+- movements  
+- life period  
+- nationality  
+- occupations  
+- notable works  
+- rating  
+- specifier
+
+</details>
+
+<details>
+<summary>🖼️ Paintings Optional Slots</summary>
+
+- name  
+- creator  
+- materials  
+- movements  
+- rating  
+- inception  
+- specifier  
+- genres  
+- location
+
+</details>
+
