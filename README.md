@@ -144,8 +144,8 @@ Shapes are .. WebNLG
 
 #### Board Games
 
-|              |                 |     Board Games      |                     |                     |
-|--------------|-----------------|----------------------|---------------------|---------------------|
+|              |                 |     Board Games      |                     |
+|--------------|-----------------|----------------------|---------------------|
 | DA           | Slots           | Mandatory Slots      | Hops                |
 | inform       | 3-8             | name, genres         | 1-3                 |
 | confirm      | 2-3             | name                 | 1                   |
@@ -160,32 +160,30 @@ Shapes are .. WebNLG
 
 #### Animals
 
-|              |       Cats        |                     |                     |       Dogs        |                     |                     |    Wild Animals   |                     |                     |
-|--------------|------------------|---------------------|---------------------|------------------|---------------------|---------------------|------------------|---------------------|---------------------|
-| DA           | Slots            | Mandatory Slots     | Hops                | Slots            | Mandatory Slots     | Hops                | Slots            | Mandatory Slots     | Hops                |
-| inform       | 3-8              | name                | 1                   | 3-8              | name                | 1-3                 | 3-8              | name                | 1-3                 |
-| confirm      | 2-3              | name                | 1                   | 2-3              | name                | 1                   | 2-3              | name                | 1                   |
-| give_opinion | 3-5              | name, rating        | 1                   | 3-5              | name, rating        | 1-3                 | 3-5              | name, popularity     | 1-3                 |
-| recommend    | 2-3              | name                | 1                   | 2-3              | name, rating        | 1-2                 | 2-3              | name, popularity     | 1-2                 |
-| request      | 1-2              | specifier           | 1                   | 1-2              | specifier           | 1                   | 1-2              | specifier           | 1                   |
-| request attribute | 1           | -                   | 1                   | 1                | -                   | 1                   | 1                | -                   | 1                   |
-| request explanation | 2-3       | rating              | 1                   | 2-3              | rating              | 1                   | 2-3              | popularity          | 1                   |
-| suggest      | 2-3              | name                | 1                   | 2-3              | name                | 1                   | 2-3              | name                | 1                   |
-| verify attribute | 3-4          | name, rating        | 1                   | 3-4              | name, rating        | 1                   | 3-4              | name, popularity     | 1                   |
-
+|              |                 |       Cats        |                     |                     |       Dogs        |                     |                     |    Wild Animals   |                     |
+|--------------|-----------------|-------------------|---------------------|---------------------|------------------|---------------------|---------------------|------------------|-----------------------|
+| DA           | Slots           | Mandatory Slots   | Hops                | Slots               | Mandatory Slots   | Hops                | Slots               | Mandatory Slots   | Hops                |
+| inform       | 3-8             | name              | 1                   | 3-8                 | name              | 1-3                 | 3-8                 | name              | 1-3                 |
+| confirm      | 2-3             | name              | 1                   | 2-3                 | name              | 1                   | 2-3                 | name              | 1                   |
+| give_opinion | 3-5             | name, rating      | 1                   | 3-5                 | name, rating      | 1-3                 | 3-5                 | name, popularity  | 1-3                 |
+| recommend    | 2-3             | name              | 1                   | 2-3                 | name, rating      | 1-2                 | 2-3                 | name, popularity  | 1-2                 |
+| request      | 1-2             | specifier         | 1                   | 1-2                 | specifier         | 1                   | 1-2                 | specifier         | 1                   |
+| request attribute | 1          | -                 | 1                   | 1                   | -                 | 1                   | 1                   | -                 | 1                   |
+| request explanation | 2-3      | rating            | 1                   | 2-3                 | rating            | 1                   | 2-3                 | popularity        | 1                   |
+| suggest      | 2-3             | name              | 1                   | 2-3                 | name              | 1                   | 2-3                 | name              | 1                   |
+| verify attribute | 3-4         | name, rating      | 1                   | 3-4                 | name, rating      | 1                   | 3-4                 | name, popularity  | 1                   |
 
 #### Art
 
-|              |       Paintings      |                     |                     |       Painters       |                     |                     |
-|--------------|----------------------|---------------------|---------------------|-----------------------|---------------------|---------------------|
-| DA           | Slots                | Mandatory Slots     | Hops                | Slots                 | Mandatory Slots     | Hops                |
-| inform       | 3-7                  | name, creator       | 1                   | 3-7                   | name, notable works | 1                   |
-| confirm      | 3-4                  | name, creator       | 1                   | 2-3                   | name                | 1                   |
-| give_opinion | 3-4                  | name, rating        | 1                   | 3-4                   | name, rating        | 1                   |
-| recommend    | 3-4                  | name, creator       | 1                   | 2-3                   | name                | 1                   |
-| request      | 1-2                  | specifier           | 1                   | 1-2                   | specifier           | 1                   |
-| request attribute | 1              | -                   | 1                   | 1                     | -                   | 1                   |
-| request explanation | 2-3          | rating              | 1                   | 2-3                   | rating              | 1                   |
-| suggest      | 2-3                  | name                | 1                   | 2-3                   | name                | 1                   |
-| verify attribute | 3-4              | name, rating        | 1                   | 3-4                   | name, rating        | 1                   |
-
+|              |                 |     Paintings       |                     |                     |     Painters        |                     |
+|--------------|-----------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+| DA           | Slots           | Mandatory Slots     | Hops                | Slots               | Mandatory Slots     | Hops                |
+| inform       | 3-7             | name, creator       | 1                   | 3-7                 | name, notable works | 1                   |
+| confirm      | 3-4             | name, creator       | 1                   | 2-3                 | name                | 1                   |
+| give_opinion | 3-4             | name, rating        | 1                   | 3-4                 | name, rating        | 1                   |
+| recommend    | 3-4             | name, creator       | 1                   | 2-3                 | name                | 1                   |
+| request      | 1-2             | specifier           | 1                   | 1-2                 | specifier           | 1                   |
+| request attribute | 1          | -                   | 1                   | 1                   | -                   | 1                   |
+| request explanation | 2-3      | rating              | 1                   | 2-3                 | rating              | 1                   |
+| suggest      | 2-3             | name                | 1                   | 2-3                 | name                | 1                   |
+| verify attribute | 3-4         | name, rating        | 1                   | 3-4                 | name, rating        | 1                   |
