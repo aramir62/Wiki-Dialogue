@@ -22,10 +22,10 @@ The relational triples are  extracted primarily from WikiDATA, except for the An
     - `wiki_dialogue_multihop.csv`: all multi-hop samples.
 
   - **Domain folders**:
-    - `onehop.csv`: all one-hop samples for the domain.
-    - If available:
-      - `multihop.csv`: all multi-hop samples for the domain.
-      - `all.csv`: combined one-hop and multi-hop samples.
+    - A CSV with all one-hop samples for the domain (e.g., `music_domain_one_hop.csv`).
+    - And if there are multi-hop samples in that domain:
+      - A CSV with all multi-hop samples for the domain (e.g., `music_domain_multi_hop.csv`).
+      - A CSV with all the samples for the domain (e.g., `music_domain_all_data.csv`)
 
   - **Entity type folders**:
     - One CSV per entity type and hop type (e.g., `movie_actor_onehop.csv`, `movie_actor_multihop.csv`).
