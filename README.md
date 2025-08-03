@@ -11,9 +11,34 @@ Movies (Movies, Movie Actors), Music (Songs, Albums, Musicians), Sports (Athlete
 For each domain, multiple entity types are covered, so for example for the Music domain, an output utterance can consist of content related to Songs, Albums, or Musicians, where each entity type functions as the head of all the relational triples that the utterance realizes, e.g. (albums genre genre-type). 
 
 The relational triples are  extracted primarily from WikiDATA, except for the Animals domain where the relational triples were extracted from API Ninjas. 
+
+## Repository content
+
+- **Data**: CSV files containing the meaning representation, pseudo-reference, generated text, Dialogue Act (DA), entity type, number of slots, and number of hops. The structure is organized in three levels of folders:
+  
+  - **Main folder**:
+    - `wiki_dialogue_all.csv`: all samples from Wiki-Dialogue (`wikidialogue.csv`).
+    - `wiki_dialogue_onehop.csv`: all one-hop samples (`wikidialogue_one_hop.csv`).
+    - `wiki_dialogue_multihop.csv`: all multi-hop samples (`wikidialogue_multi_hop.csv`).
+
+  - **Domain folders**:
+    - `onehop.csv`: all one-hop samples for the domain.
+    - If available:
+      - `multihop.csv`: all multi-hop samples for the domain.
+      - `all.csv`: combined one-hop and multi-hop samples.
+
+  - **Entity type folders**:
+    - One CSV per entity type and hop type (e.g., `movie_actor_onehop.csv`, `movie_actor_multihop.csv`).
+
+- **Prompts**:
+  - One folder per entity type containing the in-domain prompts used to create Wiki-Dialogue.
+  - A separate folder for **out-of-domain prompts**, based on examples from **ViGGO** (video game dataset).
+
+
+
+
 ## Citation and Paper 
 Creation of Dataset is described in these papers. 
-
 
 
 
