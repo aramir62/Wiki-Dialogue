@@ -17,9 +17,9 @@ The relational triples are  extracted primarily from WikiDATA, except for the An
 - **Data**: CSV files containing the meaning representation, pseudo-reference, generated text, Dialogue Act (DA), entity type, number of slots, and number of hops. The structure is organized in three levels of folders:
   
   - **Main folder**:
-    - `wiki_dialogue_all.csv`: all samples from Wiki-Dialogue (`wikidialogue.csv`).
-    - `wiki_dialogue_onehop.csv`: all one-hop samples (`wikidialogue_one_hop.csv`).
-    - `wiki_dialogue_multihop.csv`: all multi-hop samples (`wikidialogue_multi_hop.csv`).
+    - `wiki_dialogue.csv`: all samples from Wiki-Dialogue.
+    - `wiki_dialogue_onehop.csv`: all one-hop samples.
+    - `wiki_dialogue_multihop.csv`: all multi-hop samples.
 
   - **Domain folders**:
     - `onehop.csv`: all one-hop samples for the domain.
