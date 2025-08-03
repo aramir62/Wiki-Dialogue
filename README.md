@@ -32,7 +32,7 @@ The relational triples are  extracted primarily from WikiDATA, except for the An
 
 - **Prompts**:
   - One folder per entity type containing the in-domain prompts used to create Wiki-Dialogue.
-  - A separate folder for **out-of-domain prompts**, based on examples from **ViGGO** (video game dataset).
+  - A separate folder for **out-of-domain prompts**, with task examples from **ViGGO** (video game dataset).
 
 
 
